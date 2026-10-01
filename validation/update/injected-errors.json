@@ -1,0 +1,46 @@
+[
+  {
+    "order_id": "N00008",
+    "rule": "quantity",
+    "before": "3",
+    "injected": "0"
+  },
+  {
+    "order_id": "N00022",
+    "rule": "sku",
+    "before": "STO01",
+    "injected": "UNKNOWN"
+  },
+  {
+    "order_id": "N00036",
+    "rule": "discount_rate",
+    "before": "0.15",
+    "injected": "1.2"
+  },
+  {
+    "order_id": "N00054",
+    "rule": "order_date",
+    "before": "2025-07-03",
+    "injected": "07/08/2025"
+  },
+  {
+    "order_id": "N00070",
+    "rule": "country",
+    "before": "CA",
+    "injected": ""
+  },
+  {
+    "order_id": "N00082",
+    "rule": "unit_price_usd",
+    "before": "24.99",
+    "injected": ""
+  },
+  {
+    "order_id": "N00097",
+    "rule": "same_key_conflict"
+  },
+  {
+    "order_id": "N00113",
+    "rule": "order_attribute_conflict"
+  }
+]

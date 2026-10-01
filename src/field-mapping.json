@@ -1,0 +1,8 @@
+{
+  "aliases": {"Date": "order_date", "Qty": "quantity", "Unit price": "unit_price_usd"},
+  "categories": {"bedding": "Bedding", "kitchen": "Kitchen", "decor": "Decor", "storage": "Storage", "lighting": "Lighting"},
+  "channels": {"shopify": "Shopify", "amazon": "Amazon"},
+  "countries": ["US", "CA", "UK", "DE"],
+  "customers": {"new": "New", "returning": "Returning"},
+  "traffic": {"organic": "Organic", "paid search": "Paid search", "email": "Email", "direct": "Direct", "marketplace": "Marketplace"}
+}

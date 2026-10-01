@@ -1,0 +1,1 @@
+Screenshots are captured from the real Chromium-rendered project. No generated dashboard pictures. ECharts 5.6.0 is locally redistributed under Apache-2.0. No personal or customer data. Video, if present, is assembled from observed UI frames and is labelled as a walkthrough; it is not an unscripted live customer recording.

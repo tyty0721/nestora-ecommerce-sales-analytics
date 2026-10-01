@@ -1,0 +1,2704 @@
+channel,order_id,line_id,order_date,country,sku,quantity,unit_price_usd,discount_rate,customer_type,traffic_source
+Shopify,N00001,1,2025-07-01,US,DEC04,3,59.99,0.15,Returning,Direct
+Shopify,N00002,1,2025-07-01,US,BED01,2,24.99,0.15,New,Paid search
+Shopify,N00003,1,2025-07-01,DE,STO03,3,59.99,0.10,Returning,Direct
+Shopify,N00004,1,2025-07-01,US,KIT01,3,14.99,0,New,Organic
+Shopify,N00004,2,2025-07-01,US,BED01,1,24.99,0,New,Organic
+Shopify,N00005,1,2025-07-01,US,KIT02,1,79.99,0.10,New,Email
+Shopify,N00006,1,2025-07-01,US,DEC04,1,39.99,0,Returning,Marketplace
+Shopify,N00006,2,2025-07-01,US,DEC01,3,24.99,0.10,Returning,Marketplace
+Shopify,N00007,1,2025-07-01,US,STO03,1,79.99,0,Returning,Email
+Shopify,N00008,1,2025-07-01,US,BED02,1,79.99,0,New,Email
+Shopify,N00008,2,2025-07-01,US,KIT02,3,39.99,0,New,Email
+Shopify,N00009,1,2025-07-01,CA,DEC04,1,39.99,0,Returning,Organic
+Shopify,N00009,2,2025-07-01,CA,STO03,3,79.99,0.15,Returning,Organic
+Shopify,N00010,1,2025-07-01,UK,STO01,2,59.99,0,New,Organic
+Shopify,N00011,1,2025-07-01,CA,KIT01,1,79.99,0.15,New,Paid search
+Shopify,N00011,2,2025-07-01,CA,KIT02,2,59.99,0.10,New,Paid search
+Amazon,N00012,1,2025-07-01,CA,LIG03,2,79.99,0,Returning,Organic
+Amazon,N00013,1,2025-07-01,US,DEC04,3,24.99,0,New,Email
+Amazon,N00014,1,2025-07-01,UK,BED04,1,24.99,0,Returning,Marketplace
+Amazon,N00014,2,2025-07-01,UK,STO03,2,79.99,0.15,Returning,Marketplace
+Amazon,N00015,1,2025-07-01,CA,DEC01,3,14.99,0,Returning,Paid search
+Amazon,N00015,2,2025-07-01,CA,LIG04,2,79.99,0,Returning,Paid search
+Amazon,N00016,1,2025-07-01,US,KIT03,3,39.99,0.15,New,Direct
+Amazon,N00017,1,2025-07-01,UK,BED04,2,59.99,0.15,Returning,Direct
+Amazon,N00018,1,2025-07-01,US,LIG04,3,79.99,0.10,Returning,Marketplace
+Amazon,N00018,2,2025-07-01,US,KIT02,1,39.99,0.15,Returning,Marketplace
+Amazon,N00019,1,2025-07-01,US,BED01,3,39.99,0.10,Returning,Email
+Amazon,N00019,2,2025-07-01,US,KIT02,3,24.99,0,Returning,Email
+Amazon,N00020,1,2025-07-01,US,KIT01,1,24.99,0.15,Returning,Direct
+Amazon,N00021,1,2025-07-01,CA,LIG02,1,79.99,0,New,Direct
+Amazon,N00022,1,2025-07-01,CA,STO01,2,24.99,0.10,New,Direct
+Amazon,N00022,2,2025-07-01,CA,BED03,2,79.99,0.10,New,Direct
+Shopify,N00023,1,2025-07-02,CA,STO01,1,59.99,0,New,Paid search
+Shopify,N00024,1,2025-07-02,DE,STO01,2,59.99,0,Returning,Marketplace
+Shopify,N00024,2,2025-07-02,DE,STO01,2,39.99,0.10,Returning,Marketplace
+Shopify,N00025,1,2025-07-02,CA,BED02,3,14.99,0.10,New,Direct
+Shopify,N00026,1,2025-07-02,US,BED02,3,39.99,0,New,Organic
+Shopify,N00027,1,2025-07-02,UK,STO02,1,79.99,0.10,New,Paid search
+Shopify,N00027,2,2025-07-02,UK,KIT04,3,59.99,0.10,New,Paid search
+Shopify,N00028,1,2025-07-02,UK,LIG02,3,24.99,0.10,New,Paid search
+Shopify,N00029,1,2025-07-02,CA,BED01,1,14.99,0,Returning,Email
+Shopify,N00029,2,2025-07-02,CA,KIT02,2,39.99,0,Returning,Email
+Shopify,N00030,1,2025-07-02,CA,KIT02,2,59.99,0,Returning,Paid search
+Shopify,N00030,2,2025-07-02,CA,LIG01,2,14.99,0.15,Returning,Paid search
+Shopify,N00031,1,2025-07-02,DE,BED02,2,59.99,0,Returning,Paid search
+Shopify,N00032,1,2025-07-02,UK,DEC02,2,39.99,0.15,New,Organic
+Shopify,N00032,2,2025-07-02,UK,DEC02,2,24.99,0,New,Organic
+Shopify,N00033,1,2025-07-02,DE,DEC02,1,79.99,0.15,Returning,Paid search
+Amazon,N00034,1,2025-07-02,CA,DEC04,3,79.99,0.15,New,Marketplace
+Amazon,N00035,1,2025-07-02,CA,STO01,3,14.99,0,New,Paid search
+Amazon,N00036,1,2025-07-02,US,LIG04,2,39.99,0.15,Returning,Marketplace
+Amazon,N00037,1,2025-07-02,US,LIG03,3,24.99,0,New,Email
+Amazon,N00038,1,2025-07-02,UK,KIT04,2,14.99,0.15,Returning,Organic
+Amazon,N00039,1,2025-07-02,UK,DEC02,3,79.99,0,New,Direct
+Amazon,N00040,1,2025-07-02,CA,DEC04,3,14.99,0,New,Paid search
+Amazon,N00041,1,2025-07-02,CA,KIT04,1,39.99,0.10,Returning,Paid search
+Amazon,N00042,1,2025-07-02,CA,LIG01,2,39.99,0,New,Email
+Amazon,N00043,1,2025-07-02,UK,DEC02,1,14.99,0,New,Paid search
+Amazon,N00043,2,2025-07-02,UK,LIG01,2,79.99,0.15,New,Paid search
+Amazon,N00044,1,2025-07-02,US,KIT01,3,24.99,0.10,New,Direct
+Shopify,N00045,1,2025-07-03,US,BED04,2,24.99,0,Returning,Marketplace
+Shopify,N00046,1,2025-07-03,US,STO03,1,24.99,0,New,Direct
+Shopify,N00047,1,2025-07-03,US,LIG04,1,14.99,0,New,Email
+Shopify,N00048,1,2025-07-03,CA,KIT04,3,24.99,0,Returning,Paid search
+Shopify,N00049,1,2025-07-03,CA,DEC04,2,59.99,0,New,Organic
+Shopify,N00049,2,2025-07-03,CA,DEC01,2,59.99,0,New,Organic
+Shopify,N00050,1,2025-07-03,CA,BED01,2,14.99,0.10,New,Organic
+Shopify,N00051,1,2025-07-03,US,DEC02,1,24.99,0,Returning,Email
+Shopify,N00052,1,2025-07-03,US,BED04,3,14.99,0,Returning,Email
+Shopify,N00053,1,2025-07-03,US,KIT02,3,24.99,0.10,Returning,Marketplace
+Shopify,N00054,1,2025-07-03,US,LIG03,3,24.99,0,Returning,Marketplace
+Shopify,N00055,1,2025-07-03,UK,KIT03,2,39.99,0,Returning,Marketplace
+Amazon,N00056,1,2025-07-03,CA,STO02,3,39.99,0,New,Direct
+Amazon,N00056,2,2025-07-03,CA,LIG04,1,14.99,0.10,New,Direct
+Amazon,N00057,1,2025-07-03,DE,KIT01,1,79.99,0.10,New,Organic
+Amazon,N00057,2,2025-07-03,DE,STO01,2,79.99,0,New,Organic
+Amazon,N00058,1,2025-07-03,UK,DEC03,1,39.99,0,Returning,Organic
+Amazon,N00059,1,2025-07-03,US,DEC04,2,79.99,0,Returning,Paid search
+Amazon,N00060,1,2025-07-03,UK,LIG02,1,59.99,0.10,New,Email
+Amazon,N00060,2,2025-07-03,UK,LIG03,2,79.99,0.15,New,Email
+Amazon,N00061,1,2025-07-03,CA,KIT02,1,79.99,0.10,New,Direct
+Amazon,N00062,1,2025-07-03,US,KIT01,3,79.99,0,New,Direct
+Amazon,N00063,1,2025-07-03,CA,LIG03,1,14.99,0.15,Returning,Email
+Amazon,N00063,2,2025-07-03,CA,LIG04,3,39.99,0,Returning,Email
+Amazon,N00064,1,2025-07-03,US,DEC03,3,79.99,0.15,New,Marketplace
+Amazon,N00065,1,2025-07-03,US,BED02,1,79.99,0,New,Paid search
+Amazon,N00066,1,2025-07-03,DE,DEC04,1,79.99,0,New,Email
+Shopify,N00067,1,2025-07-04,UK,LIG03,2,59.99,0.10,New,Paid search
+Shopify,N00068,1,2025-07-04,CA,KIT01,1,14.99,0,New,Email
+Shopify,N00069,1,2025-07-04,US,DEC04,3,59.99,0,New,Direct
+Shopify,N00070,1,2025-07-04,CA,STO02,2,39.99,0,Returning,Email
+Shopify,N00071,1,2025-07-04,US,STO01,2,24.99,0,New,Paid search
+Shopify,N00071,2,2025-07-04,US,BED04,3,14.99,0,New,Paid search
+Shopify,N00072,1,2025-07-04,UK,STO03,3,79.99,0,New,Paid search
+Shopify,N00072,2,2025-07-04,UK,DEC02,2,24.99,0,New,Paid search
+Shopify,N00073,1,2025-07-04,US,DEC02,1,79.99,0,New,Paid search
+Shopify,N00074,1,2025-07-04,CA,BED03,1,79.99,0.15,New,Marketplace
+Shopify,N00074,2,2025-07-04,CA,LIG03,1,79.99,0,New,Marketplace
+Shopify,N00075,1,2025-07-04,UK,STO02,2,24.99,0.10,New,Organic
+Shopify,N00076,1,2025-07-04,UK,LIG01,3,14.99,0.15,New,Direct
+Shopify,N00077,1,2025-07-04,DE,LIG02,3,79.99,0,New,Email
+Shopify,N00077,2,2025-07-04,DE,KIT03,3,14.99,0,New,Email
+Amazon,N00078,1,2025-07-04,US,STO04,3,59.99,0,Returning,Marketplace
+Amazon,N00078,2,2025-07-04,US,LIG02,3,39.99,0.10,Returning,Marketplace
+Amazon,N00079,1,2025-07-04,DE,STO04,1,14.99,0.10,New,Marketplace
+Amazon,N00079,2,2025-07-04,DE,DEC04,2,79.99,0,New,Marketplace
+Amazon,N00080,1,2025-07-04,US,LIG01,1,24.99,0.10,New,Organic
+Amazon,N00081,1,2025-07-04,CA,STO04,2,79.99,0,New,Marketplace
+Amazon,N00081,2,2025-07-04,CA,STO03,1,14.99,0,New,Marketplace
+Amazon,N00082,1,2025-07-04,US,LIG01,2,59.99,0.10,New,Direct
+Amazon,N00082,2,2025-07-04,US,DEC03,1,24.99,0.15,New,Direct
+Amazon,N00083,1,2025-07-04,US,DEC01,2,14.99,0.15,Returning,Marketplace
+Amazon,N00084,1,2025-07-04,CA,LIG02,1,24.99,0,Returning,Direct
+Amazon,N00085,1,2025-07-04,US,STO01,3,14.99,0,Returning,Email
+Amazon,N00086,1,2025-07-04,CA,STO01,1,39.99,0.10,Returning,Paid search
+Amazon,N00087,1,2025-07-04,CA,LIG01,2,79.99,0,New,Email
+Amazon,N00088,1,2025-07-04,CA,KIT02,2,24.99,0,New,Paid search
+Shopify,N00089,1,2025-07-05,CA,STO04,2,79.99,0.15,New,Email
+Shopify,N00089,2,2025-07-05,CA,BED04,3,39.99,0,New,Email
+Shopify,N00090,1,2025-07-05,UK,LIG04,1,14.99,0,New,Paid search
+Shopify,N00090,2,2025-07-05,UK,BED01,3,14.99,0.15,New,Paid search
+Shopify,N00091,1,2025-07-05,UK,LIG02,1,79.99,0,New,Organic
+Shopify,N00091,2,2025-07-05,UK,LIG04,2,79.99,0.15,New,Organic
+Shopify,N00092,1,2025-07-05,UK,STO02,2,14.99,0,Returning,Paid search
+Shopify,N00092,2,2025-07-05,UK,KIT02,3,14.99,0,Returning,Paid search
+Shopify,N00093,1,2025-07-05,US,KIT04,3,59.99,0,Returning,Paid search
+Shopify,N00094,1,2025-07-05,UK,DEC04,1,24.99,0.15,New,Email
+Shopify,N00095,1,2025-07-05,US,DEC03,1,79.99,0,New,Direct
+Shopify,N00095,2,2025-07-05,US,LIG04,2,79.99,0,New,Direct
+Shopify,N00096,1,2025-07-05,DE,LIG04,2,79.99,0,New,Paid search
+Shopify,N00097,1,2025-07-05,DE,KIT02,1,14.99,0,New,Marketplace
+Shopify,N00097,2,2025-07-05,DE,DEC04,2,79.99,0,New,Marketplace
+Shopify,N00098,1,2025-07-05,US,STO01,2,24.99,0,New,Marketplace
+Shopify,N00098,2,2025-07-05,US,LIG04,1,14.99,0.15,New,Marketplace
+Shopify,N00099,1,2025-07-05,UK,DEC01,1,59.99,0.10,Returning,Direct
+Amazon,N00100,1,2025-07-05,DE,STO04,2,14.99,0,New,Direct
+Amazon,N00101,1,2025-07-05,UK,LIG03,2,14.99,0,Returning,Marketplace
+Amazon,N00102,1,2025-07-05,UK,KIT04,1,14.99,0,New,Email
+Amazon,N00102,2,2025-07-05,UK,LIG04,3,59.99,0,New,Email
+Amazon,N00103,1,2025-07-05,CA,DEC02,1,59.99,0.15,Returning,Email
+Amazon,N00104,1,2025-07-05,CA,BED03,3,14.99,0.15,Returning,Marketplace
+Amazon,N00105,1,2025-07-05,US,STO03,2,14.99,0,New,Direct
+Amazon,N00106,1,2025-07-05,UK,STO03,1,14.99,0,New,Email
+Amazon,N00107,1,2025-07-05,UK,DEC01,2,24.99,0,Returning,Marketplace
+Amazon,N00108,1,2025-07-05,UK,KIT01,1,24.99,0.15,New,Organic
+Amazon,N00109,1,2025-07-05,CA,BED01,1,59.99,0.10,Returning,Organic
+Amazon,N00110,1,2025-07-05,US,STO04,2,79.99,0,New,Paid search
+Shopify,N00111,1,2025-07-06,DE,DEC04,1,14.99,0,Returning,Email
+Shopify,N00112,1,2025-07-06,US,DEC03,1,24.99,0,New,Organic
+Shopify,N00112,2,2025-07-06,US,DEC01,3,79.99,0,New,Organic
+Shopify,N00113,1,2025-07-06,CA,DEC04,3,79.99,0,Returning,Paid search
+Shopify,N00114,1,2025-07-06,US,KIT03,1,24.99,0.10,Returning,Direct
+Shopify,N00115,1,2025-07-06,UK,BED01,3,79.99,0.10,Returning,Email
+Shopify,N00115,2,2025-07-06,UK,STO03,2,14.99,0,Returning,Email
+Shopify,N00116,1,2025-07-06,DE,DEC01,3,79.99,0,New,Email
+Shopify,N00117,1,2025-07-06,US,LIG01,1,79.99,0.10,New,Email
+Shopify,N00118,1,2025-07-06,CA,LIG01,3,59.99,0.10,Returning,Marketplace
+Shopify,N00119,1,2025-07-06,US,STO02,1,59.99,0.10,Returning,Direct
+Shopify,N00119,2,2025-07-06,US,KIT03,3,39.99,0,Returning,Direct
+Shopify,N00120,1,2025-07-06,UK,KIT02,2,59.99,0.10,New,Marketplace
+Shopify,N00120,2,2025-07-06,UK,DEC04,1,14.99,0.15,New,Marketplace
+Shopify,N00121,1,2025-07-06,US,DEC02,2,24.99,0.15,New,Email
+Amazon,N00122,1,2025-07-06,US,DEC04,3,24.99,0.15,New,Marketplace
+Amazon,N00122,2,2025-07-06,US,LIG01,3,39.99,0,New,Marketplace
+Amazon,N00123,1,2025-07-06,CA,STO01,3,79.99,0,New,Paid search
+Amazon,N00124,1,2025-07-06,UK,DEC04,1,14.99,0,New,Marketplace
+Amazon,N00125,1,2025-07-06,DE,BED04,1,79.99,0,Returning,Organic
+Amazon,N00125,2,2025-07-06,DE,LIG01,1,39.99,0.15,Returning,Organic
+Amazon,N00126,1,2025-07-06,US,LIG02,1,79.99,0.15,New,Organic
+Amazon,N00127,1,2025-07-06,DE,KIT01,2,14.99,0.15,New,Marketplace
+Amazon,N00128,1,2025-07-06,US,LIG01,2,79.99,0.15,Returning,Organic
+Amazon,N00129,1,2025-07-06,DE,KIT04,1,24.99,0,Returning,Marketplace
+Amazon,N00130,1,2025-07-06,US,LIG02,3,59.99,0.10,Returning,Email
+Amazon,N00131,1,2025-07-06,DE,STO02,3,59.99,0.15,Returning,Email
+Amazon,N00132,1,2025-07-06,CA,BED01,3,59.99,0.15,New,Direct
+Shopify,N00133,1,2025-07-07,DE,BED01,3,24.99,0,Returning,Paid search
+Shopify,N00134,1,2025-07-07,US,KIT01,1,59.99,0.15,Returning,Paid search
+Shopify,N00135,1,2025-07-07,CA,BED02,2,39.99,0.10,New,Paid search
+Shopify,N00136,1,2025-07-07,US,DEC01,2,14.99,0,Returning,Paid search
+Shopify,N00136,2,2025-07-07,US,BED02,2,24.99,0.15,Returning,Paid search
+Shopify,N00137,1,2025-07-07,US,LIG03,3,59.99,0.15,New,Direct
+Shopify,N00137,2,2025-07-07,US,STO03,2,79.99,0.10,New,Direct
+Shopify,N00138,1,2025-07-07,US,STO04,1,14.99,0,Returning,Organic
+Shopify,N00139,1,2025-07-07,CA,KIT04,3,14.99,0,New,Email
+Shopify,N00140,1,2025-07-07,US,KIT02,1,39.99,0,New,Paid search
+Shopify,N00141,1,2025-07-07,US,DEC01,1,79.99,0.10,New,Organic
+Shopify,N00141,2,2025-07-07,US,LIG04,2,39.99,0,New,Organic
+Shopify,N00142,1,2025-07-07,US,LIG03,2,59.99,0.15,Returning,Organic
+Shopify,N00142,2,2025-07-07,US,BED04,2,39.99,0,Returning,Organic
+Shopify,N00143,1,2025-07-07,UK,DEC01,1,39.99,0.10,New,Marketplace
+Amazon,N00144,1,2025-07-07,US,LIG03,1,39.99,0,New,Paid search
+Amazon,N00145,1,2025-07-07,CA,BED04,2,39.99,0.15,Returning,Marketplace
+Amazon,N00146,1,2025-07-07,US,KIT04,2,79.99,0.10,Returning,Organic
+Amazon,N00147,1,2025-07-07,CA,DEC01,3,79.99,0.10,New,Email
+Amazon,N00148,1,2025-07-07,US,BED01,1,39.99,0,Returning,Direct
+Amazon,N00149,1,2025-07-07,US,DEC03,1,24.99,0.15,Returning,Organic
+Amazon,N00150,1,2025-07-07,US,DEC02,2,14.99,0.15,New,Direct
+Amazon,N00151,1,2025-07-07,CA,KIT02,2,39.99,0.15,New,Organic
+Amazon,N00151,2,2025-07-07,CA,BED01,1,39.99,0.10,New,Organic
+Amazon,N00152,1,2025-07-07,US,DEC01,2,39.99,0,New,Marketplace
+Amazon,N00153,1,2025-07-07,UK,DEC04,2,79.99,0,Returning,Email
+Amazon,N00154,1,2025-07-07,US,BED03,1,79.99,0.15,New,Organic
+Shopify,N00155,1,2025-07-08,US,LIG04,1,24.99,0,Returning,Marketplace
+Shopify,N00155,2,2025-07-08,US,BED04,3,24.99,0.10,Returning,Marketplace
+Shopify,N00156,1,2025-07-08,US,KIT01,3,24.99,0.10,New,Marketplace
+Shopify,N00156,2,2025-07-08,US,DEC03,2,14.99,0,New,Marketplace
+Shopify,N00157,1,2025-07-08,DE,STO02,3,39.99,0,New,Paid search
+Shopify,N00158,1,2025-07-08,US,BED03,3,79.99,0.15,New,Marketplace
+Shopify,N00158,2,2025-07-08,US,LIG03,2,39.99,0,New,Marketplace
+Shopify,N00159,1,2025-07-08,US,STO02,3,59.99,0.15,New,Email
+Shopify,N00160,1,2025-07-08,CA,LIG03,3,24.99,0.10,Returning,Paid search
+Shopify,N00161,1,2025-07-08,US,STO03,1,39.99,0,New,Email
+Shopify,N00161,2,2025-07-08,US,STO04,3,24.99,0,New,Email
+Shopify,N00162,1,2025-07-08,US,DEC03,1,79.99,0,Returning,Marketplace
+Shopify,N00163,1,2025-07-08,US,KIT01,3,24.99,0,New,Direct
+Shopify,N00164,1,2025-07-08,US,DEC01,2,59.99,0.10,New,Organic
+Shopify,N00164,2,2025-07-08,US,KIT01,3,39.99,0,New,Organic
+Shopify,N00165,1,2025-07-08,DE,KIT02,2,39.99,0.15,New,Marketplace
+Amazon,N00166,1,2025-07-08,US,LIG03,1,79.99,0,New,Paid search
+Amazon,N00167,1,2025-07-08,DE,DEC01,3,39.99,0.15,New,Organic
+Amazon,N00168,1,2025-07-08,CA,STO03,2,39.99,0.10,New,Paid search
+Amazon,N00169,1,2025-07-08,US,LIG02,3,39.99,0,New,Organic
+Amazon,N00169,2,2025-07-08,US,DEC02,1,59.99,0,New,Organic
+Amazon,N00170,1,2025-07-08,CA,DEC04,1,14.99,0,New,Marketplace
+Amazon,N00170,2,2025-07-08,CA,KIT02,1,24.99,0.10,New,Marketplace
+Amazon,N00171,1,2025-07-08,US,BED01,1,24.99,0.15,New,Organic
+Amazon,N00171,2,2025-07-08,US,KIT01,1,14.99,0.10,New,Organic
+Amazon,N00172,1,2025-07-08,US,BED01,3,24.99,0,Returning,Direct
+Amazon,N00173,1,2025-07-08,UK,STO02,3,14.99,0.15,New,Paid search
+Amazon,N00173,2,2025-07-08,UK,BED02,3,79.99,0.15,New,Paid search
+Amazon,N00174,1,2025-07-08,US,BED02,3,14.99,0.15,Returning,Email
+Amazon,N00175,1,2025-07-08,UK,DEC01,2,24.99,0.15,New,Email
+Amazon,N00175,2,2025-07-08,UK,LIG02,2,39.99,0.10,New,Email
+Amazon,N00176,1,2025-07-08,CA,DEC01,3,59.99,0,Returning,Direct
+Amazon,N00176,2,2025-07-08,CA,STO01,2,59.99,0.10,Returning,Direct
+Shopify,N00177,1,2025-07-09,US,STO01,2,39.99,0,Returning,Paid search
+Shopify,N00178,1,2025-07-09,US,BED01,3,14.99,0,New,Direct
+Shopify,N00179,1,2025-07-09,US,LIG03,3,59.99,0,New,Marketplace
+Shopify,N00180,1,2025-07-09,US,LIG04,1,39.99,0.15,New,Email
+Shopify,N00181,1,2025-07-09,UK,DEC04,1,59.99,0,New,Organic
+Shopify,N00182,1,2025-07-09,CA,DEC02,2,24.99,0,New,Organic
+Shopify,N00182,2,2025-07-09,CA,LIG01,2,39.99,0.15,New,Organic
+Shopify,N00183,1,2025-07-09,DE,LIG01,3,24.99,0.10,New,Paid search
+Shopify,N00183,2,2025-07-09,DE,BED04,3,59.99,0.10,New,Paid search
+Shopify,N00184,1,2025-07-09,US,LIG03,3,59.99,0,New,Marketplace
+Shopify,N00185,1,2025-07-09,DE,BED04,3,39.99,0.15,New,Paid search
+Shopify,N00186,1,2025-07-09,UK,LIG03,3,24.99,0.15,Returning,Marketplace
+Shopify,N00187,1,2025-07-09,US,LIG02,3,59.99,0.15,Returning,Direct
+Amazon,N00188,1,2025-07-09,CA,LIG04,3,59.99,0,Returning,Direct
+Amazon,N00188,2,2025-07-09,CA,BED02,3,24.99,0,Returning,Direct
+Amazon,N00189,1,2025-07-09,DE,LIG04,3,79.99,0.15,Returning,Paid search
+Amazon,N00190,1,2025-07-09,US,DEC04,1,59.99,0,New,Paid search
+Amazon,N00191,1,2025-07-09,DE,LIG02,2,79.99,0,New,Marketplace
+Amazon,N00192,1,2025-07-09,US,KIT04,3,59.99,0,New,Email
+Amazon,N00193,1,2025-07-09,US,STO01,2,79.99,0.10,New,Marketplace
+Amazon,N00193,2,2025-07-09,US,STO02,2,24.99,0.15,New,Marketplace
+Amazon,N00194,1,2025-07-09,DE,STO01,3,59.99,0,New,Email
+Amazon,N00195,1,2025-07-09,CA,DEC01,3,39.99,0.15,New,Marketplace
+Amazon,N00195,2,2025-07-09,CA,LIG04,3,39.99,0.10,New,Marketplace
+Amazon,N00196,1,2025-07-09,DE,DEC01,3,79.99,0.10,New,Email
+Amazon,N00196,2,2025-07-09,DE,BED03,3,14.99,0,New,Email
+Amazon,N00197,1,2025-07-09,DE,KIT01,2,24.99,0,Returning,Organic
+Amazon,N00198,1,2025-07-09,CA,KIT03,3,79.99,0.15,New,Marketplace
+Shopify,N00199,1,2025-07-10,UK,DEC04,1,14.99,0,New,Marketplace
+Shopify,N00200,1,2025-07-10,US,DEC01,1,24.99,0,Returning,Paid search
+Shopify,N00200,2,2025-07-10,US,BED04,2,59.99,0,Returning,Paid search
+Shopify,N00201,1,2025-07-10,UK,STO04,3,14.99,0.15,Returning,Email
+Shopify,N00202,1,2025-07-10,DE,KIT01,1,14.99,0.10,New,Direct
+Shopify,N00203,1,2025-07-10,UK,DEC03,3,79.99,0,New,Marketplace
+Shopify,N00204,1,2025-07-10,UK,KIT02,1,79.99,0,New,Organic
+Shopify,N00205,1,2025-07-10,CA,BED02,2,14.99,0,New,Organic
+Shopify,N00206,1,2025-07-10,US,KIT02,3,14.99,0.10,New,Organic
+Shopify,N00206,2,2025-07-10,US,DEC01,2,39.99,0,New,Organic
+Shopify,N00207,1,2025-07-10,UK,LIG01,2,14.99,0,New,Organic
+Shopify,N00208,1,2025-07-10,US,KIT01,2,24.99,0,New,Email
+Shopify,N00209,1,2025-07-10,UK,LIG03,2,14.99,0,New,Email
+Amazon,N00210,1,2025-07-10,CA,LIG03,1,14.99,0.10,Returning,Organic
+Amazon,N00210,2,2025-07-10,CA,LIG01,1,59.99,0,Returning,Organic
+Amazon,N00211,1,2025-07-10,DE,BED01,3,24.99,0,New,Paid search
+Amazon,N00211,2,2025-07-10,DE,KIT02,2,59.99,0,New,Paid search
+Amazon,N00212,1,2025-07-10,CA,LIG03,3,59.99,0.15,New,Organic
+Amazon,N00213,1,2025-07-10,US,BED01,2,39.99,0.10,New,Marketplace
+Amazon,N00214,1,2025-07-10,US,LIG03,1,39.99,0.15,New,Marketplace
+Amazon,N00215,1,2025-07-10,US,DEC04,2,24.99,0.15,New,Direct
+Amazon,N00216,1,2025-07-10,US,STO02,1,79.99,0,New,Email
+Amazon,N00216,2,2025-07-10,US,LIG04,3,14.99,0.10,New,Email
+Amazon,N00217,1,2025-07-10,US,STO02,3,24.99,0,New,Email
+Amazon,N00217,2,2025-07-10,US,DEC04,2,24.99,0.10,New,Email
+Amazon,N00218,1,2025-07-10,CA,LIG02,3,39.99,0.10,Returning,Direct
+Amazon,N00219,1,2025-07-10,CA,LIG02,1,79.99,0,New,Marketplace
+Amazon,N00220,1,2025-07-10,US,BED03,1,59.99,0,New,Direct
+Shopify,N00221,1,2025-07-11,US,BED04,1,39.99,0,New,Paid search
+Shopify,N00222,1,2025-07-11,DE,DEC03,3,79.99,0.10,New,Direct
+Shopify,N00223,1,2025-07-11,US,LIG02,1,59.99,0.10,Returning,Organic
+Shopify,N00224,1,2025-07-11,US,DEC02,1,59.99,0.15,New,Organic
+Shopify,N00225,1,2025-07-11,US,DEC01,3,39.99,0.10,New,Direct
+Shopify,N00226,1,2025-07-11,CA,BED02,3,39.99,0,New,Organic
+Shopify,N00227,1,2025-07-11,DE,KIT03,2,14.99,0.15,New,Paid search
+Shopify,N00227,2,2025-07-11,DE,LIG02,2,59.99,0,New,Paid search
+Shopify,N00228,1,2025-07-11,US,DEC01,3,39.99,0.10,New,Organic
+Shopify,N00228,2,2025-07-11,US,STO03,1,79.99,0,New,Organic
+Shopify,N00229,1,2025-07-11,US,DEC02,2,14.99,0,Returning,Marketplace
+Shopify,N00229,2,2025-07-11,US,STO03,1,59.99,0.10,Returning,Marketplace
+Shopify,N00230,1,2025-07-11,CA,LIG01,3,24.99,0.10,New,Marketplace
+Shopify,N00231,1,2025-07-11,US,DEC01,3,59.99,0.15,Returning,Direct
+Amazon,N00232,1,2025-07-11,US,DEC01,1,59.99,0.15,New,Paid search
+Amazon,N00232,2,2025-07-11,US,DEC04,3,39.99,0.10,New,Paid search
+Amazon,N00233,1,2025-07-11,US,STO03,3,59.99,0.10,Returning,Email
+Amazon,N00234,1,2025-07-11,CA,STO04,3,14.99,0,Returning,Paid search
+Amazon,N00234,2,2025-07-11,CA,BED01,2,79.99,0.10,Returning,Paid search
+Amazon,N00235,1,2025-07-11,US,STO03,3,24.99,0.10,New,Direct
+Amazon,N00236,1,2025-07-11,UK,KIT04,2,59.99,0.10,New,Email
+Amazon,N00236,2,2025-07-11,UK,DEC03,1,59.99,0,New,Email
+Amazon,N00237,1,2025-07-11,US,DEC04,2,24.99,0,Returning,Email
+Amazon,N00238,1,2025-07-11,US,STO01,2,79.99,0,New,Paid search
+Amazon,N00239,1,2025-07-11,UK,KIT03,1,59.99,0,Returning,Marketplace
+Amazon,N00240,1,2025-07-11,DE,LIG01,1,39.99,0.15,Returning,Email
+Amazon,N00240,2,2025-07-11,DE,STO01,3,79.99,0.10,Returning,Email
+Amazon,N00241,1,2025-07-11,DE,KIT02,1,59.99,0,New,Organic
+Amazon,N00242,1,2025-07-11,US,KIT03,3,39.99,0.15,New,Marketplace
+Amazon,N00242,2,2025-07-11,US,KIT04,2,59.99,0,New,Marketplace
+Shopify,N00243,1,2025-07-12,CA,BED03,1,39.99,0,New,Email
+Shopify,N00244,1,2025-07-12,DE,KIT04,3,59.99,0.10,Returning,Organic
+Shopify,N00245,1,2025-07-12,DE,DEC04,1,79.99,0.10,New,Organic
+Shopify,N00246,1,2025-07-12,US,KIT03,1,39.99,0.15,New,Paid search
+Shopify,N00247,1,2025-07-12,DE,DEC03,1,79.99,0.15,New,Marketplace
+Shopify,N00248,1,2025-07-12,DE,STO03,1,59.99,0,New,Email
+Shopify,N00249,1,2025-07-12,UK,STO03,3,14.99,0,New,Organic
+Shopify,N00250,1,2025-07-12,US,BED02,3,39.99,0.10,Returning,Organic
+Shopify,N00250,2,2025-07-12,US,LIG02,1,14.99,0,Returning,Organic
+Shopify,N00251,1,2025-07-12,US,BED04,1,24.99,0.15,New,Direct
+Shopify,N00252,1,2025-07-12,US,STO01,2,14.99,0,New,Paid search
+Shopify,N00253,1,2025-07-12,US,KIT01,1,79.99,0.10,Returning,Email
+Shopify,N00253,2,2025-07-12,US,BED03,2,59.99,0,Returning,Email
+Amazon,N00254,1,2025-07-12,CA,LIG02,2,24.99,0.15,Returning,Organic
+Amazon,N00255,1,2025-07-12,US,LIG01,1,14.99,0.10,Returning,Organic
+Amazon,N00255,2,2025-07-12,US,KIT02,3,14.99,0,Returning,Organic
+Amazon,N00256,1,2025-07-12,UK,LIG01,2,79.99,0,New,Marketplace
+Amazon,N00257,1,2025-07-12,DE,BED02,2,24.99,0.15,New,Paid search
+Amazon,N00258,1,2025-07-12,DE,LIG04,3,14.99,0.15,New,Direct
+Amazon,N00259,1,2025-07-12,UK,KIT04,2,39.99,0,New,Marketplace
+Amazon,N00260,1,2025-07-12,US,STO04,2,24.99,0.15,New,Marketplace
+Amazon,N00260,2,2025-07-12,US,STO03,2,59.99,0,New,Marketplace
+Amazon,N00261,1,2025-07-12,CA,STO02,1,79.99,0.15,Returning,Email
+Amazon,N00262,1,2025-07-12,US,DEC04,3,14.99,0.10,New,Direct
+Amazon,N00263,1,2025-07-12,UK,KIT02,3,39.99,0.15,New,Email
+Amazon,N00264,1,2025-07-12,US,STO02,3,24.99,0.15,New,Email
+Amazon,N00264,2,2025-07-12,US,BED02,2,14.99,0.15,New,Email
+Shopify,N00265,1,2025-07-13,US,KIT02,1,14.99,0,Returning,Email
+Shopify,N00266,1,2025-07-13,DE,KIT02,3,24.99,0.10,Returning,Email
+Shopify,N00266,2,2025-07-13,DE,DEC02,3,79.99,0.15,Returning,Email
+Shopify,N00267,1,2025-07-13,DE,LIG02,1,79.99,0,New,Email
+Shopify,N00267,2,2025-07-13,DE,STO03,2,59.99,0.10,New,Email
+Shopify,N00268,1,2025-07-13,US,BED04,1,39.99,0.15,New,Paid search
+Shopify,N00269,1,2025-07-13,CA,BED04,2,24.99,0.15,Returning,Paid search
+Shopify,N00270,1,2025-07-13,US,STO03,1,24.99,0.10,Returning,Paid search
+Shopify,N00271,1,2025-07-13,CA,LIG01,1,39.99,0.10,New,Email
+Shopify,N00272,1,2025-07-13,DE,LIG04,3,59.99,0.15,Returning,Email
+Shopify,N00273,1,2025-07-13,US,BED01,1,14.99,0,New,Email
+Shopify,N00273,2,2025-07-13,US,LIG02,2,24.99,0.15,New,Email
+Shopify,N00274,1,2025-07-13,DE,KIT03,3,24.99,0.10,New,Paid search
+Shopify,N00275,1,2025-07-13,US,BED04,1,14.99,0.15,New,Direct
+Amazon,N00276,1,2025-07-13,DE,LIG02,3,24.99,0.15,Returning,Organic
+Amazon,N00277,1,2025-07-13,US,KIT03,3,79.99,0,Returning,Organic
+Amazon,N00278,1,2025-07-13,CA,LIG03,3,39.99,0.15,New,Direct
+Amazon,N00279,1,2025-07-13,US,STO01,3,59.99,0,New,Email
+Amazon,N00279,2,2025-07-13,US,KIT02,1,79.99,0.10,New,Email
+Amazon,N00280,1,2025-07-13,US,STO03,2,79.99,0.10,New,Marketplace
+Amazon,N00281,1,2025-07-13,CA,LIG02,2,39.99,0.10,New,Paid search
+Amazon,N00281,2,2025-07-13,CA,STO03,1,39.99,0.10,New,Paid search
+Amazon,N00282,1,2025-07-13,CA,BED02,1,79.99,0,New,Marketplace
+Amazon,N00282,2,2025-07-13,CA,BED04,1,79.99,0.15,New,Marketplace
+Amazon,N00283,1,2025-07-13,US,STO04,3,59.99,0,Returning,Marketplace
+Amazon,N00284,1,2025-07-13,UK,BED04,1,79.99,0,New,Marketplace
+Amazon,N00285,1,2025-07-13,CA,BED01,1,79.99,0,New,Email
+Amazon,N00286,1,2025-07-13,DE,DEC04,3,24.99,0,New,Email
+Amazon,N00286,2,2025-07-13,DE,BED02,1,24.99,0.10,New,Email
+Shopify,N00287,1,2025-07-14,CA,DEC02,1,59.99,0,New,Direct
+Shopify,N00288,1,2025-07-14,UK,DEC03,1,24.99,0.10,Returning,Email
+Shopify,N00289,1,2025-07-14,CA,BED04,3,39.99,0.15,Returning,Paid search
+Shopify,N00290,1,2025-07-14,US,KIT04,2,24.99,0,Returning,Paid search
+Shopify,N00290,2,2025-07-14,US,STO01,3,39.99,0.15,Returning,Paid search
+Shopify,N00291,1,2025-07-14,DE,KIT03,3,39.99,0.15,New,Paid search
+Shopify,N00292,1,2025-07-14,US,STO02,3,79.99,0.15,New,Paid search
+Shopify,N00293,1,2025-07-14,UK,LIG03,1,14.99,0,New,Organic
+Shopify,N00294,1,2025-07-14,CA,KIT02,1,79.99,0,Returning,Organic
+Shopify,N00295,1,2025-07-14,US,KIT01,3,24.99,0.10,New,Marketplace
+Shopify,N00295,2,2025-07-14,US,STO01,1,24.99,0,New,Marketplace
+Shopify,N00296,1,2025-07-14,US,KIT02,2,24.99,0.10,New,Paid search
+Shopify,N00297,1,2025-07-14,DE,STO04,3,59.99,0.15,New,Direct
+Amazon,N00298,1,2025-07-14,UK,DEC03,3,59.99,0.10,New,Email
+Amazon,N00299,1,2025-07-14,US,LIG04,1,14.99,0,New,Direct
+Amazon,N00300,1,2025-07-14,US,DEC04,1,14.99,0.15,New,Organic
+Amazon,N00300,2,2025-07-14,US,BED03,3,79.99,0,New,Organic
+Amazon,N00301,1,2025-07-14,US,KIT01,3,14.99,0.10,New,Paid search
+Amazon,N00302,1,2025-07-14,US,BED03,3,79.99,0,Returning,Direct
+Amazon,N00303,1,2025-07-14,DE,BED01,1,24.99,0.10,Returning,Marketplace
+Amazon,N00304,1,2025-07-14,CA,KIT02,3,59.99,0,New,Marketplace
+Amazon,N00305,1,2025-07-14,US,KIT02,3,59.99,0.15,New,Email
+Amazon,N00306,1,2025-07-14,CA,KIT02,3,39.99,0,New,Email
+Amazon,N00307,1,2025-07-14,US,KIT03,2,59.99,0,New,Paid search
+Amazon,N00307,2,2025-07-14,US,KIT01,1,79.99,0.10,New,Paid search
+Amazon,N00308,1,2025-07-14,US,KIT03,2,14.99,0.10,New,Direct
+Amazon,N00308,2,2025-07-14,US,KIT02,3,24.99,0,New,Direct
+Shopify,N00309,1,2025-07-15,DE,KIT03,3,39.99,0.15,New,Marketplace
+Shopify,N00310,1,2025-07-15,US,KIT01,1,39.99,0,New,Direct
+Shopify,N00311,1,2025-07-15,CA,KIT04,1,39.99,0,New,Marketplace
+Shopify,N00311,2,2025-07-15,CA,BED03,2,39.99,0,New,Marketplace
+Shopify,N00312,1,2025-07-15,UK,STO02,2,24.99,0.10,New,Paid search
+Shopify,N00313,1,2025-07-15,DE,STO01,3,39.99,0,Returning,Email
+Shopify,N00314,1,2025-07-15,UK,STO01,2,79.99,0.10,Returning,Direct
+Shopify,N00315,1,2025-07-15,US,STO03,2,24.99,0.10,New,Direct
+Shopify,N00316,1,2025-07-15,US,KIT03,1,39.99,0,New,Marketplace
+Shopify,N00317,1,2025-07-15,US,KIT02,1,14.99,0.10,Returning,Marketplace
+Shopify,N00318,1,2025-07-15,UK,BED04,2,79.99,0.10,New,Marketplace
+Shopify,N00319,1,2025-07-15,US,KIT03,2,39.99,0.10,New,Marketplace
+Amazon,N00320,1,2025-07-15,US,BED04,3,14.99,0,Returning,Organic
+Amazon,N00320,2,2025-07-15,US,KIT04,1,59.99,0.10,Returning,Organic
+Amazon,N00321,1,2025-07-15,DE,KIT03,1,59.99,0.15,Returning,Email
+Amazon,N00321,2,2025-07-15,DE,DEC02,3,79.99,0.15,Returning,Email
+Amazon,N00322,1,2025-07-15,UK,BED04,1,59.99,0.10,New,Marketplace
+Amazon,N00323,1,2025-07-15,US,LIG03,2,39.99,0.15,Returning,Direct
+Amazon,N00324,1,2025-07-15,US,STO04,1,14.99,0,New,Marketplace
+Amazon,N00325,1,2025-07-15,US,BED03,2,24.99,0.15,New,Direct
+Amazon,N00326,1,2025-07-15,US,KIT02,1,24.99,0.10,New,Marketplace
+Amazon,N00326,2,2025-07-15,US,KIT02,1,14.99,0,New,Marketplace
+Amazon,N00327,1,2025-07-15,DE,LIG01,1,14.99,0.15,Returning,Direct
+Amazon,N00328,1,2025-07-15,DE,STO02,1,59.99,0,New,Email
+Amazon,N00329,1,2025-07-15,DE,LIG01,2,14.99,0,New,Email
+Amazon,N00330,1,2025-07-15,DE,KIT02,1,39.99,0,New,Email
+Shopify,N00331,1,2025-07-16,DE,STO02,3,14.99,0.10,Returning,Marketplace
+Shopify,N00332,1,2025-07-16,US,KIT02,3,79.99,0,New,Direct
+Shopify,N00332,2,2025-07-16,US,DEC03,3,24.99,0,New,Direct
+Shopify,N00333,1,2025-07-16,US,KIT04,1,79.99,0.10,New,Email
+Shopify,N00334,1,2025-07-16,UK,LIG01,2,59.99,0.15,New,Email
+Shopify,N00335,1,2025-07-16,DE,DEC03,3,59.99,0,New,Organic
+Shopify,N00336,1,2025-07-16,UK,STO02,3,24.99,0.10,New,Email
+Shopify,N00336,2,2025-07-16,UK,LIG04,3,79.99,0,New,Email
+Shopify,N00337,1,2025-07-16,CA,DEC01,2,24.99,0.15,Returning,Direct
+Shopify,N00338,1,2025-07-16,DE,STO02,1,79.99,0.10,Returning,Paid search
+Shopify,N00339,1,2025-07-16,DE,STO01,3,14.99,0,Returning,Direct
+Shopify,N00340,1,2025-07-16,DE,STO02,3,39.99,0,New,Marketplace
+Shopify,N00340,2,2025-07-16,DE,LIG01,1,14.99,0,New,Marketplace
+Shopify,N00341,1,2025-07-16,US,STO01,1,59.99,0,Returning,Marketplace
+Amazon,N00342,1,2025-07-16,DE,LIG01,1,14.99,0.15,Returning,Direct
+Amazon,N00342,2,2025-07-16,DE,BED03,3,79.99,0,Returning,Direct
+Amazon,N00343,1,2025-07-16,US,LIG01,1,39.99,0.15,New,Email
+Amazon,N00344,1,2025-07-16,UK,STO03,2,79.99,0,New,Marketplace
+Amazon,N00345,1,2025-07-16,UK,BED03,3,14.99,0,New,Marketplace
+Amazon,N00346,1,2025-07-16,UK,BED03,3,59.99,0.15,New,Marketplace
+Amazon,N00346,2,2025-07-16,UK,KIT02,3,79.99,0,New,Marketplace
+Amazon,N00347,1,2025-07-16,UK,DEC04,3,24.99,0.10,New,Email
+Amazon,N00348,1,2025-07-16,US,DEC01,1,24.99,0,Returning,Direct
+Amazon,N00349,1,2025-07-16,UK,BED01,1,14.99,0.10,New,Paid search
+Amazon,N00350,1,2025-07-16,CA,BED03,2,24.99,0,Returning,Paid search
+Amazon,N00351,1,2025-07-16,UK,LIG01,3,24.99,0.15,New,Organic
+Amazon,N00352,1,2025-07-16,UK,KIT04,3,14.99,0.15,New,Organic
+Shopify,N00353,1,2025-07-17,US,DEC02,3,39.99,0.15,Returning,Marketplace
+Shopify,N00353,2,2025-07-17,US,LIG03,1,59.99,0.10,Returning,Marketplace
+Shopify,N00354,1,2025-07-17,US,DEC04,3,79.99,0,New,Email
+Shopify,N00354,2,2025-07-17,US,STO01,1,24.99,0.10,New,Email
+Shopify,N00355,1,2025-07-17,US,BED02,3,14.99,0.15,Returning,Direct
+Shopify,N00356,1,2025-07-17,UK,DEC01,2,79.99,0.15,New,Marketplace
+Shopify,N00357,1,2025-07-17,UK,STO04,2,59.99,0,Returning,Paid search
+Shopify,N00357,2,2025-07-17,UK,LIG03,2,59.99,0,Returning,Paid search
+Shopify,N00358,1,2025-07-17,CA,BED01,2,39.99,0,Returning,Organic
+Shopify,N00359,1,2025-07-17,CA,KIT04,1,14.99,0,New,Paid search
+Shopify,N00360,1,2025-07-17,DE,DEC04,2,14.99,0.15,Returning,Organic
+Shopify,N00361,1,2025-07-17,UK,LIG04,3,24.99,0.15,Returning,Marketplace
+Shopify,N00362,1,2025-07-17,US,LIG02,3,24.99,0.15,New,Marketplace
+Shopify,N00363,1,2025-07-17,US,KIT01,2,14.99,0.10,New,Paid search
+Shopify,N00363,2,2025-07-17,US,LIG03,2,24.99,0,New,Paid search
+Amazon,N00364,1,2025-07-17,CA,DEC02,3,39.99,0,Returning,Marketplace
+Amazon,N00365,1,2025-07-17,UK,LIG02,1,59.99,0.10,New,Paid search
+Amazon,N00366,1,2025-07-17,CA,DEC03,2,39.99,0,New,Paid search
+Amazon,N00367,1,2025-07-17,DE,LIG04,1,24.99,0,New,Marketplace
+Amazon,N00368,1,2025-07-17,US,LIG01,3,79.99,0,New,Email
+Amazon,N00369,1,2025-07-17,CA,KIT01,3,79.99,0,New,Organic
+Amazon,N00370,1,2025-07-17,US,BED01,2,39.99,0.15,New,Marketplace
+Amazon,N00371,1,2025-07-17,CA,STO04,1,14.99,0,Returning,Paid search
+Amazon,N00372,1,2025-07-17,DE,LIG03,1,24.99,0.15,New,Marketplace
+Amazon,N00372,2,2025-07-17,DE,STO04,3,14.99,0.10,New,Marketplace
+Amazon,N00373,1,2025-07-17,US,LIG02,1,39.99,0,New,Paid search
+Amazon,N00373,2,2025-07-17,US,STO01,2,14.99,0,New,Paid search
+Amazon,N00374,1,2025-07-17,UK,KIT01,1,59.99,0,New,Email
+Shopify,N00375,1,2025-07-18,UK,LIG03,2,79.99,0.10,New,Direct
+Shopify,N00375,2,2025-07-18,UK,DEC01,2,79.99,0.15,New,Direct
+Shopify,N00376,1,2025-07-18,UK,BED04,3,59.99,0.15,Returning,Paid search
+Shopify,N00376,2,2025-07-18,UK,STO01,2,59.99,0,Returning,Paid search
+Shopify,N00377,1,2025-07-18,CA,DEC02,1,59.99,0.15,New,Organic
+Shopify,N00378,1,2025-07-18,US,LIG03,2,39.99,0,Returning,Organic
+Shopify,N00379,1,2025-07-18,UK,KIT04,1,14.99,0,New,Direct
+Shopify,N00379,2,2025-07-18,UK,STO01,1,79.99,0,New,Direct
+Shopify,N00380,1,2025-07-18,US,DEC01,3,14.99,0.10,Returning,Marketplace
+Shopify,N00381,1,2025-07-18,CA,DEC03,1,59.99,0,Returning,Email
+Shopify,N00382,1,2025-07-18,UK,BED04,1,59.99,0.15,Returning,Email
+Shopify,N00382,2,2025-07-18,UK,BED02,2,59.99,0,Returning,Email
+Shopify,N00383,1,2025-07-18,DE,BED03,1,59.99,0.15,Returning,Paid search
+Shopify,N00383,2,2025-07-18,DE,BED03,3,59.99,0.10,Returning,Paid search
+Shopify,N00384,1,2025-07-18,US,BED03,2,14.99,0,Returning,Direct
+Shopify,N00385,1,2025-07-18,DE,BED03,1,14.99,0,New,Marketplace
+Amazon,N00386,1,2025-07-18,US,DEC04,1,79.99,0.10,New,Marketplace
+Amazon,N00386,2,2025-07-18,US,BED04,3,59.99,0.10,New,Marketplace
+Amazon,N00387,1,2025-07-18,CA,BED04,2,24.99,0.10,New,Organic
+Amazon,N00388,1,2025-07-18,US,DEC01,3,24.99,0.10,New,Email
+Amazon,N00389,1,2025-07-18,US,BED04,1,39.99,0,New,Direct
+Amazon,N00389,2,2025-07-18,US,LIG03,1,59.99,0.10,New,Direct
+Amazon,N00390,1,2025-07-18,CA,BED02,3,79.99,0,Returning,Direct
+Amazon,N00391,1,2025-07-18,DE,KIT04,3,59.99,0.15,New,Organic
+Amazon,N00391,2,2025-07-18,DE,BED04,2,79.99,0,New,Organic
+Amazon,N00392,1,2025-07-18,CA,BED03,1,39.99,0.15,New,Paid search
+Amazon,N00393,1,2025-07-18,US,LIG03,1,79.99,0.10,New,Marketplace
+Amazon,N00393,2,2025-07-18,US,LIG02,2,14.99,0,New,Marketplace
+Amazon,N00394,1,2025-07-18,US,KIT04,1,24.99,0.10,Returning,Paid search
+Amazon,N00394,2,2025-07-18,US,LIG03,1,79.99,0,Returning,Paid search
+Amazon,N00395,1,2025-07-18,DE,BED02,3,14.99,0,New,Paid search
+Amazon,N00396,1,2025-07-18,US,DEC02,1,24.99,0.10,New,Paid search
+Amazon,N00396,2,2025-07-18,US,LIG02,2,24.99,0.15,New,Paid search
+Shopify,N00397,1,2025-07-19,DE,DEC03,2,24.99,0,Returning,Direct
+Shopify,N00398,1,2025-07-19,US,STO03,1,59.99,0.15,New,Marketplace
+Shopify,N00399,1,2025-07-19,CA,KIT02,1,14.99,0.15,New,Organic
+Shopify,N00400,1,2025-07-19,UK,DEC01,1,59.99,0.10,New,Marketplace
+Shopify,N00401,1,2025-07-19,US,STO03,3,79.99,0.10,New,Direct
+Shopify,N00402,1,2025-07-19,CA,LIG03,2,39.99,0,Returning,Marketplace
+Shopify,N00402,2,2025-07-19,CA,BED04,3,59.99,0.10,Returning,Marketplace
+Shopify,N00403,1,2025-07-19,UK,KIT03,2,24.99,0.10,New,Marketplace
+Shopify,N00404,1,2025-07-19,DE,STO01,3,39.99,0.15,Returning,Marketplace
+Shopify,N00404,2,2025-07-19,DE,KIT03,1,79.99,0,Returning,Marketplace
+Shopify,N00405,1,2025-07-19,CA,LIG03,2,14.99,0,Returning,Direct
+Shopify,N00405,2,2025-07-19,CA,KIT02,3,14.99,0,Returning,Direct
+Shopify,N00406,1,2025-07-19,US,KIT02,3,59.99,0,New,Organic
+Shopify,N00407,1,2025-07-19,US,KIT02,2,14.99,0,New,Organic
+Amazon,N00408,1,2025-07-19,US,LIG04,2,79.99,0,New,Marketplace
+Amazon,N00408,2,2025-07-19,US,DEC02,1,59.99,0.10,New,Marketplace
+Amazon,N00409,1,2025-07-19,US,STO01,3,24.99,0,New,Email
+Amazon,N00410,1,2025-07-19,UK,DEC04,3,39.99,0,New,Organic
+Amazon,N00410,2,2025-07-19,UK,DEC02,3,39.99,0.15,New,Organic
+Amazon,N00411,1,2025-07-19,UK,KIT04,3,14.99,0,Returning,Direct
+Amazon,N00411,2,2025-07-19,UK,STO02,2,14.99,0,Returning,Direct
+Amazon,N00412,1,2025-07-19,CA,KIT03,2,24.99,0,New,Email
+Amazon,N00413,1,2025-07-19,CA,STO04,2,24.99,0.15,Returning,Organic
+Amazon,N00413,2,2025-07-19,CA,LIG01,3,39.99,0,Returning,Organic
+Amazon,N00414,1,2025-07-19,DE,KIT01,1,79.99,0,New,Paid search
+Amazon,N00415,1,2025-07-19,UK,LIG01,2,24.99,0.10,New,Marketplace
+Amazon,N00415,2,2025-07-19,UK,BED02,2,24.99,0,New,Marketplace
+Amazon,N00416,1,2025-07-19,UK,DEC01,2,14.99,0,Returning,Organic
+Amazon,N00416,2,2025-07-19,UK,DEC01,3,39.99,0,Returning,Organic
+Amazon,N00417,1,2025-07-19,CA,STO01,3,59.99,0.15,New,Organic
+Amazon,N00418,1,2025-07-19,DE,BED02,3,59.99,0,New,Marketplace
+Shopify,N00419,1,2025-07-20,US,LIG01,1,14.99,0,New,Organic
+Shopify,N00419,2,2025-07-20,US,LIG02,3,24.99,0.15,New,Organic
+Shopify,N00420,1,2025-07-20,US,KIT02,3,59.99,0.10,Returning,Paid search
+Shopify,N00421,1,2025-07-20,DE,STO03,3,79.99,0,New,Organic
+Shopify,N00422,1,2025-07-20,US,LIG03,3,59.99,0,New,Email
+Shopify,N00423,1,2025-07-20,US,STO02,3,24.99,0,Returning,Organic
+Shopify,N00424,1,2025-07-20,DE,DEC04,2,24.99,0.15,New,Paid search
+Shopify,N00425,1,2025-07-20,CA,STO02,3,14.99,0,New,Email
+Shopify,N00425,2,2025-07-20,CA,STO04,2,24.99,0.15,New,Email
+Shopify,N00426,1,2025-07-20,UK,STO03,2,24.99,0,New,Organic
+Shopify,N00426,2,2025-07-20,UK,KIT03,2,14.99,0.15,New,Organic
+Shopify,N00427,1,2025-07-20,CA,KIT03,1,59.99,0.10,New,Paid search
+Shopify,N00428,1,2025-07-20,US,BED01,3,14.99,0.10,New,Organic
+Shopify,N00429,1,2025-07-20,US,STO04,2,79.99,0.10,New,Paid search
+Amazon,N00430,1,2025-07-20,DE,KIT01,2,59.99,0.15,Returning,Organic
+Amazon,N00430,2,2025-07-20,DE,STO04,2,59.99,0.10,Returning,Organic
+Amazon,N00431,1,2025-07-20,UK,KIT04,1,24.99,0.10,Returning,Paid search
+Amazon,N00432,1,2025-07-20,US,STO04,2,14.99,0.15,New,Marketplace
+Amazon,N00433,1,2025-07-20,UK,KIT03,3,59.99,0,Returning,Direct
+Amazon,N00434,1,2025-07-20,CA,DEC02,2,24.99,0,Returning,Organic
+Amazon,N00435,1,2025-07-20,DE,BED01,1,39.99,0.10,Returning,Paid search
+Amazon,N00436,1,2025-07-20,UK,STO02,2,39.99,0.15,Returning,Paid search
+Amazon,N00437,1,2025-07-20,DE,KIT04,1,14.99,0,Returning,Paid search
+Amazon,N00438,1,2025-07-20,DE,STO01,2,39.99,0,New,Paid search
+Amazon,N00438,2,2025-07-20,DE,STO03,3,59.99,0,New,Paid search
+Amazon,N00439,1,2025-07-20,US,STO02,3,39.99,0,New,Paid search
+Amazon,N00440,1,2025-07-20,CA,DEC02,3,14.99,0,New,Email
+Shopify,N00441,1,2025-07-21,US,BED03,1,14.99,0,Returning,Organic
+Shopify,N00441,2,2025-07-21,US,STO04,2,79.99,0,Returning,Organic
+Shopify,N00442,1,2025-07-21,DE,DEC03,2,59.99,0.15,Returning,Organic
+Shopify,N00442,2,2025-07-21,DE,STO04,2,39.99,0,Returning,Organic
+Shopify,N00443,1,2025-07-21,US,BED01,1,39.99,0,New,Email
+Shopify,N00444,1,2025-07-21,US,BED03,3,59.99,0,New,Marketplace
+Shopify,N00445,1,2025-07-21,DE,BED02,1,39.99,0.15,New,Paid search
+Shopify,N00446,1,2025-07-21,DE,KIT04,3,39.99,0,Returning,Email
+Shopify,N00446,2,2025-07-21,DE,KIT03,1,14.99,0.15,Returning,Email
+Shopify,N00447,1,2025-07-21,US,LIG01,3,39.99,0,New,Marketplace
+Shopify,N00448,1,2025-07-21,US,STO03,3,59.99,0.10,New,Organic
+Shopify,N00449,1,2025-07-21,CA,KIT03,3,14.99,0,New,Marketplace
+Shopify,N00450,1,2025-07-21,UK,LIG02,1,59.99,0,Returning,Direct
+Shopify,N00451,1,2025-07-21,US,DEC04,2,39.99,0.10,Returning,Organic
+Shopify,N00451,2,2025-07-21,US,LIG02,3,39.99,0,Returning,Organic
+Amazon,N00452,1,2025-07-21,CA,STO01,3,24.99,0.15,New,Marketplace
+Amazon,N00452,2,2025-07-21,CA,LIG03,1,24.99,0.10,New,Marketplace
+Amazon,N00453,1,2025-07-21,DE,STO02,3,24.99,0.15,New,Email
+Amazon,N00453,2,2025-07-21,DE,BED01,2,39.99,0,New,Email
+Amazon,N00454,1,2025-07-21,US,DEC04,1,59.99,0.10,New,Organic
+Amazon,N00455,1,2025-07-21,CA,STO02,3,79.99,0,New,Marketplace
+Amazon,N00455,2,2025-07-21,CA,STO03,3,24.99,0.15,New,Marketplace
+Amazon,N00456,1,2025-07-21,US,LIG04,3,79.99,0.10,New,Paid search
+Amazon,N00457,1,2025-07-21,US,STO02,2,14.99,0,New,Organic
+Amazon,N00457,2,2025-07-21,US,DEC01,1,79.99,0.15,New,Organic
+Amazon,N00458,1,2025-07-21,US,BED04,1,24.99,0.15,Returning,Email
+Amazon,N00458,2,2025-07-21,US,STO04,1,39.99,0.10,Returning,Email
+Amazon,N00459,1,2025-07-21,UK,KIT04,2,39.99,0.10,Returning,Direct
+Amazon,N00459,2,2025-07-21,UK,LIG02,3,59.99,0,Returning,Direct
+Amazon,N00460,1,2025-07-21,US,KIT02,3,24.99,0.10,New,Organic
+Amazon,N00460,2,2025-07-21,US,STO04,1,39.99,0,New,Organic
+Amazon,N00461,1,2025-07-21,US,DEC01,2,59.99,0.15,New,Organic
+Amazon,N00462,1,2025-07-21,US,LIG02,1,24.99,0.10,New,Organic
+Shopify,N00463,1,2025-07-22,UK,KIT04,3,59.99,0,Returning,Organic
+Shopify,N00463,2,2025-07-22,UK,BED02,1,39.99,0.10,Returning,Organic
+Shopify,N00464,1,2025-07-22,UK,LIG01,3,39.99,0.10,New,Marketplace
+Shopify,N00465,1,2025-07-22,US,DEC02,3,39.99,0,New,Organic
+Shopify,N00466,1,2025-07-22,US,BED02,3,59.99,0,New,Marketplace
+Shopify,N00467,1,2025-07-22,UK,STO01,3,79.99,0,New,Paid search
+Shopify,N00467,2,2025-07-22,UK,DEC01,2,79.99,0.15,New,Paid search
+Shopify,N00468,1,2025-07-22,DE,BED03,1,14.99,0.10,New,Paid search
+Shopify,N00468,2,2025-07-22,DE,STO03,2,79.99,0.15,New,Paid search
+Shopify,N00469,1,2025-07-22,UK,BED04,2,59.99,0.15,Returning,Organic
+Shopify,N00470,1,2025-07-22,DE,KIT03,1,59.99,0.10,Returning,Marketplace
+Shopify,N00471,1,2025-07-22,CA,LIG02,2,39.99,0,New,Marketplace
+Shopify,N00472,1,2025-07-22,UK,DEC04,1,14.99,0.10,Returning,Email
+Shopify,N00473,1,2025-07-22,US,DEC04,3,39.99,0,Returning,Marketplace
+Shopify,N00473,2,2025-07-22,US,LIG03,2,79.99,0,Returning,Marketplace
+Amazon,N00474,1,2025-07-22,US,LIG01,2,39.99,0,Returning,Paid search
+Amazon,N00475,1,2025-07-22,US,BED02,3,59.99,0,New,Direct
+Amazon,N00476,1,2025-07-22,UK,LIG01,2,79.99,0.15,Returning,Email
+Amazon,N00477,1,2025-07-22,US,KIT01,2,39.99,0,New,Organic
+Amazon,N00478,1,2025-07-22,US,DEC03,3,14.99,0.15,New,Organic
+Amazon,N00479,1,2025-07-22,CA,DEC02,3,24.99,0.15,New,Direct
+Amazon,N00480,1,2025-07-22,US,DEC01,3,59.99,0.15,Returning,Organic
+Amazon,N00480,2,2025-07-22,US,BED03,1,14.99,0,Returning,Organic
+Amazon,N00481,1,2025-07-22,US,KIT01,1,79.99,0,New,Direct
+Amazon,N00481,2,2025-07-22,US,BED01,2,59.99,0.10,New,Direct
+Amazon,N00482,1,2025-07-22,US,STO01,2,79.99,0.10,New,Organic
+Amazon,N00483,1,2025-07-22,US,LIG01,1,39.99,0,New,Direct
+Amazon,N00484,1,2025-07-22,US,LIG01,1,14.99,0,New,Email
+Shopify,N00485,1,2025-07-23,US,BED03,2,59.99,0.10,Returning,Organic
+Shopify,N00486,1,2025-07-23,UK,KIT03,1,59.99,0.15,New,Email
+Shopify,N00486,2,2025-07-23,UK,STO02,2,24.99,0.10,New,Email
+Shopify,N00487,1,2025-07-23,CA,LIG01,3,39.99,0.10,Returning,Organic
+Shopify,N00488,1,2025-07-23,US,DEC01,3,39.99,0.10,New,Marketplace
+Shopify,N00489,1,2025-07-23,US,BED01,1,79.99,0,Returning,Direct
+Shopify,N00490,1,2025-07-23,US,STO03,1,59.99,0.15,New,Email
+Shopify,N00491,1,2025-07-23,CA,KIT02,2,39.99,0,New,Organic
+Shopify,N00492,1,2025-07-23,US,LIG03,1,14.99,0.15,New,Email
+Shopify,N00493,1,2025-07-23,DE,STO02,2,14.99,0,New,Organic
+Shopify,N00494,1,2025-07-23,DE,DEC01,3,59.99,0.15,Returning,Organic
+Shopify,N00494,2,2025-07-23,DE,DEC03,1,24.99,0.10,Returning,Organic
+Shopify,N00495,1,2025-07-23,US,LIG03,2,59.99,0,Returning,Marketplace
+Shopify,N00495,2,2025-07-23,US,KIT02,3,39.99,0.15,Returning,Marketplace
+Amazon,N00496,1,2025-07-23,UK,BED02,1,24.99,0,New,Email
+Amazon,N00497,1,2025-07-23,CA,KIT04,1,39.99,0.10,New,Email
+Amazon,N00498,1,2025-07-23,US,BED01,1,59.99,0.10,New,Direct
+Amazon,N00499,1,2025-07-23,CA,STO04,1,24.99,0,New,Organic
+Amazon,N00499,2,2025-07-23,CA,BED02,3,79.99,0.15,New,Organic
+Amazon,N00500,1,2025-07-23,DE,BED01,1,79.99,0.15,Returning,Direct
+Amazon,N00501,1,2025-07-23,UK,BED02,2,14.99,0.10,Returning,Organic
+Amazon,N00502,1,2025-07-23,US,KIT04,2,14.99,0.10,Returning,Paid search
+Amazon,N00503,1,2025-07-23,DE,DEC01,3,24.99,0.15,New,Email
+Amazon,N00503,2,2025-07-23,DE,DEC03,2,59.99,0,New,Email
+Amazon,N00504,1,2025-07-23,DE,DEC02,2,14.99,0.15,Returning,Paid search
+Amazon,N00505,1,2025-07-23,UK,LIG03,3,59.99,0.10,New,Marketplace
+Amazon,N00506,1,2025-07-23,US,DEC01,2,14.99,0.15,New,Organic
+Amazon,N00506,2,2025-07-23,US,LIG04,1,24.99,0.15,New,Organic
+Shopify,N00507,1,2025-07-24,US,BED01,2,39.99,0.10,New,Organic
+Shopify,N00507,2,2025-07-24,US,BED04,1,39.99,0,New,Organic
+Shopify,N00508,1,2025-07-24,DE,LIG02,1,59.99,0.10,New,Email
+Shopify,N00509,1,2025-07-24,CA,LIG03,3,59.99,0,New,Email
+Shopify,N00509,2,2025-07-24,CA,LIG04,1,24.99,0.15,New,Email
+Shopify,N00510,1,2025-07-24,CA,KIT01,2,24.99,0.10,Returning,Marketplace
+Shopify,N00511,1,2025-07-24,US,LIG02,3,14.99,0.10,Returning,Email
+Shopify,N00511,2,2025-07-24,US,LIG02,2,39.99,0,Returning,Email
+Shopify,N00512,1,2025-07-24,UK,DEC04,2,24.99,0.15,Returning,Email
+Shopify,N00513,1,2025-07-24,US,KIT02,3,24.99,0,New,Paid search
+Shopify,N00513,2,2025-07-24,US,LIG01,3,39.99,0.10,New,Paid search
+Shopify,N00514,1,2025-07-24,US,STO04,2,14.99,0.15,New,Paid search
+Shopify,N00515,1,2025-07-24,US,DEC02,2,79.99,0,New,Marketplace
+Shopify,N00516,1,2025-07-24,US,BED02,2,14.99,0,Returning,Marketplace
+Shopify,N00517,1,2025-07-24,US,LIG02,3,59.99,0.15,New,Organic
+Shopify,N00517,2,2025-07-24,US,BED04,2,39.99,0,New,Organic
+Amazon,N00518,1,2025-07-24,DE,KIT04,2,79.99,0,Returning,Marketplace
+Amazon,N00519,1,2025-07-24,CA,BED04,1,14.99,0.10,New,Email
+Amazon,N00520,1,2025-07-24,CA,LIG01,1,14.99,0,Returning,Paid search
+Amazon,N00520,2,2025-07-24,CA,LIG02,1,79.99,0,Returning,Paid search
+Amazon,N00521,1,2025-07-24,UK,STO04,2,24.99,0,Returning,Marketplace
+Amazon,N00522,1,2025-07-24,US,BED01,2,14.99,0,New,Marketplace
+Amazon,N00523,1,2025-07-24,US,KIT03,3,59.99,0,New,Paid search
+Amazon,N00524,1,2025-07-24,DE,STO02,1,39.99,0.15,New,Direct
+Amazon,N00525,1,2025-07-24,UK,LIG04,2,59.99,0.15,New,Organic
+Amazon,N00526,1,2025-07-24,UK,STO02,2,24.99,0.15,New,Marketplace
+Amazon,N00527,1,2025-07-24,US,DEC01,3,79.99,0,Returning,Email
+Amazon,N00528,1,2025-07-24,UK,STO01,3,14.99,0,New,Marketplace
+Amazon,N00528,2,2025-07-24,UK,KIT03,2,59.99,0.10,New,Marketplace
+Shopify,N00529,1,2025-07-25,CA,BED04,1,24.99,0.15,New,Direct
+Shopify,N00530,1,2025-07-25,US,STO03,2,24.99,0,Returning,Organic
+Shopify,N00530,2,2025-07-25,US,STO03,3,24.99,0.15,Returning,Organic
+Shopify,N00531,1,2025-07-25,DE,BED02,2,59.99,0.10,New,Paid search
+Shopify,N00531,2,2025-07-25,DE,LIG03,3,59.99,0.15,New,Paid search
+Shopify,N00532,1,2025-07-25,DE,LIG04,1,14.99,0.10,New,Direct
+Shopify,N00532,2,2025-07-25,DE,LIG03,3,59.99,0,New,Direct
+Shopify,N00533,1,2025-07-25,CA,KIT01,3,59.99,0,New,Marketplace
+Shopify,N00534,1,2025-07-25,US,BED01,2,59.99,0,New,Paid search
+Shopify,N00535,1,2025-07-25,US,STO02,1,59.99,0,New,Email
+Shopify,N00536,1,2025-07-25,US,BED04,1,14.99,0,Returning,Marketplace
+Shopify,N00536,2,2025-07-25,US,KIT04,1,24.99,0,Returning,Marketplace
+Shopify,N00537,1,2025-07-25,CA,DEC01,3,14.99,0,New,Email
+Shopify,N00538,1,2025-07-25,UK,BED04,1,24.99,0,New,Paid search
+Shopify,N00539,1,2025-07-25,US,KIT02,3,39.99,0.15,New,Paid search
+Amazon,N00540,1,2025-07-25,UK,LIG02,2,59.99,0.10,New,Paid search
+Amazon,N00541,1,2025-07-25,DE,KIT02,2,24.99,0.10,New,Email
+Amazon,N00541,2,2025-07-25,DE,LIG04,1,14.99,0,New,Email
+Amazon,N00542,1,2025-07-25,US,STO04,2,14.99,0,New,Organic
+Amazon,N00543,1,2025-07-25,CA,DEC02,1,24.99,0,New,Organic
+Amazon,N00544,1,2025-07-25,US,STO03,2,39.99,0.10,New,Paid search
+Amazon,N00545,1,2025-07-25,DE,STO01,2,59.99,0.15,New,Email
+Amazon,N00545,2,2025-07-25,DE,DEC02,1,39.99,0.15,New,Email
+Amazon,N00546,1,2025-07-25,UK,LIG01,1,79.99,0,Returning,Direct
+Amazon,N00547,1,2025-07-25,CA,STO01,1,39.99,0,New,Direct
+Amazon,N00548,1,2025-07-25,US,LIG02,3,14.99,0.15,Returning,Email
+Amazon,N00549,1,2025-07-25,US,STO02,3,59.99,0.10,New,Direct
+Amazon,N00550,1,2025-07-25,CA,BED02,1,24.99,0,Returning,Marketplace
+Shopify,N00551,1,2025-07-26,US,BED04,1,14.99,0,Returning,Organic
+Shopify,N00552,1,2025-07-26,DE,STO01,3,14.99,0,Returning,Direct
+Shopify,N00553,1,2025-07-26,UK,LIG03,2,59.99,0,Returning,Paid search
+Shopify,N00554,1,2025-07-26,UK,DEC03,1,59.99,0.15,New,Marketplace
+Shopify,N00555,1,2025-07-26,UK,BED01,1,39.99,0,New,Direct
+Shopify,N00556,1,2025-07-26,US,BED04,3,59.99,0.10,New,Direct
+Shopify,N00557,1,2025-07-26,CA,KIT02,2,39.99,0.10,New,Email
+Shopify,N00558,1,2025-07-26,US,STO04,2,79.99,0.15,New,Organic
+Shopify,N00559,1,2025-07-26,DE,KIT03,1,79.99,0,New,Marketplace
+Shopify,N00560,1,2025-07-26,UK,STO04,3,24.99,0.10,New,Direct
+Shopify,N00561,1,2025-07-26,DE,KIT01,3,24.99,0.10,New,Paid search
+Amazon,N00562,1,2025-07-26,CA,LIG04,2,14.99,0.10,New,Direct
+Amazon,N00563,1,2025-07-26,DE,LIG03,3,14.99,0.10,New,Paid search
+Amazon,N00564,1,2025-07-26,DE,KIT01,2,14.99,0,New,Email
+Amazon,N00564,2,2025-07-26,DE,DEC03,3,59.99,0,New,Email
+Amazon,N00565,1,2025-07-26,US,STO01,3,39.99,0.10,New,Marketplace
+Amazon,N00565,2,2025-07-26,US,STO02,1,39.99,0.10,New,Marketplace
+Amazon,N00566,1,2025-07-26,DE,KIT02,3,79.99,0.15,New,Email
+Amazon,N00567,1,2025-07-26,CA,STO04,2,79.99,0,New,Paid search
+Amazon,N00568,1,2025-07-26,CA,KIT01,3,79.99,0,New,Marketplace
+Amazon,N00569,1,2025-07-26,US,LIG04,1,14.99,0,Returning,Paid search
+Amazon,N00570,1,2025-07-26,US,STO04,1,79.99,0.15,New,Marketplace
+Amazon,N00571,1,2025-07-26,UK,STO01,2,24.99,0.10,New,Organic
+Amazon,N00571,2,2025-07-26,UK,LIG01,1,79.99,0,New,Organic
+Amazon,N00572,1,2025-07-26,CA,LIG02,1,39.99,0,New,Organic
+Shopify,N00573,1,2025-07-27,US,BED03,3,14.99,0.10,New,Paid search
+Shopify,N00573,2,2025-07-27,US,KIT03,2,14.99,0.10,New,Paid search
+Shopify,N00574,1,2025-07-27,US,KIT02,2,39.99,0.15,Returning,Paid search
+Shopify,N00574,2,2025-07-27,US,DEC01,2,14.99,0,Returning,Paid search
+Shopify,N00575,1,2025-07-27,UK,BED04,2,39.99,0.10,New,Paid search
+Shopify,N00576,1,2025-07-27,DE,DEC04,3,24.99,0,New,Email
+Shopify,N00577,1,2025-07-27,DE,KIT01,2,59.99,0.10,New,Direct
+Shopify,N00578,1,2025-07-27,DE,BED02,1,79.99,0,New,Organic
+Shopify,N00579,1,2025-07-27,UK,LIG01,1,79.99,0,New,Direct
+Shopify,N00580,1,2025-07-27,DE,DEC03,2,39.99,0.10,New,Organic
+Shopify,N00581,1,2025-07-27,US,BED03,2,14.99,0,Returning,Marketplace
+Shopify,N00582,1,2025-07-27,CA,LIG03,1,39.99,0,New,Email
+Shopify,N00583,1,2025-07-27,UK,STO03,2,24.99,0,New,Paid search
+Shopify,N00583,2,2025-07-27,UK,KIT01,2,59.99,0,New,Paid search
+Amazon,N00584,1,2025-07-27,CA,KIT02,1,79.99,0,New,Organic
+Amazon,N00584,2,2025-07-27,CA,KIT04,3,14.99,0,New,Organic
+Amazon,N00585,1,2025-07-27,CA,BED04,3,14.99,0.10,Returning,Direct
+Amazon,N00585,2,2025-07-27,CA,STO01,1,59.99,0.10,Returning,Direct
+Amazon,N00586,1,2025-07-27,UK,LIG02,2,79.99,0,New,Paid search
+Amazon,N00587,1,2025-07-27,CA,STO04,2,24.99,0,New,Email
+Amazon,N00588,1,2025-07-27,DE,BED02,3,39.99,0,New,Paid search
+Amazon,N00589,1,2025-07-27,DE,LIG02,1,24.99,0.15,New,Direct
+Amazon,N00590,1,2025-07-27,DE,LIG03,2,24.99,0,Returning,Direct
+Amazon,N00591,1,2025-07-27,DE,KIT02,1,39.99,0,New,Paid search
+Amazon,N00591,2,2025-07-27,DE,DEC02,1,39.99,0.10,New,Paid search
+Amazon,N00592,1,2025-07-27,DE,BED01,1,79.99,0.10,New,Email
+Amazon,N00593,1,2025-07-27,US,LIG01,3,14.99,0.15,New,Paid search
+Amazon,N00593,2,2025-07-27,US,BED01,1,39.99,0,New,Paid search
+Amazon,N00594,1,2025-07-27,UK,LIG04,1,79.99,0.15,Returning,Organic
+Amazon,N00594,2,2025-07-27,UK,BED02,2,79.99,0,Returning,Organic
+Shopify,N00595,1,2025-07-28,CA,STO04,2,24.99,0,New,Direct
+Shopify,N00596,1,2025-07-28,US,STO04,2,14.99,0.15,Returning,Direct
+Shopify,N00596,2,2025-07-28,US,STO02,3,59.99,0.15,Returning,Direct
+Shopify,N00597,1,2025-07-28,CA,KIT03,2,79.99,0.10,New,Direct
+Shopify,N00597,2,2025-07-28,CA,STO02,1,79.99,0,New,Direct
+Shopify,N00598,1,2025-07-28,US,STO01,2,24.99,0.10,New,Organic
+Shopify,N00598,2,2025-07-28,US,LIG04,3,59.99,0,New,Organic
+Shopify,N00599,1,2025-07-28,US,KIT03,1,59.99,0.15,Returning,Direct
+Shopify,N00600,1,2025-07-28,US,LIG02,2,14.99,0.10,New,Direct
+Shopify,N00601,1,2025-07-28,US,KIT01,2,39.99,0,New,Organic
+Shopify,N00602,1,2025-07-28,CA,LIG03,1,39.99,0,Returning,Paid search
+Shopify,N00603,1,2025-07-28,CA,BED03,1,79.99,0,New,Email
+Shopify,N00603,2,2025-07-28,CA,BED04,1,79.99,0.10,New,Email
+Shopify,N00604,1,2025-07-28,CA,LIG01,3,39.99,0,New,Direct
+Shopify,N00605,1,2025-07-28,CA,BED03,1,79.99,0.10,New,Paid search
+Amazon,N00606,1,2025-07-28,US,STO03,2,24.99,0,Returning,Direct
+Amazon,N00607,1,2025-07-28,US,BED03,1,14.99,0.10,New,Organic
+Amazon,N00607,2,2025-07-28,US,DEC01,3,14.99,0,New,Organic
+Amazon,N00608,1,2025-07-28,UK,KIT01,2,79.99,0.10,New,Organic
+Amazon,N00609,1,2025-07-28,US,BED04,2,24.99,0,Returning,Email
+Amazon,N00610,1,2025-07-28,DE,BED02,3,14.99,0,Returning,Email
+Amazon,N00611,1,2025-07-28,CA,STO03,2,39.99,0,New,Direct
+Amazon,N00612,1,2025-07-28,CA,BED02,3,59.99,0.15,New,Email
+Amazon,N00612,2,2025-07-28,CA,STO01,3,24.99,0.15,New,Email
+Amazon,N00613,1,2025-07-28,US,LIG02,3,14.99,0.15,New,Paid search
+Amazon,N00613,2,2025-07-28,US,KIT01,1,14.99,0.15,New,Paid search
+Amazon,N00614,1,2025-07-28,CA,KIT03,3,14.99,0,New,Organic
+Amazon,N00615,1,2025-07-28,DE,STO04,1,39.99,0,Returning,Direct
+Amazon,N00616,1,2025-07-28,UK,STO02,3,79.99,0.10,New,Organic
+Shopify,N00617,1,2025-07-29,DE,LIG01,3,14.99,0,New,Paid search
+Shopify,N00618,1,2025-07-29,US,STO02,3,79.99,0,Returning,Organic
+Shopify,N00619,1,2025-07-29,US,KIT02,3,24.99,0,Returning,Email
+Shopify,N00620,1,2025-07-29,DE,STO03,2,14.99,0.10,New,Organic
+Shopify,N00620,2,2025-07-29,DE,DEC02,2,79.99,0,New,Organic
+Shopify,N00621,1,2025-07-29,CA,DEC02,2,59.99,0,New,Email
+Shopify,N00622,1,2025-07-29,UK,STO03,3,24.99,0.15,New,Marketplace
+Shopify,N00623,1,2025-07-29,US,BED03,3,59.99,0.15,New,Organic
+Shopify,N00624,1,2025-07-29,US,STO02,3,79.99,0.15,New,Paid search
+Shopify,N00625,1,2025-07-29,DE,STO01,2,79.99,0.15,New,Organic
+Shopify,N00626,1,2025-07-29,US,KIT04,3,14.99,0,New,Paid search
+Shopify,N00627,1,2025-07-29,CA,LIG01,1,39.99,0,New,Direct
+Amazon,N00628,1,2025-07-29,CA,LIG04,3,59.99,0.10,New,Paid search
+Amazon,N00628,2,2025-07-29,CA,DEC01,3,79.99,0.10,New,Paid search
+Amazon,N00629,1,2025-07-29,UK,DEC04,3,79.99,0.15,Returning,Email
+Amazon,N00630,1,2025-07-29,US,LIG01,2,59.99,0.10,New,Organic
+Amazon,N00631,1,2025-07-29,US,KIT04,2,14.99,0,New,Direct
+Amazon,N00631,2,2025-07-29,US,DEC04,1,39.99,0.15,New,Direct
+Amazon,N00632,1,2025-07-29,US,DEC03,3,79.99,0,New,Email
+Amazon,N00633,1,2025-07-29,UK,BED03,1,39.99,0.10,Returning,Direct
+Amazon,N00634,1,2025-07-29,US,LIG01,2,59.99,0.10,New,Email
+Amazon,N00635,1,2025-07-29,US,KIT01,2,79.99,0,New,Direct
+Amazon,N00635,2,2025-07-29,US,DEC04,1,79.99,0.15,New,Direct
+Amazon,N00636,1,2025-07-29,DE,LIG02,2,14.99,0.10,New,Paid search
+Amazon,N00637,1,2025-07-29,DE,STO04,2,14.99,0,New,Direct
+Amazon,N00638,1,2025-07-29,DE,DEC03,1,39.99,0,New,Email
+Shopify,N00639,1,2025-07-30,US,STO02,1,14.99,0,New,Organic
+Shopify,N00640,1,2025-07-30,US,DEC03,3,59.99,0,New,Organic
+Shopify,N00641,1,2025-07-30,UK,STO01,3,24.99,0.10,New,Marketplace
+Shopify,N00641,2,2025-07-30,UK,KIT02,2,39.99,0,New,Marketplace
+Shopify,N00642,1,2025-07-30,US,LIG03,3,39.99,0,New,Email
+Shopify,N00643,1,2025-07-30,US,STO04,2,14.99,0,New,Organic
+Shopify,N00643,2,2025-07-30,US,LIG01,3,59.99,0,New,Organic
+Shopify,N00644,1,2025-07-30,US,KIT03,3,24.99,0.10,New,Organic
+Shopify,N00645,1,2025-07-30,US,STO04,3,59.99,0,Returning,Email
+Shopify,N00645,2,2025-07-30,US,DEC03,3,14.99,0.15,Returning,Email
+Shopify,N00646,1,2025-07-30,CA,LIG04,1,14.99,0,Returning,Paid search
+Shopify,N00647,1,2025-07-30,UK,DEC02,1,24.99,0.10,Returning,Direct
+Shopify,N00648,1,2025-07-30,UK,DEC04,1,59.99,0.10,New,Organic
+Shopify,N00649,1,2025-07-30,US,DEC03,2,14.99,0.10,New,Direct
+Amazon,N00650,1,2025-07-30,US,LIG04,1,59.99,0.15,New,Marketplace
+Amazon,N00651,1,2025-07-30,DE,LIG04,3,79.99,0,New,Organic
+Amazon,N00651,2,2025-07-30,DE,KIT01,3,79.99,0.10,New,Organic
+Amazon,N00652,1,2025-07-30,DE,LIG03,3,59.99,0.10,New,Marketplace
+Amazon,N00652,2,2025-07-30,DE,KIT04,3,24.99,0,New,Marketplace
+Amazon,N00653,1,2025-07-30,US,BED04,1,14.99,0,Returning,Organic
+Amazon,N00654,1,2025-07-30,DE,DEC04,1,14.99,0.10,Returning,Organic
+Amazon,N00654,2,2025-07-30,DE,KIT02,2,14.99,0,Returning,Organic
+Amazon,N00655,1,2025-07-30,DE,LIG04,2,59.99,0,New,Marketplace
+Amazon,N00655,2,2025-07-30,DE,STO02,2,39.99,0.10,New,Marketplace
+Amazon,N00656,1,2025-07-30,DE,BED04,1,24.99,0.15,New,Email
+Amazon,N00657,1,2025-07-30,US,KIT04,2,39.99,0,New,Organic
+Amazon,N00657,2,2025-07-30,US,LIG02,2,24.99,0.10,New,Organic
+Amazon,N00658,1,2025-07-30,UK,STO03,3,24.99,0,New,Email
+Amazon,N00659,1,2025-07-30,US,BED02,2,24.99,0.15,New,Marketplace
+Amazon,N00660,1,2025-07-30,US,STO02,2,14.99,0,New,Direct
+Amazon,N00660,2,2025-07-30,US,KIT01,3,14.99,0,New,Direct
+Shopify,N00661,1,2025-07-31,DE,KIT04,3,59.99,0.15,New,Paid search
+Shopify,N00662,1,2025-07-31,CA,LIG01,3,39.99,0,Returning,Organic
+Shopify,N00662,2,2025-07-31,CA,DEC03,2,59.99,0,Returning,Organic
+Shopify,N00663,1,2025-07-31,US,DEC01,2,79.99,0.15,Returning,Marketplace
+Shopify,N00664,1,2025-07-31,DE,BED03,1,59.99,0.15,Returning,Marketplace
+Shopify,N00665,1,2025-07-31,UK,STO02,2,24.99,0,New,Email
+Shopify,N00665,2,2025-07-31,UK,BED01,2,59.99,0.10,New,Email
+Shopify,N00666,1,2025-07-31,DE,KIT04,3,59.99,0.15,Returning,Organic
+Shopify,N00666,2,2025-07-31,DE,KIT03,1,14.99,0.15,Returning,Organic
+Shopify,N00667,1,2025-07-31,UK,DEC01,3,39.99,0,Returning,Email
+Shopify,N00667,2,2025-07-31,UK,KIT03,2,79.99,0.10,Returning,Email
+Shopify,N00668,1,2025-07-31,UK,LIG03,2,39.99,0.10,New,Paid search
+Shopify,N00669,1,2025-07-31,US,DEC04,3,14.99,0.15,New,Email
+Shopify,N00670,1,2025-07-31,US,KIT04,2,39.99,0,New,Direct
+Shopify,N00671,1,2025-07-31,US,STO02,2,79.99,0,Returning,Organic
+Shopify,N00671,2,2025-07-31,US,DEC03,1,59.99,0,Returning,Organic
+Amazon,N00672,1,2025-07-31,US,STO01,3,14.99,0.10,New,Email
+Amazon,N00673,1,2025-07-31,US,BED01,2,39.99,0,Returning,Direct
+Amazon,N00674,1,2025-07-31,CA,BED02,1,14.99,0,Returning,Marketplace
+Amazon,N00675,1,2025-07-31,DE,LIG02,1,24.99,0.10,Returning,Email
+Amazon,N00676,1,2025-07-31,DE,DEC02,3,24.99,0.15,New,Paid search
+Amazon,N00677,1,2025-07-31,CA,KIT02,1,24.99,0.10,New,Organic
+Amazon,N00678,1,2025-07-31,UK,STO02,2,24.99,0.15,New,Marketplace
+Amazon,N00679,1,2025-07-31,CA,LIG01,3,39.99,0,New,Email
+Amazon,N00680,1,2025-07-31,US,LIG01,2,24.99,0,New,Marketplace
+Amazon,N00681,1,2025-07-31,CA,LIG04,1,39.99,0,New,Organic
+Amazon,N00682,1,2025-07-31,DE,STO02,1,79.99,0,Returning,Email
+Shopify,N00683,1,2025-08-01,UK,DEC04,3,59.99,0,New,Direct
+Shopify,N00684,1,2025-08-01,CA,BED03,1,39.99,0,New,Paid search
+Shopify,N00685,1,2025-08-01,CA,LIG04,3,39.99,0.15,New,Direct
+Shopify,N00686,1,2025-08-01,US,DEC01,2,39.99,0.15,New,Paid search
+Shopify,N00686,2,2025-08-01,US,LIG04,3,59.99,0.10,New,Paid search
+Shopify,N00687,1,2025-08-01,UK,KIT03,1,59.99,0,New,Direct
+Shopify,N00687,2,2025-08-01,UK,BED02,2,14.99,0,New,Direct
+Shopify,N00688,1,2025-08-01,UK,LIG03,2,79.99,0.15,Returning,Organic
+Shopify,N00689,1,2025-08-01,CA,LIG03,1,39.99,0,Returning,Marketplace
+Shopify,N00689,2,2025-08-01,CA,LIG04,2,14.99,0,Returning,Marketplace
+Shopify,N00690,1,2025-08-01,US,BED03,1,59.99,0,New,Organic
+Shopify,N00691,1,2025-08-01,DE,LIG03,1,79.99,0.10,New,Organic
+Shopify,N00692,1,2025-08-01,US,DEC04,2,39.99,0,Returning,Email
+Shopify,N00693,1,2025-08-01,DE,KIT02,1,14.99,0.15,New,Email
+Amazon,N00694,1,2025-08-01,DE,LIG04,2,79.99,0.15,New,Paid search
+Amazon,N00695,1,2025-08-01,US,LIG02,2,79.99,0,Returning,Direct
+Amazon,N00695,2,2025-08-01,US,BED01,1,79.99,0.15,Returning,Direct
+Amazon,N00696,1,2025-08-01,US,STO02,3,59.99,0.15,New,Paid search
+Amazon,N00697,1,2025-08-01,DE,LIG03,3,39.99,0.10,New,Organic
+Amazon,N00697,2,2025-08-01,DE,STO02,2,39.99,0,New,Organic
+Amazon,N00698,1,2025-08-01,DE,DEC02,3,39.99,0,Returning,Marketplace
+Amazon,N00698,2,2025-08-01,DE,KIT02,2,39.99,0.10,Returning,Marketplace
+Amazon,N00699,1,2025-08-01,US,LIG03,3,59.99,0.10,Returning,Direct
+Amazon,N00700,1,2025-08-01,CA,LIG03,1,79.99,0.15,New,Organic
+Amazon,N00701,1,2025-08-01,CA,DEC02,3,79.99,0,New,Paid search
+Amazon,N00702,1,2025-08-01,UK,LIG04,1,79.99,0.15,Returning,Marketplace
+Amazon,N00702,2,2025-08-01,UK,BED03,1,59.99,0,Returning,Marketplace
+Amazon,N00703,1,2025-08-01,US,KIT03,3,79.99,0.15,Returning,Direct
+Amazon,N00704,1,2025-08-01,US,BED02,2,24.99,0,New,Direct
+Amazon,N00704,2,2025-08-01,US,STO04,1,79.99,0,New,Direct
+Shopify,N00705,1,2025-08-02,US,LIG01,1,14.99,0,New,Direct
+Shopify,N00706,1,2025-08-02,UK,KIT02,1,39.99,0,Returning,Organic
+Shopify,N00707,1,2025-08-02,UK,STO01,3,79.99,0,Returning,Marketplace
+Shopify,N00708,1,2025-08-02,DE,DEC03,2,39.99,0,Returning,Paid search
+Shopify,N00708,2,2025-08-02,DE,KIT02,3,39.99,0,Returning,Paid search
+Shopify,N00709,1,2025-08-02,UK,LIG02,1,39.99,0.10,Returning,Direct
+Shopify,N00710,1,2025-08-02,US,KIT01,3,79.99,0,New,Direct
+Shopify,N00711,1,2025-08-02,CA,KIT01,1,79.99,0.15,New,Organic
+Shopify,N00711,2,2025-08-02,CA,LIG03,1,14.99,0.10,New,Organic
+Shopify,N00712,1,2025-08-02,US,BED01,1,14.99,0.10,Returning,Marketplace
+Shopify,N00712,2,2025-08-02,US,LIG01,3,24.99,0,Returning,Marketplace
+Shopify,N00713,1,2025-08-02,DE,LIG03,1,24.99,0.10,Returning,Email
+Shopify,N00714,1,2025-08-02,DE,STO03,3,39.99,0,New,Direct
+Shopify,N00715,1,2025-08-02,US,DEC03,1,14.99,0,New,Organic
+Amazon,N00716,1,2025-08-02,UK,LIG04,2,39.99,0.15,New,Marketplace
+Amazon,N00717,1,2025-08-02,DE,KIT01,3,14.99,0.10,New,Organic
+Amazon,N00718,1,2025-08-02,US,LIG02,2,39.99,0,Returning,Paid search
+Amazon,N00718,2,2025-08-02,US,BED01,2,24.99,0.15,Returning,Paid search
+Amazon,N00719,1,2025-08-02,CA,STO01,1,59.99,0,New,Email
+Amazon,N00720,1,2025-08-02,US,KIT04,2,14.99,0,Returning,Organic
+Amazon,N00721,1,2025-08-02,DE,BED01,3,59.99,0.10,New,Direct
+Amazon,N00722,1,2025-08-02,CA,DEC03,2,24.99,0,New,Email
+Amazon,N00723,1,2025-08-02,DE,LIG03,1,14.99,0,New,Email
+Amazon,N00723,2,2025-08-02,DE,STO01,3,24.99,0.10,New,Email
+Amazon,N00724,1,2025-08-02,UK,BED04,2,79.99,0,New,Marketplace
+Amazon,N00725,1,2025-08-02,CA,STO03,3,39.99,0,Returning,Marketplace
+Amazon,N00726,1,2025-08-02,UK,KIT01,1,14.99,0,New,Organic
+Shopify,N00727,1,2025-08-03,UK,BED04,1,14.99,0.15,Returning,Direct
+Shopify,N00727,2,2025-08-03,UK,STO03,3,59.99,0.10,Returning,Direct
+Shopify,N00728,1,2025-08-03,DE,DEC01,2,14.99,0.15,New,Direct
+Shopify,N00729,1,2025-08-03,US,DEC02,2,39.99,0.10,New,Organic
+Shopify,N00730,1,2025-08-03,US,LIG03,2,24.99,0,New,Paid search
+Shopify,N00731,1,2025-08-03,CA,BED02,2,14.99,0.10,New,Direct
+Shopify,N00732,1,2025-08-03,US,KIT01,2,59.99,0.10,Returning,Paid search
+Shopify,N00733,1,2025-08-03,US,KIT01,3,59.99,0.15,Returning,Organic
+Shopify,N00733,2,2025-08-03,US,DEC01,1,24.99,0,Returning,Organic
+Shopify,N00734,1,2025-08-03,UK,DEC02,1,59.99,0,Returning,Email
+Shopify,N00735,1,2025-08-03,UK,STO02,3,14.99,0.15,New,Organic
+Shopify,N00736,1,2025-08-03,CA,BED03,3,59.99,0,New,Marketplace
+Shopify,N00737,1,2025-08-03,US,DEC02,1,79.99,0,New,Direct
+Shopify,N00737,2,2025-08-03,US,DEC01,3,14.99,0.15,New,Direct
+Amazon,N00738,1,2025-08-03,DE,LIG02,2,59.99,0.15,New,Email
+Amazon,N00739,1,2025-08-03,UK,KIT02,3,59.99,0.15,Returning,Organic
+Amazon,N00740,1,2025-08-03,UK,LIG04,3,39.99,0,Returning,Direct
+Amazon,N00740,2,2025-08-03,UK,BED04,1,39.99,0,Returning,Direct
+Amazon,N00741,1,2025-08-03,US,BED02,1,79.99,0.10,New,Marketplace
+Amazon,N00742,1,2025-08-03,US,STO02,1,24.99,0,Returning,Paid search
+Amazon,N00742,2,2025-08-03,US,BED02,1,14.99,0.10,Returning,Paid search
+Amazon,N00743,1,2025-08-03,UK,STO04,1,59.99,0.15,Returning,Direct
+Amazon,N00744,1,2025-08-03,US,DEC02,2,24.99,0,Returning,Direct
+Amazon,N00744,2,2025-08-03,US,DEC04,2,79.99,0,Returning,Direct
+Amazon,N00745,1,2025-08-03,UK,STO03,3,24.99,0.10,New,Marketplace
+Amazon,N00745,2,2025-08-03,UK,DEC01,1,14.99,0,New,Marketplace
+Amazon,N00746,1,2025-08-03,DE,STO03,1,59.99,0.10,New,Organic
+Amazon,N00747,1,2025-08-03,CA,KIT01,2,79.99,0.15,New,Paid search
+Amazon,N00747,2,2025-08-03,CA,DEC04,3,39.99,0.10,New,Paid search
+Amazon,N00748,1,2025-08-03,DE,LIG02,1,59.99,0.10,New,Email
+Amazon,N00748,2,2025-08-03,DE,DEC03,2,59.99,0,New,Email
+Shopify,N00749,1,2025-08-04,CA,KIT02,2,24.99,0.15,New,Paid search
+Shopify,N00750,1,2025-08-04,CA,BED03,1,14.99,0.15,New,Organic
+Shopify,N00751,1,2025-08-04,UK,DEC03,2,39.99,0.15,New,Email
+Shopify,N00751,2,2025-08-04,UK,KIT03,1,39.99,0,New,Email
+Shopify,N00752,1,2025-08-04,US,KIT02,2,39.99,0,New,Paid search
+Shopify,N00753,1,2025-08-04,CA,DEC01,1,14.99,0.10,New,Organic
+Shopify,N00754,1,2025-08-04,UK,BED03,1,39.99,0.10,Returning,Organic
+Shopify,N00754,2,2025-08-04,UK,BED04,1,14.99,0.15,Returning,Organic
+Shopify,N00755,1,2025-08-04,DE,KIT04,2,24.99,0,New,Direct
+Shopify,N00755,2,2025-08-04,DE,KIT04,2,79.99,0.10,New,Direct
+Shopify,N00756,1,2025-08-04,CA,DEC03,2,59.99,0.10,Returning,Organic
+Shopify,N00757,1,2025-08-04,CA,KIT04,3,79.99,0.15,New,Marketplace
+Shopify,N00758,1,2025-08-04,US,LIG04,2,79.99,0.15,Returning,Paid search
+Shopify,N00758,2,2025-08-04,US,LIG02,2,14.99,0,Returning,Paid search
+Shopify,N00759,1,2025-08-04,CA,STO02,2,14.99,0,Returning,Marketplace
+Amazon,N00760,1,2025-08-04,US,LIG01,2,39.99,0,New,Direct
+Amazon,N00760,2,2025-08-04,US,LIG01,3,24.99,0.10,New,Direct
+Amazon,N00761,1,2025-08-04,UK,STO04,1,79.99,0,New,Direct
+Amazon,N00762,1,2025-08-04,US,STO02,1,59.99,0.10,Returning,Marketplace
+Amazon,N00762,2,2025-08-04,US,LIG04,1,14.99,0,Returning,Marketplace
+Amazon,N00763,1,2025-08-04,US,STO04,1,59.99,0,Returning,Paid search
+Amazon,N00764,1,2025-08-04,US,KIT02,2,39.99,0.10,New,Email
+Amazon,N00765,1,2025-08-04,DE,STO04,2,14.99,0,Returning,Direct
+Amazon,N00766,1,2025-08-04,CA,DEC02,3,59.99,0.10,Returning,Email
+Amazon,N00767,1,2025-08-04,US,LIG04,1,79.99,0,Returning,Marketplace
+Amazon,N00767,2,2025-08-04,US,LIG02,2,79.99,0.15,Returning,Marketplace
+Amazon,N00768,1,2025-08-04,UK,LIG01,2,59.99,0.10,New,Organic
+Amazon,N00768,2,2025-08-04,UK,DEC01,2,59.99,0,New,Organic
+Amazon,N00769,1,2025-08-04,US,KIT04,1,79.99,0.10,Returning,Marketplace
+Amazon,N00769,2,2025-08-04,US,STO02,2,14.99,0.10,Returning,Marketplace
+Amazon,N00770,1,2025-08-04,US,LIG04,2,79.99,0.10,New,Email
+Shopify,N00771,1,2025-08-05,CA,DEC01,2,39.99,0,New,Marketplace
+Shopify,N00771,2,2025-08-05,CA,DEC03,1,59.99,0,New,Marketplace
+Shopify,N00772,1,2025-08-05,DE,LIG04,2,59.99,0,New,Marketplace
+Shopify,N00773,1,2025-08-05,UK,STO02,3,14.99,0,Returning,Direct
+Shopify,N00774,1,2025-08-05,US,KIT04,2,24.99,0,Returning,Email
+Shopify,N00775,1,2025-08-05,CA,STO01,3,59.99,0,New,Direct
+Shopify,N00775,2,2025-08-05,CA,KIT02,1,14.99,0.15,New,Direct
+Shopify,N00776,1,2025-08-05,US,KIT04,1,79.99,0.10,Returning,Email
+Shopify,N00777,1,2025-08-05,US,DEC03,3,79.99,0.15,New,Marketplace
+Shopify,N00777,2,2025-08-05,US,LIG03,2,39.99,0,New,Marketplace
+Shopify,N00778,1,2025-08-05,DE,BED01,3,14.99,0.15,New,Paid search
+Shopify,N00778,2,2025-08-05,DE,STO02,3,39.99,0,New,Paid search
+Shopify,N00779,1,2025-08-05,US,KIT03,1,24.99,0.15,New,Paid search
+Shopify,N00779,2,2025-08-05,US,KIT01,3,79.99,0,New,Paid search
+Shopify,N00780,1,2025-08-05,DE,KIT01,1,14.99,0.10,Returning,Direct
+Shopify,N00781,1,2025-08-05,UK,LIG03,3,39.99,0.15,New,Marketplace
+Amazon,N00782,1,2025-08-05,US,DEC01,1,39.99,0,Returning,Marketplace
+Amazon,N00782,2,2025-08-05,US,STO01,3,59.99,0.10,Returning,Marketplace
+Amazon,N00783,1,2025-08-05,US,LIG02,1,59.99,0.15,Returning,Marketplace
+Amazon,N00783,2,2025-08-05,US,LIG03,3,79.99,0.10,Returning,Marketplace
+Amazon,N00784,1,2025-08-05,CA,DEC02,3,24.99,0.15,Returning,Marketplace
+Amazon,N00784,2,2025-08-05,CA,KIT03,1,59.99,0,Returning,Marketplace
+Amazon,N00785,1,2025-08-05,US,DEC02,3,79.99,0,New,Direct
+Amazon,N00786,1,2025-08-05,US,BED01,3,39.99,0.10,New,Direct
+Amazon,N00787,1,2025-08-05,CA,BED02,2,59.99,0.15,New,Marketplace
+Amazon,N00787,2,2025-08-05,CA,LIG02,2,79.99,0.15,New,Marketplace
+Amazon,N00788,1,2025-08-05,CA,DEC04,1,59.99,0,New,Email
+Amazon,N00789,1,2025-08-05,UK,BED03,3,79.99,0.10,Returning,Marketplace
+Amazon,N00790,1,2025-08-05,DE,STO03,2,14.99,0,New,Email
+Amazon,N00791,1,2025-08-05,US,BED03,2,24.99,0,New,Marketplace
+Amazon,N00791,2,2025-08-05,US,LIG04,2,39.99,0.10,New,Marketplace
+Amazon,N00792,1,2025-08-05,US,KIT04,2,24.99,0,New,Marketplace
+Amazon,N00792,2,2025-08-05,US,STO02,1,24.99,0,New,Marketplace
+Shopify,N00793,1,2025-08-06,CA,KIT02,1,39.99,0,Returning,Organic
+Shopify,N00794,1,2025-08-06,US,STO03,3,14.99,0.15,New,Direct
+Shopify,N00795,1,2025-08-06,DE,STO04,2,24.99,0,Returning,Paid search
+Shopify,N00795,2,2025-08-06,DE,DEC01,2,24.99,0,Returning,Paid search
+Shopify,N00796,1,2025-08-06,US,LIG01,3,14.99,0.15,New,Email
+Shopify,N00796,2,2025-08-06,US,BED01,3,39.99,0.15,New,Email
+Shopify,N00797,1,2025-08-06,US,DEC04,1,14.99,0.10,New,Organic
+Shopify,N00798,1,2025-08-06,UK,LIG02,3,14.99,0.15,New,Marketplace
+Shopify,N00799,1,2025-08-06,DE,BED02,3,59.99,0.15,New,Direct
+Shopify,N00800,1,2025-08-06,US,BED03,1,39.99,0.10,New,Organic
+Shopify,N00801,1,2025-08-06,US,BED02,3,24.99,0,New,Marketplace
+Shopify,N00802,1,2025-08-06,US,BED03,2,39.99,0.10,New,Marketplace
+Shopify,N00802,2,2025-08-06,US,DEC04,3,39.99,0.15,New,Marketplace
+Shopify,N00803,1,2025-08-06,CA,DEC04,2,39.99,0,New,Direct
+Amazon,N00804,1,2025-08-06,UK,LIG03,2,14.99,0,New,Paid search
+Amazon,N00805,1,2025-08-06,US,DEC03,2,14.99,0,New,Paid search
+Amazon,N00805,2,2025-08-06,US,KIT01,3,14.99,0.10,New,Paid search
+Amazon,N00806,1,2025-08-06,US,KIT04,3,79.99,0.10,New,Paid search
+Amazon,N00807,1,2025-08-06,CA,LIG03,1,14.99,0.15,Returning,Paid search
+Amazon,N00808,1,2025-08-06,UK,LIG03,3,24.99,0,New,Email
+Amazon,N00809,1,2025-08-06,DE,LIG03,3,39.99,0,Returning,Paid search
+Amazon,N00810,1,2025-08-06,CA,STO03,2,24.99,0.15,New,Paid search
+Amazon,N00811,1,2025-08-06,US,DEC04,1,14.99,0.10,New,Direct
+Amazon,N00812,1,2025-08-06,US,STO03,3,39.99,0.10,Returning,Organic
+Amazon,N00812,2,2025-08-06,US,KIT02,1,39.99,0.10,Returning,Organic
+Amazon,N00813,1,2025-08-06,DE,STO04,2,39.99,0,New,Email
+Amazon,N00814,1,2025-08-06,US,DEC01,1,59.99,0,New,Paid search
+Shopify,N00815,1,2025-08-07,DE,LIG02,2,24.99,0,Returning,Marketplace
+Shopify,N00815,2,2025-08-07,DE,BED01,3,14.99,0,Returning,Marketplace
+Shopify,N00816,1,2025-08-07,UK,LIG03,3,24.99,0,New,Direct
+Shopify,N00817,1,2025-08-07,UK,BED03,3,59.99,0,New,Organic
+Shopify,N00818,1,2025-08-07,US,KIT02,1,24.99,0.15,New,Organic
+Shopify,N00818,2,2025-08-07,US,KIT01,1,39.99,0,New,Organic
+Shopify,N00819,1,2025-08-07,US,BED04,1,14.99,0.10,New,Organic
+Shopify,N00819,2,2025-08-07,US,DEC01,2,14.99,0.10,New,Organic
+Shopify,N00820,1,2025-08-07,US,LIG04,2,24.99,0,New,Direct
+Shopify,N00821,1,2025-08-07,DE,BED03,2,14.99,0.15,Returning,Direct
+Shopify,N00822,1,2025-08-07,US,BED02,2,14.99,0.15,New,Paid search
+Shopify,N00823,1,2025-08-07,CA,KIT03,1,79.99,0,Returning,Marketplace
+Shopify,N00824,1,2025-08-07,UK,KIT01,3,24.99,0,New,Marketplace
+Shopify,N00824,2,2025-08-07,UK,DEC01,2,39.99,0.15,New,Marketplace
+Shopify,N00825,1,2025-08-07,CA,STO04,2,39.99,0.10,New,Paid search
+Shopify,N00825,2,2025-08-07,CA,BED01,1,14.99,0,New,Paid search
+Amazon,N00826,1,2025-08-07,UK,KIT02,2,79.99,0,New,Paid search
+Amazon,N00827,1,2025-08-07,US,BED02,3,24.99,0,New,Paid search
+Amazon,N00828,1,2025-08-07,US,DEC04,3,79.99,0,Returning,Organic
+Amazon,N00828,2,2025-08-07,US,BED02,2,39.99,0,Returning,Organic
+Amazon,N00829,1,2025-08-07,US,BED01,1,39.99,0,New,Marketplace
+Amazon,N00830,1,2025-08-07,US,LIG01,1,24.99,0.15,New,Email
+Amazon,N00830,2,2025-08-07,US,BED02,1,24.99,0.10,New,Email
+Amazon,N00831,1,2025-08-07,UK,DEC02,3,24.99,0.10,Returning,Paid search
+Amazon,N00832,1,2025-08-07,US,LIG04,3,24.99,0,New,Paid search
+Amazon,N00832,2,2025-08-07,US,LIG01,1,59.99,0.10,New,Paid search
+Amazon,N00833,1,2025-08-07,DE,STO02,2,59.99,0,Returning,Direct
+Amazon,N00833,2,2025-08-07,DE,LIG03,2,39.99,0.15,Returning,Direct
+Amazon,N00834,1,2025-08-07,US,STO03,3,59.99,0,New,Organic
+Amazon,N00835,1,2025-08-07,DE,STO02,1,24.99,0.10,New,Email
+Amazon,N00836,1,2025-08-07,DE,DEC02,1,14.99,0.10,Returning,Paid search
+Shopify,N00837,1,2025-08-08,UK,STO01,3,79.99,0.15,Returning,Email
+Shopify,N00838,1,2025-08-08,CA,STO04,2,79.99,0.15,Returning,Marketplace
+Shopify,N00839,1,2025-08-08,US,DEC01,3,59.99,0.10,New,Direct
+Shopify,N00840,1,2025-08-08,DE,DEC03,3,79.99,0.15,Returning,Paid search
+Shopify,N00841,1,2025-08-08,CA,STO03,1,24.99,0,New,Email
+Shopify,N00841,2,2025-08-08,CA,DEC02,2,59.99,0,New,Email
+Shopify,N00842,1,2025-08-08,US,LIG04,3,39.99,0.10,New,Paid search
+Shopify,N00843,1,2025-08-08,UK,BED04,1,24.99,0,New,Marketplace
+Shopify,N00843,2,2025-08-08,UK,STO04,1,59.99,0.15,New,Marketplace
+Shopify,N00844,1,2025-08-08,US,STO01,1,39.99,0,New,Marketplace
+Shopify,N00845,1,2025-08-08,CA,KIT01,2,39.99,0,Returning,Marketplace
+Shopify,N00846,1,2025-08-08,US,DEC02,2,79.99,0.10,New,Direct
+Shopify,N00847,1,2025-08-08,CA,LIG03,2,79.99,0,New,Direct
+Shopify,N00847,2,2025-08-08,CA,STO04,2,14.99,0.10,New,Direct
+Amazon,N00848,1,2025-08-08,US,KIT04,2,39.99,0,Returning,Direct
+Amazon,N00849,1,2025-08-08,US,DEC02,2,24.99,0,Returning,Organic
+Amazon,N00850,1,2025-08-08,US,STO03,3,24.99,0.10,New,Paid search
+Amazon,N00850,2,2025-08-08,US,DEC03,1,59.99,0,New,Paid search
+Amazon,N00851,1,2025-08-08,DE,BED04,1,39.99,0,New,Email
+Amazon,N00852,1,2025-08-08,CA,KIT03,1,14.99,0.10,New,Marketplace
+Amazon,N00853,1,2025-08-08,US,LIG03,2,14.99,0.15,Returning,Direct
+Amazon,N00854,1,2025-08-08,CA,LIG01,3,14.99,0,New,Organic
+Amazon,N00855,1,2025-08-08,UK,KIT03,3,24.99,0,New,Direct
+Amazon,N00856,1,2025-08-08,US,KIT04,2,79.99,0,New,Organic
+Amazon,N00857,1,2025-08-08,US,LIG02,3,24.99,0.10,Returning,Marketplace
+Amazon,N00858,1,2025-08-08,DE,DEC02,3,59.99,0,New,Direct
+Shopify,N00859,1,2025-08-09,US,DEC01,2,79.99,0.15,Returning,Marketplace
+Shopify,N00860,1,2025-08-09,US,DEC01,3,14.99,0.10,Returning,Email
+Shopify,N00860,2,2025-08-09,US,STO03,1,39.99,0,Returning,Email
+Shopify,N00861,1,2025-08-09,CA,KIT01,1,39.99,0,Returning,Email
+Shopify,N00861,2,2025-08-09,CA,STO01,2,79.99,0.10,Returning,Email
+Shopify,N00862,1,2025-08-09,DE,LIG02,1,79.99,0.10,New,Paid search
+Shopify,N00863,1,2025-08-09,UK,STO01,1,14.99,0.15,Returning,Organic
+Shopify,N00864,1,2025-08-09,US,DEC03,2,24.99,0,New,Marketplace
+Shopify,N00865,1,2025-08-09,CA,BED04,2,59.99,0,New,Email
+Shopify,N00865,2,2025-08-09,CA,LIG02,1,79.99,0.15,New,Email
+Shopify,N00866,1,2025-08-09,CA,KIT02,2,39.99,0.10,Returning,Paid search
+Shopify,N00867,1,2025-08-09,UK,STO03,1,79.99,0.10,New,Direct
+Shopify,N00868,1,2025-08-09,US,KIT02,2,79.99,0.10,Returning,Organic
+Shopify,N00869,1,2025-08-09,UK,DEC04,3,79.99,0,Returning,Organic
+Amazon,N00870,1,2025-08-09,US,STO01,3,59.99,0.15,New,Organic
+Amazon,N00870,2,2025-08-09,US,BED04,2,79.99,0,New,Organic
+Amazon,N00871,1,2025-08-09,UK,BED04,1,59.99,0.10,Returning,Direct
+Amazon,N00872,1,2025-08-09,CA,STO01,1,59.99,0,Returning,Email
+Amazon,N00873,1,2025-08-09,US,DEC03,2,39.99,0,Returning,Paid search
+Amazon,N00874,1,2025-08-09,US,KIT01,3,24.99,0,New,Direct
+Amazon,N00874,2,2025-08-09,US,BED01,1,24.99,0.15,New,Direct
+Amazon,N00875,1,2025-08-09,CA,BED04,2,14.99,0,Returning,Direct
+Amazon,N00876,1,2025-08-09,US,LIG04,1,39.99,0.10,New,Organic
+Amazon,N00877,1,2025-08-09,UK,KIT02,1,59.99,0,New,Marketplace
+Amazon,N00877,2,2025-08-09,UK,BED04,1,14.99,0,New,Marketplace
+Amazon,N00878,1,2025-08-09,US,STO01,2,59.99,0,Returning,Marketplace
+Amazon,N00878,2,2025-08-09,US,STO04,3,79.99,0,Returning,Marketplace
+Amazon,N00879,1,2025-08-09,CA,BED03,3,59.99,0,Returning,Paid search
+Amazon,N00880,1,2025-08-09,CA,KIT04,1,59.99,0,Returning,Email
+Amazon,N00880,2,2025-08-09,CA,STO04,1,59.99,0,Returning,Email
+Shopify,N00881,1,2025-08-10,US,DEC04,2,14.99,0,Returning,Direct
+Shopify,N00882,1,2025-08-10,DE,LIG02,1,79.99,0.15,New,Marketplace
+Shopify,N00882,2,2025-08-10,DE,KIT02,3,79.99,0,New,Marketplace
+Shopify,N00883,1,2025-08-10,US,BED03,1,24.99,0,New,Paid search
+Shopify,N00883,2,2025-08-10,US,KIT04,3,14.99,0,New,Paid search
+Shopify,N00884,1,2025-08-10,DE,STO01,2,24.99,0,New,Organic
+Shopify,N00884,2,2025-08-10,DE,DEC03,2,39.99,0,New,Organic
+Shopify,N00885,1,2025-08-10,CA,BED04,2,39.99,0.15,New,Paid search
+Shopify,N00885,2,2025-08-10,CA,LIG04,2,79.99,0.10,New,Paid search
+Shopify,N00886,1,2025-08-10,CA,DEC04,1,59.99,0.10,Returning,Email
+Shopify,N00886,2,2025-08-10,CA,LIG01,2,79.99,0.10,Returning,Email
+Shopify,N00887,1,2025-08-10,DE,STO02,3,59.99,0,Returning,Direct
+Shopify,N00887,2,2025-08-10,DE,LIG03,2,79.99,0,Returning,Direct
+Shopify,N00888,1,2025-08-10,CA,STO02,2,39.99,0.10,New,Marketplace
+Shopify,N00888,2,2025-08-10,CA,BED02,2,59.99,0,New,Marketplace
+Shopify,N00889,1,2025-08-10,UK,LIG04,2,59.99,0,New,Email
+Shopify,N00890,1,2025-08-10,US,BED01,3,14.99,0.15,Returning,Direct
+Shopify,N00891,1,2025-08-10,DE,BED01,3,24.99,0.15,New,Paid search
+Amazon,N00892,1,2025-08-10,DE,LIG02,3,24.99,0,Returning,Paid search
+Amazon,N00892,2,2025-08-10,DE,BED02,2,24.99,0,Returning,Paid search
+Amazon,N00893,1,2025-08-10,CA,KIT04,1,14.99,0,New,Direct
+Amazon,N00893,2,2025-08-10,CA,KIT04,1,79.99,0.10,New,Direct
+Amazon,N00894,1,2025-08-10,US,BED02,1,59.99,0,New,Marketplace
+Amazon,N00894,2,2025-08-10,US,STO01,3,59.99,0,New,Marketplace
+Amazon,N00895,1,2025-08-10,US,KIT02,1,14.99,0,Returning,Direct
+Amazon,N00896,1,2025-08-10,UK,KIT03,1,79.99,0.15,New,Paid search
+Amazon,N00897,1,2025-08-10,US,BED03,2,24.99,0,New,Email
+Amazon,N00898,1,2025-08-10,US,DEC04,1,59.99,0,New,Paid search
+Amazon,N00899,1,2025-08-10,UK,KIT01,1,79.99,0,New,Direct
+Amazon,N00899,2,2025-08-10,UK,DEC01,1,79.99,0,New,Direct
+Amazon,N00900,1,2025-08-10,US,STO01,1,24.99,0,Returning,Direct
+Amazon,N00901,1,2025-08-10,CA,KIT03,3,59.99,0,New,Paid search
+Amazon,N00902,1,2025-08-10,DE,DEC03,2,14.99,0,New,Organic
+Shopify,N00903,1,2025-08-11,UK,DEC04,3,14.99,0.10,Returning,Direct
+Shopify,N00904,1,2025-08-11,DE,DEC03,2,39.99,0,Returning,Marketplace
+Shopify,N00904,2,2025-08-11,DE,LIG02,2,24.99,0,Returning,Marketplace
+Shopify,N00905,1,2025-08-11,DE,BED03,3,14.99,0,New,Paid search
+Shopify,N00905,2,2025-08-11,DE,DEC01,1,79.99,0,New,Paid search
+Shopify,N00906,1,2025-08-11,US,STO01,1,79.99,0,Returning,Email
+Shopify,N00907,1,2025-08-11,UK,STO02,3,24.99,0.15,New,Email
+Shopify,N00908,1,2025-08-11,CA,LIG02,3,24.99,0.10,Returning,Direct
+Shopify,N00909,1,2025-08-11,US,KIT01,1,14.99,0.10,Returning,Organic
+Shopify,N00909,2,2025-08-11,US,BED02,3,24.99,0,Returning,Organic
+Shopify,N00910,1,2025-08-11,CA,DEC02,3,14.99,0.10,New,Email
+Shopify,N00911,1,2025-08-11,US,BED02,2,14.99,0,New,Paid search
+Shopify,N00912,1,2025-08-11,US,BED01,2,14.99,0,Returning,Organic
+Shopify,N00912,2,2025-08-11,US,DEC02,3,79.99,0,Returning,Organic
+Shopify,N00913,1,2025-08-11,DE,STO03,1,79.99,0.15,New,Paid search
+Amazon,N00914,1,2025-08-11,US,LIG04,2,14.99,0.10,New,Email
+Amazon,N00914,2,2025-08-11,US,LIG02,1,39.99,0,New,Email
+Amazon,N00915,1,2025-08-11,DE,BED03,2,59.99,0,Returning,Direct
+Amazon,N00915,2,2025-08-11,DE,DEC03,2,14.99,0,Returning,Direct
+Amazon,N00916,1,2025-08-11,US,DEC04,1,14.99,0,Returning,Organic
+Amazon,N00916,2,2025-08-11,US,KIT03,3,39.99,0.15,Returning,Organic
+Amazon,N00917,1,2025-08-11,DE,DEC03,3,14.99,0,New,Email
+Amazon,N00917,2,2025-08-11,DE,LIG03,3,24.99,0,New,Email
+Amazon,N00918,1,2025-08-11,UK,BED04,2,14.99,0.10,New,Marketplace
+Amazon,N00919,1,2025-08-11,US,BED04,3,24.99,0,New,Marketplace
+Amazon,N00920,1,2025-08-11,US,STO01,3,14.99,0.15,Returning,Organic
+Amazon,N00920,2,2025-08-11,US,DEC04,1,39.99,0,Returning,Organic
+Amazon,N00921,1,2025-08-11,DE,LIG01,1,24.99,0.15,New,Direct
+Amazon,N00922,1,2025-08-11,UK,LIG02,1,24.99,0,New,Direct
+Amazon,N00923,1,2025-08-11,US,LIG03,1,79.99,0.15,Returning,Organic
+Amazon,N00924,1,2025-08-11,CA,KIT04,2,79.99,0,New,Organic
+Shopify,N00925,1,2025-08-12,DE,BED01,2,14.99,0.10,Returning,Marketplace
+Shopify,N00926,1,2025-08-12,CA,LIG01,3,79.99,0,Returning,Organic
+Shopify,N00926,2,2025-08-12,CA,BED04,1,24.99,0,Returning,Organic
+Shopify,N00927,1,2025-08-12,DE,KIT03,3,14.99,0.10,Returning,Direct
+Shopify,N00928,1,2025-08-12,US,BED01,1,39.99,0,New,Direct
+Shopify,N00928,2,2025-08-12,US,BED03,3,14.99,0,New,Direct
+Shopify,N00929,1,2025-08-12,CA,STO03,3,24.99,0,New,Marketplace
+Shopify,N00930,1,2025-08-12,DE,BED04,1,59.99,0.10,Returning,Email
+Shopify,N00931,1,2025-08-12,US,BED03,3,79.99,0,New,Paid search
+Shopify,N00931,2,2025-08-12,US,STO01,1,59.99,0,New,Paid search
+Shopify,N00932,1,2025-08-12,US,KIT03,3,79.99,0,New,Paid search
+Shopify,N00933,1,2025-08-12,US,LIG03,1,79.99,0,Returning,Email
+Shopify,N00934,1,2025-08-12,US,DEC03,1,24.99,0.15,New,Organic
+Shopify,N00935,1,2025-08-12,DE,STO01,1,14.99,0,New,Marketplace
+Shopify,N00935,2,2025-08-12,DE,DEC02,1,14.99,0.15,New,Marketplace
+Amazon,N00936,1,2025-08-12,US,KIT03,2,14.99,0,New,Direct
+Amazon,N00937,1,2025-08-12,CA,LIG03,1,79.99,0,Returning,Direct
+Amazon,N00937,2,2025-08-12,CA,LIG01,3,14.99,0.15,Returning,Direct
+Amazon,N00938,1,2025-08-12,UK,BED04,2,79.99,0,Returning,Email
+Amazon,N00939,1,2025-08-12,DE,STO03,1,24.99,0.15,New,Paid search
+Amazon,N00940,1,2025-08-12,CA,KIT02,3,24.99,0.15,Returning,Direct
+Amazon,N00940,2,2025-08-12,CA,DEC04,1,24.99,0,Returning,Direct
+Amazon,N00941,1,2025-08-12,US,DEC03,1,24.99,0.15,New,Paid search
+Amazon,N00941,2,2025-08-12,US,KIT03,2,79.99,0.10,New,Paid search
+Amazon,N00942,1,2025-08-12,UK,DEC03,1,39.99,0,Returning,Paid search
+Amazon,N00942,2,2025-08-12,UK,STO03,2,24.99,0,Returning,Paid search
+Amazon,N00943,1,2025-08-12,UK,LIG03,2,79.99,0,New,Paid search
+Amazon,N00944,1,2025-08-12,DE,STO02,2,14.99,0.10,New,Organic
+Amazon,N00945,1,2025-08-12,DE,LIG02,1,59.99,0.15,Returning,Direct
+Amazon,N00945,2,2025-08-12,DE,STO04,3,39.99,0,Returning,Direct
+Amazon,N00946,1,2025-08-12,UK,BED02,1,59.99,0.15,Returning,Direct
+Shopify,N00947,1,2025-08-13,CA,BED01,3,39.99,0.10,New,Paid search
+Shopify,N00947,2,2025-08-13,CA,KIT03,1,59.99,0.10,New,Paid search
+Shopify,N00948,1,2025-08-13,US,KIT01,3,59.99,0.10,Returning,Email
+Shopify,N00949,1,2025-08-13,DE,KIT03,3,24.99,0,Returning,Marketplace
+Shopify,N00950,1,2025-08-13,UK,LIG01,1,59.99,0,New,Marketplace
+Shopify,N00951,1,2025-08-13,UK,DEC04,3,59.99,0.10,Returning,Email
+Shopify,N00952,1,2025-08-13,DE,STO04,2,79.99,0.10,New,Direct
+Shopify,N00952,2,2025-08-13,DE,STO01,2,59.99,0,New,Direct
+Shopify,N00953,1,2025-08-13,CA,STO03,2,24.99,0.15,New,Email
+Shopify,N00954,1,2025-08-13,CA,LIG04,2,24.99,0.15,New,Paid search
+Shopify,N00954,2,2025-08-13,CA,DEC02,3,14.99,0,New,Paid search
+Shopify,N00955,1,2025-08-13,US,STO03,3,14.99,0.15,Returning,Paid search
+Shopify,N00956,1,2025-08-13,US,KIT03,1,79.99,0.15,New,Email
+Shopify,N00956,2,2025-08-13,US,KIT04,1,14.99,0,New,Email
+Shopify,N00957,1,2025-08-13,US,BED01,3,14.99,0,Returning,Direct
+Amazon,N00958,1,2025-08-13,DE,KIT01,3,14.99,0.10,New,Paid search
+Amazon,N00959,1,2025-08-13,CA,DEC03,1,59.99,0,New,Email
+Amazon,N00959,2,2025-08-13,CA,LIG01,2,24.99,0,New,Email
+Amazon,N00960,1,2025-08-13,US,DEC03,1,39.99,0,Returning,Email
+Amazon,N00961,1,2025-08-13,US,STO01,1,24.99,0,New,Organic
+Amazon,N00961,2,2025-08-13,US,BED04,1,59.99,0,New,Organic
+Amazon,N00962,1,2025-08-13,UK,DEC03,3,24.99,0,New,Marketplace
+Amazon,N00963,1,2025-08-13,US,DEC04,3,39.99,0,Returning,Marketplace
+Amazon,N00964,1,2025-08-13,DE,KIT03,3,14.99,0.10,Returning,Email
+Amazon,N00964,2,2025-08-13,DE,LIG03,3,59.99,0,Returning,Email
+Amazon,N00965,1,2025-08-13,US,BED01,2,14.99,0.10,New,Marketplace
+Amazon,N00965,2,2025-08-13,US,LIG03,2,79.99,0,New,Marketplace
+Amazon,N00966,1,2025-08-13,DE,KIT04,3,39.99,0,New,Email
+Amazon,N00967,1,2025-08-13,US,KIT04,3,24.99,0.10,New,Direct
+Amazon,N00968,1,2025-08-13,CA,DEC02,3,59.99,0.15,New,Marketplace
+Amazon,N00968,2,2025-08-13,CA,LIG01,1,24.99,0.15,New,Marketplace
+Shopify,N00969,1,2025-08-14,US,DEC01,3,59.99,0.10,Returning,Marketplace
+Shopify,N00969,2,2025-08-14,US,DEC04,3,24.99,0.15,Returning,Marketplace
+Shopify,N00970,1,2025-08-14,US,LIG02,2,39.99,0,Returning,Organic
+Shopify,N00971,1,2025-08-14,US,DEC01,3,59.99,0.15,Returning,Paid search
+Shopify,N00972,1,2025-08-14,CA,LIG01,1,39.99,0,Returning,Email
+Shopify,N00973,1,2025-08-14,DE,STO02,1,14.99,0,Returning,Paid search
+Shopify,N00973,2,2025-08-14,DE,LIG01,2,79.99,0.15,Returning,Paid search
+Shopify,N00974,1,2025-08-14,US,BED03,2,14.99,0.10,New,Organic
+Shopify,N00975,1,2025-08-14,US,LIG03,3,14.99,0.10,Returning,Paid search
+Shopify,N00976,1,2025-08-14,UK,BED01,2,14.99,0,New,Paid search
+Shopify,N00977,1,2025-08-14,UK,LIG02,2,39.99,0,Returning,Direct
+Shopify,N00977,2,2025-08-14,UK,STO01,3,24.99,0,Returning,Direct
+Shopify,N00978,1,2025-08-14,US,KIT01,1,59.99,0,Returning,Organic
+Shopify,N00979,1,2025-08-14,US,KIT03,2,59.99,0,New,Marketplace
+Amazon,N00980,1,2025-08-14,DE,BED03,3,14.99,0,New,Email
+Amazon,N00981,1,2025-08-14,US,STO03,3,39.99,0,Returning,Organic
+Amazon,N00982,1,2025-08-14,DE,LIG04,1,39.99,0,New,Marketplace
+Amazon,N00983,1,2025-08-14,CA,LIG02,3,59.99,0.15,New,Email
+Amazon,N00984,1,2025-08-14,US,DEC04,3,79.99,0,New,Organic
+Amazon,N00985,1,2025-08-14,US,BED03,1,39.99,0.15,New,Paid search
+Amazon,N00986,1,2025-08-14,DE,BED04,1,79.99,0,New,Organic
+Amazon,N00987,1,2025-08-14,DE,KIT01,1,24.99,0,New,Organic
+Amazon,N00987,2,2025-08-14,DE,DEC01,2,79.99,0.10,New,Organic
+Amazon,N00988,1,2025-08-14,UK,BED02,1,79.99,0.10,New,Direct
+Amazon,N00989,1,2025-08-14,US,BED03,2,14.99,0.15,New,Organic
+Amazon,N00989,2,2025-08-14,US,DEC04,2,24.99,0,New,Organic
+Amazon,N00990,1,2025-08-14,US,BED01,2,14.99,0,New,Organic
+Shopify,N00991,1,2025-08-15,CA,LIG01,1,79.99,0,New,Marketplace
+Shopify,N00992,1,2025-08-15,US,BED03,2,79.99,0,New,Direct
+Shopify,N00993,1,2025-08-15,UK,STO01,1,14.99,0,New,Organic
+Shopify,N00994,1,2025-08-15,US,LIG01,2,39.99,0,Returning,Marketplace
+Shopify,N00994,2,2025-08-15,US,STO02,2,39.99,0.15,Returning,Marketplace
+Shopify,N00995,1,2025-08-15,US,STO03,2,39.99,0.15,Returning,Email
+Shopify,N00995,2,2025-08-15,US,BED02,1,79.99,0,Returning,Email
+Shopify,N00996,1,2025-08-15,US,LIG01,1,14.99,0.15,Returning,Marketplace
+Shopify,N00997,1,2025-08-15,US,KIT01,1,24.99,0,New,Email
+Shopify,N00997,2,2025-08-15,US,KIT01,3,24.99,0.10,New,Email
+Shopify,N00998,1,2025-08-15,UK,KIT01,2,59.99,0.10,Returning,Organic
+Shopify,N00999,1,2025-08-15,UK,KIT01,2,14.99,0,New,Email
+Shopify,N00999,2,2025-08-15,UK,DEC02,2,79.99,0.10,New,Email
+Shopify,N01000,1,2025-08-15,UK,STO01,2,59.99,0.10,New,Direct
+Shopify,N01000,2,2025-08-15,UK,DEC02,1,14.99,0.10,New,Direct
+Shopify,N01001,1,2025-08-15,CA,BED01,1,59.99,0,New,Paid search
+Amazon,N01002,1,2025-08-15,US,STO02,3,79.99,0,New,Paid search
+Amazon,N01003,1,2025-08-15,CA,KIT03,3,39.99,0.10,Returning,Marketplace
+Amazon,N01003,2,2025-08-15,CA,STO04,3,14.99,0.10,Returning,Marketplace
+Amazon,N01004,1,2025-08-15,CA,BED03,1,79.99,0,Returning,Organic
+Amazon,N01005,1,2025-08-15,US,KIT01,1,14.99,0.15,New,Paid search
+Amazon,N01005,2,2025-08-15,US,LIG02,3,39.99,0,New,Paid search
+Amazon,N01006,1,2025-08-15,UK,KIT01,1,79.99,0,New,Email
+Amazon,N01007,1,2025-08-15,DE,BED01,2,79.99,0.15,New,Direct
+Amazon,N01008,1,2025-08-15,DE,STO01,2,59.99,0,Returning,Paid search
+Amazon,N01008,2,2025-08-15,DE,LIG04,1,39.99,0,Returning,Paid search
+Amazon,N01009,1,2025-08-15,UK,STO03,1,79.99,0,New,Direct
+Amazon,N01009,2,2025-08-15,UK,STO01,3,39.99,0.10,New,Direct
+Amazon,N01010,1,2025-08-15,DE,STO02,3,39.99,0,Returning,Marketplace
+Amazon,N01011,1,2025-08-15,US,BED04,1,14.99,0.10,New,Organic
+Amazon,N01012,1,2025-08-15,DE,DEC02,1,59.99,0.15,Returning,Paid search
+Amazon,N01012,2,2025-08-15,DE,LIG03,3,24.99,0,Returning,Paid search
+Shopify,N01013,1,2025-08-16,UK,LIG03,3,59.99,0,Returning,Direct
+Shopify,N01013,2,2025-08-16,UK,LIG03,3,39.99,0,Returning,Direct
+Shopify,N01014,1,2025-08-16,UK,LIG04,1,24.99,0,New,Direct
+Shopify,N01015,1,2025-08-16,US,LIG01,2,39.99,0,New,Marketplace
+Shopify,N01015,2,2025-08-16,US,LIG04,1,59.99,0.10,New,Marketplace
+Shopify,N01016,1,2025-08-16,DE,BED02,2,79.99,0.10,New,Direct
+Shopify,N01016,2,2025-08-16,DE,STO03,1,39.99,0,New,Direct
+Shopify,N01017,1,2025-08-16,US,STO02,2,24.99,0.15,New,Organic
+Shopify,N01018,1,2025-08-16,US,KIT01,1,39.99,0.15,New,Email
+Shopify,N01018,2,2025-08-16,US,LIG03,3,59.99,0,New,Email
+Shopify,N01019,1,2025-08-16,CA,STO02,2,24.99,0,Returning,Marketplace
+Shopify,N01020,1,2025-08-16,DE,BED01,2,59.99,0,Returning,Marketplace
+Shopify,N01021,1,2025-08-16,CA,STO02,3,59.99,0.10,Returning,Paid search
+Shopify,N01022,1,2025-08-16,DE,BED01,1,24.99,0,Returning,Marketplace
+Shopify,N01022,2,2025-08-16,DE,LIG02,1,79.99,0.15,Returning,Marketplace
+Shopify,N01023,1,2025-08-16,UK,LIG03,3,24.99,0,New,Organic
+Shopify,N01023,2,2025-08-16,UK,BED03,3,39.99,0.10,New,Organic
+Amazon,N01024,1,2025-08-16,UK,STO04,3,59.99,0,Returning,Marketplace
+Amazon,N01025,1,2025-08-16,CA,DEC03,1,39.99,0.15,Returning,Marketplace
+Amazon,N01026,1,2025-08-16,US,KIT03,2,24.99,0,Returning,Email
+Amazon,N01027,1,2025-08-16,CA,STO01,3,24.99,0,New,Marketplace
+Amazon,N01028,1,2025-08-16,CA,BED03,3,59.99,0.15,New,Direct
+Amazon,N01028,2,2025-08-16,CA,DEC01,3,14.99,0,New,Direct
+Amazon,N01029,1,2025-08-16,US,STO04,1,59.99,0.10,Returning,Direct
+Amazon,N01030,1,2025-08-16,US,LIG02,3,24.99,0,New,Marketplace
+Amazon,N01030,2,2025-08-16,US,DEC03,2,39.99,0,New,Marketplace
+Amazon,N01031,1,2025-08-16,US,KIT03,3,24.99,0,Returning,Email
+Amazon,N01031,2,2025-08-16,US,BED03,2,59.99,0,Returning,Email
+Amazon,N01032,1,2025-08-16,CA,DEC02,3,24.99,0,New,Paid search
+Amazon,N01033,1,2025-08-16,DE,BED02,1,79.99,0.15,Returning,Marketplace
+Amazon,N01034,1,2025-08-16,UK,KIT03,2,79.99,0,Returning,Direct
+Shopify,N01035,1,2025-08-17,UK,STO01,2,39.99,0.10,New,Marketplace
+Shopify,N01036,1,2025-08-17,US,DEC03,2,24.99,0,New,Marketplace
+Shopify,N01036,2,2025-08-17,US,BED04,1,39.99,0,New,Marketplace
+Shopify,N01037,1,2025-08-17,DE,BED02,3,59.99,0,New,Paid search
+Shopify,N01038,1,2025-08-17,US,DEC01,2,24.99,0,New,Marketplace
+Shopify,N01039,1,2025-08-17,DE,DEC03,1,24.99,0.15,New,Organic
+Shopify,N01040,1,2025-08-17,US,DEC04,2,24.99,0,New,Organic
+Shopify,N01041,1,2025-08-17,DE,STO04,2,79.99,0.15,New,Direct
+Shopify,N01042,1,2025-08-17,UK,KIT04,2,39.99,0,New,Email
+Shopify,N01042,2,2025-08-17,UK,LIG03,3,24.99,0.10,New,Email
+Shopify,N01043,1,2025-08-17,US,KIT02,2,24.99,0.10,Returning,Paid search
+Shopify,N01044,1,2025-08-17,UK,BED04,3,79.99,0,New,Email
+Shopify,N01045,1,2025-08-17,UK,DEC01,1,59.99,0.15,Returning,Organic
+Shopify,N01045,2,2025-08-17,UK,STO04,1,14.99,0,Returning,Organic
+Amazon,N01046,1,2025-08-17,DE,KIT04,1,79.99,0,Returning,Marketplace
+Amazon,N01047,1,2025-08-17,UK,LIG01,2,59.99,0,Returning,Direct
+Amazon,N01047,2,2025-08-17,UK,STO04,1,24.99,0,Returning,Direct
+Amazon,N01048,1,2025-08-17,US,LIG02,3,39.99,0.15,New,Direct
+Amazon,N01049,1,2025-08-17,UK,DEC04,1,79.99,0,Returning,Marketplace
+Amazon,N01049,2,2025-08-17,UK,STO03,2,59.99,0.15,Returning,Marketplace
+Amazon,N01050,1,2025-08-17,DE,LIG03,1,79.99,0,Returning,Organic
+Amazon,N01051,1,2025-08-17,UK,KIT04,2,24.99,0.15,New,Organic
+Amazon,N01052,1,2025-08-17,DE,KIT03,3,24.99,0,New,Direct
+Amazon,N01052,2,2025-08-17,DE,STO02,2,59.99,0,New,Direct
+Amazon,N01053,1,2025-08-17,CA,LIG01,3,79.99,0,Returning,Marketplace
+Amazon,N01053,2,2025-08-17,CA,DEC02,3,24.99,0.15,Returning,Marketplace
+Amazon,N01054,1,2025-08-17,US,KIT04,1,79.99,0.10,New,Organic
+Amazon,N01054,2,2025-08-17,US,BED03,2,39.99,0,New,Organic
+Amazon,N01055,1,2025-08-17,UK,STO03,2,39.99,0.10,New,Email
+Amazon,N01055,2,2025-08-17,UK,DEC03,2,14.99,0,New,Email
+Amazon,N01056,1,2025-08-17,US,DEC02,1,39.99,0.15,New,Paid search
+Amazon,N01056,2,2025-08-17,US,STO03,1,79.99,0.10,New,Paid search
+Shopify,N01057,1,2025-08-18,US,DEC02,1,39.99,0.10,Returning,Marketplace
+Shopify,N01058,1,2025-08-18,US,KIT04,3,14.99,0.15,New,Email
+Shopify,N01059,1,2025-08-18,CA,KIT04,2,14.99,0.10,New,Direct
+Shopify,N01060,1,2025-08-18,DE,LIG01,1,59.99,0,Returning,Organic
+Shopify,N01061,1,2025-08-18,US,DEC02,3,59.99,0.10,New,Email
+Shopify,N01061,2,2025-08-18,US,LIG04,2,59.99,0.15,New,Email
+Shopify,N01062,1,2025-08-18,DE,BED02,1,79.99,0.15,New,Email
+Shopify,N01062,2,2025-08-18,DE,LIG01,1,59.99,0.15,New,Email
+Shopify,N01063,1,2025-08-18,US,LIG02,3,79.99,0,New,Paid search
+Shopify,N01064,1,2025-08-18,UK,LIG02,3,79.99,0,New,Marketplace
+Shopify,N01064,2,2025-08-18,UK,DEC04,2,24.99,0.15,New,Marketplace
+Shopify,N01065,1,2025-08-18,DE,STO04,1,59.99,0.10,Returning,Direct
+Shopify,N01066,1,2025-08-18,US,BED04,2,79.99,0.15,New,Email
+Shopify,N01066,2,2025-08-18,US,BED02,3,79.99,0.10,New,Email
+Shopify,N01067,1,2025-08-18,UK,STO03,2,39.99,0,New,Marketplace
+Amazon,N01068,1,2025-08-18,CA,LIG04,1,24.99,0.15,New,Organic
+Amazon,N01069,1,2025-08-18,US,BED03,2,39.99,0,Returning,Paid search
+Amazon,N01069,2,2025-08-18,US,KIT01,1,59.99,0.10,Returning,Paid search
+Amazon,N01070,1,2025-08-18,US,BED01,1,39.99,0.15,New,Direct
+Amazon,N01070,2,2025-08-18,US,DEC02,3,39.99,0,New,Direct
+Amazon,N01071,1,2025-08-18,DE,STO04,2,39.99,0.10,New,Email
+Amazon,N01072,1,2025-08-18,CA,STO03,3,24.99,0,Returning,Marketplace
+Amazon,N01072,2,2025-08-18,CA,LIG03,3,79.99,0,Returning,Marketplace
+Amazon,N01073,1,2025-08-18,CA,DEC02,1,24.99,0,New,Direct
+Amazon,N01074,1,2025-08-18,UK,BED02,1,79.99,0,New,Direct
+Amazon,N01075,1,2025-08-18,CA,BED03,2,59.99,0,New,Organic
+Amazon,N01076,1,2025-08-18,CA,DEC01,2,39.99,0.15,Returning,Email
+Amazon,N01077,1,2025-08-18,US,DEC01,1,24.99,0,New,Email
+Amazon,N01078,1,2025-08-18,DE,BED03,2,59.99,0.15,New,Paid search
+Amazon,N01078,2,2025-08-18,DE,LIG02,1,59.99,0,New,Paid search
+Shopify,N01079,1,2025-08-19,DE,BED01,1,24.99,0.10,New,Organic
+Shopify,N01080,1,2025-08-19,US,BED04,1,59.99,0,New,Email
+Shopify,N01080,2,2025-08-19,US,KIT02,1,79.99,0,New,Email
+Shopify,N01081,1,2025-08-19,US,LIG03,2,59.99,0,Returning,Direct
+Shopify,N01082,1,2025-08-19,US,STO04,2,59.99,0.10,New,Organic
+Shopify,N01082,2,2025-08-19,US,DEC04,3,59.99,0.15,New,Organic
+Shopify,N01083,1,2025-08-19,DE,BED02,3,39.99,0.15,Returning,Marketplace
+Shopify,N01084,1,2025-08-19,US,STO03,3,79.99,0.15,New,Paid search
+Shopify,N01085,1,2025-08-19,US,KIT04,2,24.99,0,Returning,Marketplace
+Shopify,N01086,1,2025-08-19,DE,STO02,2,59.99,0.15,Returning,Marketplace
+Shopify,N01087,1,2025-08-19,UK,KIT02,3,24.99,0,Returning,Email
+Shopify,N01087,2,2025-08-19,UK,STO01,3,39.99,0.10,Returning,Email
+Shopify,N01088,1,2025-08-19,DE,DEC01,2,14.99,0,New,Direct
+Shopify,N01089,1,2025-08-19,UK,LIG04,1,24.99,0.15,Returning,Paid search
+Amazon,N01090,1,2025-08-19,US,STO03,1,14.99,0.10,Returning,Direct
+Amazon,N01090,2,2025-08-19,US,KIT03,2,39.99,0,Returning,Direct
+Amazon,N01091,1,2025-08-19,CA,BED04,1,39.99,0,Returning,Email
+Amazon,N01091,2,2025-08-19,CA,BED02,2,14.99,0.15,Returning,Email
+Amazon,N01092,1,2025-08-19,US,DEC02,3,59.99,0.10,Returning,Marketplace
+Amazon,N01092,2,2025-08-19,US,DEC04,1,59.99,0,Returning,Marketplace
+Amazon,N01093,1,2025-08-19,US,BED04,2,59.99,0,Returning,Paid search
+Amazon,N01094,1,2025-08-19,CA,DEC04,1,59.99,0,Returning,Marketplace
+Amazon,N01095,1,2025-08-19,UK,KIT02,2,24.99,0,New,Paid search
+Amazon,N01096,1,2025-08-19,CA,KIT02,3,24.99,0,New,Paid search
+Amazon,N01096,2,2025-08-19,CA,LIG04,3,79.99,0,New,Paid search
+Amazon,N01097,1,2025-08-19,US,DEC03,3,24.99,0,New,Organic
+Amazon,N01098,1,2025-08-19,US,DEC03,1,14.99,0,New,Direct
+Amazon,N01099,1,2025-08-19,DE,STO02,3,39.99,0.15,New,Paid search
+Amazon,N01099,2,2025-08-19,DE,STO01,2,39.99,0.10,New,Paid search
+Amazon,N01100,1,2025-08-19,DE,BED04,1,39.99,0.10,New,Direct
+Amazon,N01100,2,2025-08-19,DE,KIT02,1,79.99,0.10,New,Direct
+Shopify,N01101,1,2025-08-20,UK,BED01,2,14.99,0.10,New,Email
+Shopify,N01102,1,2025-08-20,UK,DEC02,2,79.99,0,Returning,Paid search
+Shopify,N01103,1,2025-08-20,DE,LIG03,2,59.99,0,Returning,Organic
+Shopify,N01104,1,2025-08-20,US,BED03,3,59.99,0.15,New,Marketplace
+Shopify,N01104,2,2025-08-20,US,BED03,1,59.99,0,New,Marketplace
+Shopify,N01105,1,2025-08-20,US,STO04,3,59.99,0.10,New,Organic
+Shopify,N01106,1,2025-08-20,CA,DEC04,2,79.99,0,New,Paid search
+Shopify,N01107,1,2025-08-20,CA,KIT02,1,24.99,0,Returning,Marketplace
+Shopify,N01107,2,2025-08-20,CA,STO02,1,79.99,0.10,Returning,Marketplace
+Shopify,N01108,1,2025-08-20,US,STO02,1,59.99,0.15,New,Marketplace
+Shopify,N01109,1,2025-08-20,UK,KIT03,1,14.99,0,New,Paid search
+Shopify,N01110,1,2025-08-20,DE,BED03,1,59.99,0,New,Organic
+Shopify,N01111,1,2025-08-20,UK,DEC04,2,59.99,0.15,Returning,Marketplace
+Shopify,N01111,2,2025-08-20,UK,STO02,3,24.99,0,Returning,Marketplace
+Amazon,N01112,1,2025-08-20,DE,STO02,3,24.99,0,Returning,Organic
+Amazon,N01113,1,2025-08-20,UK,KIT04,2,59.99,0.10,New,Direct
+Amazon,N01114,1,2025-08-20,DE,KIT02,1,59.99,0.10,Returning,Direct
+Amazon,N01115,1,2025-08-20,US,STO03,2,39.99,0,New,Email
+Amazon,N01116,1,2025-08-20,CA,LIG01,1,24.99,0,New,Marketplace
+Amazon,N01117,1,2025-08-20,UK,KIT03,1,79.99,0.15,Returning,Marketplace
+Amazon,N01118,1,2025-08-20,US,STO02,2,14.99,0.10,New,Marketplace
+Amazon,N01119,1,2025-08-20,CA,DEC02,3,24.99,0.15,Returning,Email
+Amazon,N01119,2,2025-08-20,CA,DEC02,3,14.99,0,Returning,Email
+Amazon,N01120,1,2025-08-20,CA,STO02,3,14.99,0,Returning,Email
+Amazon,N01121,1,2025-08-20,DE,LIG03,1,39.99,0.10,Returning,Paid search
+Amazon,N01122,1,2025-08-20,US,LIG02,1,39.99,0,New,Email
+Shopify,N01123,1,2025-08-21,US,STO04,1,59.99,0.10,Returning,Direct
+Shopify,N01124,1,2025-08-21,DE,BED03,1,24.99,0,New,Direct
+Shopify,N01125,1,2025-08-21,DE,KIT01,1,39.99,0.10,Returning,Marketplace
+Shopify,N01126,1,2025-08-21,UK,LIG01,1,24.99,0.15,Returning,Direct
+Shopify,N01127,1,2025-08-21,US,DEC01,1,14.99,0.15,New,Direct
+Shopify,N01128,1,2025-08-21,US,DEC04,2,59.99,0,New,Marketplace
+Shopify,N01129,1,2025-08-21,CA,BED04,3,79.99,0.10,New,Organic
+Shopify,N01129,2,2025-08-21,CA,DEC01,2,24.99,0,New,Organic
+Shopify,N01130,1,2025-08-21,US,STO01,2,14.99,0,New,Paid search
+Shopify,N01131,1,2025-08-21,US,KIT04,3,79.99,0,New,Marketplace
+Shopify,N01132,1,2025-08-21,CA,KIT03,3,14.99,0,Returning,Organic
+Shopify,N01132,2,2025-08-21,CA,DEC02,3,39.99,0,Returning,Organic
+Shopify,N01133,1,2025-08-21,US,KIT02,3,24.99,0,Returning,Email
+Shopify,N01133,2,2025-08-21,US,LIG02,1,59.99,0,Returning,Email
+Amazon,N01134,1,2025-08-21,CA,LIG03,2,79.99,0,Returning,Paid search
+Amazon,N01134,2,2025-08-21,CA,LIG04,1,14.99,0,Returning,Paid search
+Amazon,N01135,1,2025-08-21,US,LIG04,3,24.99,0,New,Paid search
+Amazon,N01136,1,2025-08-21,DE,STO03,2,24.99,0,Returning,Organic
+Amazon,N01136,2,2025-08-21,DE,STO02,3,79.99,0,Returning,Organic
+Amazon,N01137,1,2025-08-21,UK,BED03,2,79.99,0,Returning,Organic
+Amazon,N01138,1,2025-08-21,CA,LIG02,1,24.99,0,New,Paid search
+Amazon,N01139,1,2025-08-21,UK,BED02,1,39.99,0.10,New,Paid search
+Amazon,N01140,1,2025-08-21,US,KIT01,3,14.99,0,Returning,Paid search
+Amazon,N01141,1,2025-08-21,US,BED04,1,79.99,0,New,Direct
+Amazon,N01141,2,2025-08-21,US,LIG03,3,59.99,0,New,Direct
+Amazon,N01142,1,2025-08-21,CA,LIG01,1,39.99,0.15,New,Organic
+Amazon,N01142,2,2025-08-21,CA,DEC02,2,79.99,0.10,New,Organic
+Amazon,N01143,1,2025-08-21,UK,LIG03,1,14.99,0.10,Returning,Organic
+Amazon,N01143,2,2025-08-21,UK,STO02,2,79.99,0,Returning,Organic
+Amazon,N01144,1,2025-08-21,US,STO04,2,14.99,0.10,Returning,Paid search
+Amazon,N01144,2,2025-08-21,US,DEC01,3,79.99,0.10,Returning,Paid search
+Shopify,N01145,1,2025-08-22,UK,BED01,2,24.99,0,Returning,Direct
+Shopify,N01146,1,2025-08-22,UK,KIT03,3,24.99,0.10,New,Paid search
+Shopify,N01146,2,2025-08-22,UK,LIG02,3,59.99,0.10,New,Paid search
+Shopify,N01147,1,2025-08-22,US,STO02,2,24.99,0,Returning,Paid search
+Shopify,N01148,1,2025-08-22,US,KIT02,1,39.99,0,New,Paid search
+Shopify,N01149,1,2025-08-22,DE,BED03,3,39.99,0.10,New,Paid search
+Shopify,N01150,1,2025-08-22,US,LIG02,1,59.99,0,New,Marketplace
+Shopify,N01151,1,2025-08-22,UK,KIT02,3,14.99,0.15,Returning,Marketplace
+Shopify,N01152,1,2025-08-22,CA,BED04,3,14.99,0.15,New,Organic
+Shopify,N01152,2,2025-08-22,CA,DEC03,1,24.99,0.15,New,Organic
+Shopify,N01153,1,2025-08-22,UK,BED03,1,79.99,0.15,Returning,Marketplace
+Shopify,N01153,2,2025-08-22,UK,KIT03,2,39.99,0.10,Returning,Marketplace
+Shopify,N01154,1,2025-08-22,UK,LIG03,1,24.99,0,New,Direct
+Shopify,N01155,1,2025-08-22,US,STO04,2,39.99,0,New,Direct
+Shopify,N01155,2,2025-08-22,US,DEC01,3,24.99,0.15,New,Direct
+Amazon,N01156,1,2025-08-22,UK,BED01,3,59.99,0.10,Returning,Direct
+Amazon,N01156,2,2025-08-22,UK,KIT02,3,14.99,0,Returning,Direct
+Amazon,N01157,1,2025-08-22,US,STO02,3,39.99,0,Returning,Paid search
+Amazon,N01158,1,2025-08-22,CA,KIT02,1,79.99,0,New,Paid search
+Amazon,N01159,1,2025-08-22,US,BED02,3,24.99,0,New,Email
+Amazon,N01160,1,2025-08-22,US,BED03,1,79.99,0,Returning,Paid search
+Amazon,N01160,2,2025-08-22,US,BED01,3,79.99,0.15,Returning,Paid search
+Amazon,N01161,1,2025-08-22,UK,BED03,3,14.99,0,New,Organic
+Amazon,N01161,2,2025-08-22,UK,STO03,2,24.99,0,New,Organic
+Amazon,N01162,1,2025-08-22,US,BED02,3,79.99,0.10,New,Organic
+Amazon,N01162,2,2025-08-22,US,DEC02,1,59.99,0.15,New,Organic
+Amazon,N01163,1,2025-08-22,CA,KIT01,3,79.99,0,Returning,Paid search
+Amazon,N01163,2,2025-08-22,CA,KIT02,1,59.99,0,Returning,Paid search
+Amazon,N01164,1,2025-08-22,DE,KIT02,1,79.99,0,Returning,Paid search
+Amazon,N01165,1,2025-08-22,US,DEC01,2,14.99,0,New,Email
+Amazon,N01166,1,2025-08-22,US,BED01,3,59.99,0.15,New,Marketplace
+Shopify,N01167,1,2025-08-23,CA,BED04,2,14.99,0.15,Returning,Direct
+Shopify,N01168,1,2025-08-23,US,KIT02,3,14.99,0.15,New,Paid search
+Shopify,N01168,2,2025-08-23,US,STO01,2,79.99,0,New,Paid search
+Shopify,N01169,1,2025-08-23,DE,BED04,1,39.99,0,Returning,Direct
+Shopify,N01170,1,2025-08-23,US,LIG04,2,14.99,0,Returning,Email
+Shopify,N01170,2,2025-08-23,US,BED04,2,24.99,0.15,Returning,Email
+Shopify,N01171,1,2025-08-23,DE,BED03,3,39.99,0.10,New,Paid search
+Shopify,N01171,2,2025-08-23,DE,DEC04,2,24.99,0,New,Paid search
+Shopify,N01172,1,2025-08-23,US,LIG03,3,59.99,0.15,Returning,Organic
+Shopify,N01173,1,2025-08-23,CA,KIT04,3,14.99,0.15,New,Organic
+Shopify,N01174,1,2025-08-23,US,KIT04,1,79.99,0,Returning,Marketplace
+Shopify,N01175,1,2025-08-23,CA,LIG01,2,59.99,0,New,Organic
+Shopify,N01176,1,2025-08-23,US,LIG04,1,24.99,0.15,Returning,Paid search
+Shopify,N01176,2,2025-08-23,US,LIG02,2,24.99,0.15,Returning,Paid search
+Shopify,N01177,1,2025-08-23,DE,LIG04,1,59.99,0.10,Returning,Organic
+Amazon,N01178,1,2025-08-23,DE,STO04,1,24.99,0,New,Email
+Amazon,N01178,2,2025-08-23,DE,KIT01,2,39.99,0.15,New,Email
+Amazon,N01179,1,2025-08-23,US,KIT04,1,24.99,0.15,New,Organic
+Amazon,N01180,1,2025-08-23,US,BED04,3,79.99,0,Returning,Direct
+Amazon,N01181,1,2025-08-23,US,DEC04,2,39.99,0.15,New,Email
+Amazon,N01181,2,2025-08-23,US,STO04,3,59.99,0.15,New,Email
+Amazon,N01182,1,2025-08-23,UK,KIT03,3,39.99,0.15,New,Email
+Amazon,N01183,1,2025-08-23,UK,LIG04,3,79.99,0.15,Returning,Email
+Amazon,N01184,1,2025-08-23,UK,BED04,3,39.99,0.10,New,Paid search
+Amazon,N01184,2,2025-08-23,UK,LIG01,3,39.99,0.15,New,Paid search
+Amazon,N01185,1,2025-08-23,US,KIT02,2,24.99,0.10,New,Marketplace
+Amazon,N01186,1,2025-08-23,DE,KIT01,3,79.99,0.10,Returning,Paid search
+Amazon,N01187,1,2025-08-23,CA,KIT04,1,59.99,0.15,New,Email
+Amazon,N01187,2,2025-08-23,CA,BED04,1,39.99,0,New,Email
+Amazon,N01188,1,2025-08-23,UK,DEC01,2,79.99,0,New,Email
+Shopify,N01189,1,2025-08-24,US,DEC03,2,24.99,0.10,New,Organic
+Shopify,N01189,2,2025-08-24,US,BED04,3,39.99,0.15,New,Organic
+Shopify,N01190,1,2025-08-24,UK,STO02,2,24.99,0.10,Returning,Paid search
+Shopify,N01191,1,2025-08-24,DE,BED04,3,24.99,0.15,New,Organic
+Shopify,N01192,1,2025-08-24,CA,DEC04,3,24.99,0.10,New,Email
+Shopify,N01192,2,2025-08-24,CA,KIT01,3,14.99,0,New,Email
+Shopify,N01193,1,2025-08-24,DE,STO01,1,39.99,0.10,New,Direct
+Shopify,N01194,1,2025-08-24,UK,DEC01,3,24.99,0.10,New,Paid search
+Shopify,N01195,1,2025-08-24,UK,STO03,1,59.99,0,New,Direct
+Shopify,N01196,1,2025-08-24,UK,BED02,2,79.99,0,New,Email
+Shopify,N01197,1,2025-08-24,US,BED01,2,24.99,0,New,Direct
+Shopify,N01198,1,2025-08-24,CA,KIT03,2,24.99,0,Returning,Marketplace
+Shopify,N01199,1,2025-08-24,UK,KIT02,3,39.99,0.10,New,Marketplace
+Amazon,N01200,1,2025-08-24,US,DEC03,1,79.99,0.15,New,Marketplace
+Amazon,N01201,1,2025-08-24,US,LIG02,1,79.99,0,New,Direct
+Amazon,N01201,2,2025-08-24,US,STO04,2,59.99,0.10,New,Direct
+Amazon,N01202,1,2025-08-24,CA,LIG04,2,79.99,0.10,New,Direct
+Amazon,N01203,1,2025-08-24,CA,STO04,1,24.99,0,Returning,Paid search
+Amazon,N01203,2,2025-08-24,CA,KIT03,2,79.99,0,Returning,Paid search
+Amazon,N01204,1,2025-08-24,CA,KIT01,1,59.99,0.15,New,Organic
+Amazon,N01205,1,2025-08-24,US,BED04,3,14.99,0.15,Returning,Marketplace
+Amazon,N01205,2,2025-08-24,US,KIT03,3,14.99,0,Returning,Marketplace
+Amazon,N01206,1,2025-08-24,UK,DEC01,3,24.99,0,Returning,Organic
+Amazon,N01206,2,2025-08-24,UK,DEC04,2,59.99,0,Returning,Organic
+Amazon,N01207,1,2025-08-24,UK,KIT02,3,59.99,0.15,New,Organic
+Amazon,N01208,1,2025-08-24,UK,STO01,3,24.99,0,New,Direct
+Amazon,N01208,2,2025-08-24,UK,DEC04,2,59.99,0.15,New,Direct
+Amazon,N01209,1,2025-08-24,UK,DEC03,2,59.99,0.15,New,Direct
+Amazon,N01210,1,2025-08-24,US,STO03,2,59.99,0,New,Direct
+Shopify,N01211,1,2025-08-25,DE,DEC02,2,14.99,0.15,New,Direct
+Shopify,N01211,2,2025-08-25,DE,KIT02,1,24.99,0,New,Direct
+Shopify,N01212,1,2025-08-25,US,DEC03,3,59.99,0,New,Direct
+Shopify,N01213,1,2025-08-25,US,BED02,1,24.99,0.10,Returning,Marketplace
+Shopify,N01213,2,2025-08-25,US,DEC01,2,59.99,0.10,Returning,Marketplace
+Shopify,N01214,1,2025-08-25,US,DEC04,1,24.99,0.15,Returning,Paid search
+Shopify,N01215,1,2025-08-25,CA,KIT02,1,79.99,0.10,Returning,Paid search
+Shopify,N01216,1,2025-08-25,DE,DEC02,1,24.99,0.15,New,Email
+Shopify,N01217,1,2025-08-25,US,BED04,3,59.99,0,New,Direct
+Shopify,N01217,2,2025-08-25,US,LIG02,3,59.99,0.10,New,Direct
+Shopify,N01218,1,2025-08-25,CA,STO04,2,79.99,0.10,Returning,Marketplace
+Shopify,N01218,2,2025-08-25,CA,LIG04,3,59.99,0,Returning,Marketplace
+Shopify,N01219,1,2025-08-25,CA,DEC01,3,59.99,0,Returning,Marketplace
+Shopify,N01220,1,2025-08-25,US,BED04,3,79.99,0.10,New,Direct
+Shopify,N01221,1,2025-08-25,CA,KIT03,2,24.99,0,New,Marketplace
+Amazon,N01222,1,2025-08-25,CA,DEC04,3,39.99,0,New,Marketplace
+Amazon,N01223,1,2025-08-25,CA,BED02,2,24.99,0,New,Organic
+Amazon,N01224,1,2025-08-25,DE,KIT02,3,14.99,0,New,Marketplace
+Amazon,N01225,1,2025-08-25,DE,DEC02,3,39.99,0,Returning,Organic
+Amazon,N01226,1,2025-08-25,US,KIT03,1,59.99,0.10,Returning,Marketplace
+Amazon,N01227,1,2025-08-25,CA,LIG04,3,39.99,0,Returning,Paid search
+Amazon,N01227,2,2025-08-25,CA,BED01,1,24.99,0,Returning,Paid search
+Amazon,N01228,1,2025-08-25,US,BED01,3,39.99,0.15,New,Organic
+Amazon,N01229,1,2025-08-25,US,STO03,2,24.99,0,Returning,Marketplace
+Amazon,N01229,2,2025-08-25,US,STO01,1,79.99,0.15,Returning,Marketplace
+Amazon,N01230,1,2025-08-25,UK,KIT02,3,39.99,0,New,Marketplace
+Amazon,N01230,2,2025-08-25,UK,KIT03,1,79.99,0,New,Marketplace
+Amazon,N01231,1,2025-08-25,US,DEC04,3,39.99,0,New,Paid search
+Amazon,N01232,1,2025-08-25,US,DEC02,1,39.99,0.10,New,Organic
+Shopify,N01233,1,2025-08-26,CA,LIG01,2,14.99,0.15,New,Organic
+Shopify,N01234,1,2025-08-26,US,STO02,1,59.99,0,New,Email
+Shopify,N01235,1,2025-08-26,DE,LIG04,2,59.99,0.15,Returning,Marketplace
+Shopify,N01236,1,2025-08-26,UK,BED01,3,59.99,0,New,Email
+Shopify,N01237,1,2025-08-26,US,KIT02,1,24.99,0.10,Returning,Paid search
+Shopify,N01238,1,2025-08-26,CA,STO01,3,39.99,0,Returning,Direct
+Shopify,N01238,2,2025-08-26,CA,BED03,1,79.99,0.10,Returning,Direct
+Shopify,N01239,1,2025-08-26,CA,LIG04,3,59.99,0,Returning,Paid search
+Shopify,N01240,1,2025-08-26,US,LIG03,3,39.99,0.15,New,Direct
+Shopify,N01240,2,2025-08-26,US,KIT01,3,79.99,0.15,New,Direct
+Shopify,N01241,1,2025-08-26,UK,KIT04,2,79.99,0,Returning,Marketplace
+Shopify,N01242,1,2025-08-26,UK,STO02,1,59.99,0.15,Returning,Organic
+Shopify,N01243,1,2025-08-26,DE,LIG04,3,24.99,0.10,Returning,Paid search
+Shopify,N01243,2,2025-08-26,DE,LIG01,3,14.99,0.10,Returning,Paid search
+Amazon,N01244,1,2025-08-26,DE,LIG04,3,24.99,0.15,New,Organic
+Amazon,N01245,1,2025-08-26,CA,STO03,2,39.99,0.15,Returning,Paid search
+Amazon,N01246,1,2025-08-26,UK,LIG01,2,59.99,0.15,Returning,Email
+Amazon,N01246,2,2025-08-26,UK,KIT01,3,14.99,0,Returning,Email
+Amazon,N01247,1,2025-08-26,US,BED02,1,59.99,0,New,Direct
+Amazon,N01248,1,2025-08-26,US,LIG01,2,14.99,0.10,Returning,Paid search
+Amazon,N01249,1,2025-08-26,UK,STO02,1,59.99,0,New,Organic
+Amazon,N01250,1,2025-08-26,UK,BED02,3,79.99,0.10,New,Marketplace
+Amazon,N01250,2,2025-08-26,UK,KIT01,3,39.99,0.15,New,Marketplace
+Amazon,N01251,1,2025-08-26,UK,BED04,1,59.99,0.10,New,Organic
+Amazon,N01251,2,2025-08-26,UK,LIG01,2,24.99,0.15,New,Organic
+Amazon,N01252,1,2025-08-26,US,KIT04,3,24.99,0,Returning,Email
+Amazon,N01253,1,2025-08-26,UK,LIG03,2,39.99,0.15,Returning,Paid search
+Amazon,N01254,1,2025-08-26,US,STO01,1,39.99,0.10,New,Marketplace
+Shopify,N01255,1,2025-08-27,US,DEC01,1,24.99,0,Returning,Paid search
+Shopify,N01255,2,2025-08-27,US,STO03,1,39.99,0,Returning,Paid search
+Shopify,N01256,1,2025-08-27,UK,BED03,2,24.99,0,New,Organic
+Shopify,N01257,1,2025-08-27,US,BED03,2,79.99,0,New,Direct
+Shopify,N01258,1,2025-08-27,DE,STO01,3,39.99,0.10,Returning,Direct
+Shopify,N01259,1,2025-08-27,CA,BED03,2,79.99,0.15,New,Organic
+Shopify,N01260,1,2025-08-27,CA,BED01,1,59.99,0,Returning,Paid search
+Shopify,N01261,1,2025-08-27,US,KIT03,2,39.99,0,New,Paid search
+Shopify,N01262,1,2025-08-27,UK,STO02,1,79.99,0,New,Organic
+Shopify,N01262,2,2025-08-27,UK,LIG04,3,39.99,0.15,New,Organic
+Shopify,N01263,1,2025-08-27,US,LIG02,2,14.99,0,Returning,Organic
+Shopify,N01263,2,2025-08-27,US,LIG01,3,14.99,0.10,Returning,Organic
+Shopify,N01264,1,2025-08-27,US,BED02,2,24.99,0,New,Paid search
+Shopify,N01265,1,2025-08-27,CA,KIT03,1,79.99,0.15,New,Direct
+Shopify,N01265,2,2025-08-27,CA,DEC03,1,14.99,0,New,Direct
+Amazon,N01266,1,2025-08-27,CA,KIT02,1,59.99,0,Returning,Email
+Amazon,N01267,1,2025-08-27,UK,DEC03,3,14.99,0.15,Returning,Marketplace
+Amazon,N01268,1,2025-08-27,CA,LIG04,1,59.99,0.10,New,Organic
+Amazon,N01269,1,2025-08-27,US,LIG02,2,59.99,0.15,New,Email
+Amazon,N01270,1,2025-08-27,DE,KIT04,1,39.99,0,Returning,Marketplace
+Amazon,N01271,1,2025-08-27,CA,KIT04,1,79.99,0,New,Organic
+Amazon,N01272,1,2025-08-27,US,STO04,2,24.99,0,Returning,Email
+Amazon,N01273,1,2025-08-27,DE,BED02,1,39.99,0.10,New,Marketplace
+Amazon,N01274,1,2025-08-27,DE,KIT03,1,14.99,0.10,New,Organic
+Amazon,N01275,1,2025-08-27,DE,BED02,3,24.99,0,New,Marketplace
+Amazon,N01276,1,2025-08-27,DE,STO04,2,39.99,0.15,Returning,Organic
+Shopify,N01277,1,2025-08-28,US,LIG02,2,39.99,0.15,New,Organic
+Shopify,N01278,1,2025-08-28,CA,STO04,3,59.99,0.10,New,Paid search
+Shopify,N01279,1,2025-08-28,US,KIT03,1,39.99,0.15,New,Email
+Shopify,N01280,1,2025-08-28,UK,BED03,3,79.99,0,New,Organic
+Shopify,N01280,2,2025-08-28,UK,STO03,3,24.99,0.10,New,Organic
+Shopify,N01281,1,2025-08-28,CA,LIG03,2,59.99,0,New,Organic
+Shopify,N01282,1,2025-08-28,US,LIG02,1,79.99,0,Returning,Paid search
+Shopify,N01282,2,2025-08-28,US,KIT02,1,59.99,0.15,Returning,Paid search
+Shopify,N01283,1,2025-08-28,UK,DEC01,3,39.99,0,Returning,Email
+Shopify,N01283,2,2025-08-28,UK,KIT01,3,39.99,0,Returning,Email
+Shopify,N01284,1,2025-08-28,DE,LIG02,2,14.99,0,Returning,Paid search
+Shopify,N01285,1,2025-08-28,UK,BED02,1,59.99,0,Returning,Email
+Shopify,N01285,2,2025-08-28,UK,BED03,3,14.99,0.15,Returning,Email
+Shopify,N01286,1,2025-08-28,DE,BED04,2,14.99,0.10,Returning,Marketplace
+Shopify,N01287,1,2025-08-28,US,STO01,1,79.99,0,Returning,Organic
+Amazon,N01288,1,2025-08-28,US,LIG02,1,79.99,0.10,Returning,Organic
+Amazon,N01288,2,2025-08-28,US,STO01,2,39.99,0,Returning,Organic
+Amazon,N01289,1,2025-08-28,US,BED02,2,59.99,0.10,New,Direct
+Amazon,N01289,2,2025-08-28,US,DEC03,3,24.99,0,New,Direct
+Amazon,N01290,1,2025-08-28,CA,BED02,2,59.99,0,New,Paid search
+Amazon,N01291,1,2025-08-28,CA,STO02,1,59.99,0.15,New,Email
+Amazon,N01292,1,2025-08-28,UK,BED03,1,39.99,0.15,Returning,Organic
+Amazon,N01292,2,2025-08-28,UK,LIG02,1,59.99,0.10,Returning,Organic
+Amazon,N01293,1,2025-08-28,CA,BED03,3,59.99,0.15,New,Marketplace
+Amazon,N01293,2,2025-08-28,CA,LIG03,2,39.99,0,New,Marketplace
+Amazon,N01294,1,2025-08-28,DE,KIT02,2,59.99,0,New,Marketplace
+Amazon,N01294,2,2025-08-28,DE,LIG02,2,24.99,0,New,Marketplace
+Amazon,N01295,1,2025-08-28,DE,STO03,1,14.99,0,New,Organic
+Amazon,N01296,1,2025-08-28,US,KIT03,1,24.99,0.10,New,Paid search
+Amazon,N01297,1,2025-08-28,CA,LIG01,3,79.99,0,New,Organic
+Amazon,N01298,1,2025-08-28,US,BED04,2,14.99,0.15,New,Organic
+Shopify,N01299,1,2025-08-29,CA,LIG04,3,79.99,0,Returning,Direct
+Shopify,N01300,1,2025-08-29,DE,BED02,2,14.99,0.10,New,Organic
+Shopify,N01301,1,2025-08-29,DE,DEC04,1,59.99,0,New,Direct
+Shopify,N01301,2,2025-08-29,DE,KIT04,2,79.99,0,New,Direct
+Shopify,N01302,1,2025-08-29,UK,BED03,1,59.99,0,New,Direct
+Shopify,N01303,1,2025-08-29,CA,LIG02,3,59.99,0,New,Organic
+Shopify,N01304,1,2025-08-29,UK,DEC03,2,24.99,0,New,Paid search
+Shopify,N01304,2,2025-08-29,UK,LIG02,1,39.99,0.10,New,Paid search
+Shopify,N01305,1,2025-08-29,CA,LIG02,1,59.99,0.15,New,Email
+Shopify,N01305,2,2025-08-29,CA,KIT01,2,79.99,0.10,New,Email
+Shopify,N01306,1,2025-08-29,CA,BED04,1,39.99,0,Returning,Email
+Shopify,N01307,1,2025-08-29,UK,BED02,3,59.99,0,New,Direct
+Shopify,N01308,1,2025-08-29,DE,DEC02,1,24.99,0,New,Email
+Shopify,N01309,1,2025-08-29,US,BED04,2,59.99,0.10,New,Marketplace
+Amazon,N01310,1,2025-08-29,US,DEC02,3,79.99,0.10,New,Email
+Amazon,N01311,1,2025-08-29,UK,LIG02,3,59.99,0,Returning,Email
+Amazon,N01312,1,2025-08-29,UK,LIG04,3,79.99,0,Returning,Marketplace
+Amazon,N01313,1,2025-08-29,US,KIT04,1,59.99,0.10,New,Direct
+Amazon,N01314,1,2025-08-29,US,KIT03,3,59.99,0.10,Returning,Marketplace
+Amazon,N01315,1,2025-08-29,US,LIG03,3,24.99,0,New,Organic
+Amazon,N01316,1,2025-08-29,CA,STO02,1,59.99,0.10,Returning,Marketplace
+Amazon,N01316,2,2025-08-29,CA,KIT01,3,39.99,0,Returning,Marketplace
+Amazon,N01317,1,2025-08-29,DE,STO02,1,79.99,0,New,Direct
+Amazon,N01318,1,2025-08-29,CA,BED04,2,14.99,0,Returning,Organic
+Amazon,N01319,1,2025-08-29,US,LIG02,1,79.99,0.15,New,Email
+Amazon,N01320,1,2025-08-29,US,BED02,1,14.99,0.10,New,Direct
+Amazon,N01320,2,2025-08-29,US,DEC02,3,59.99,0,New,Direct
+Shopify,N01321,1,2025-08-30,UK,BED01,3,24.99,0.10,New,Organic
+Shopify,N01322,1,2025-08-30,US,LIG03,2,39.99,0.10,New,Paid search
+Shopify,N01322,2,2025-08-30,US,BED03,1,24.99,0.10,New,Paid search
+Shopify,N01323,1,2025-08-30,US,KIT02,2,59.99,0,New,Paid search
+Shopify,N01324,1,2025-08-30,CA,STO01,1,24.99,0.10,Returning,Direct
+Shopify,N01325,1,2025-08-30,CA,LIG02,3,39.99,0,New,Organic
+Shopify,N01325,2,2025-08-30,CA,LIG01,2,59.99,0.15,New,Organic
+Shopify,N01326,1,2025-08-30,UK,KIT03,2,59.99,0,New,Email
+Shopify,N01327,1,2025-08-30,DE,BED01,3,14.99,0,New,Organic
+Shopify,N01327,2,2025-08-30,DE,STO01,1,24.99,0.10,New,Organic
+Shopify,N01328,1,2025-08-30,UK,KIT02,1,79.99,0.15,New,Paid search
+Shopify,N01329,1,2025-08-30,CA,KIT04,1,24.99,0.15,New,Direct
+Shopify,N01330,1,2025-08-30,DE,KIT02,1,79.99,0.15,New,Marketplace
+Shopify,N01331,1,2025-08-30,US,LIG02,3,14.99,0,Returning,Email
+Amazon,N01332,1,2025-08-30,UK,KIT02,3,59.99,0,New,Paid search
+Amazon,N01333,1,2025-08-30,UK,KIT01,3,24.99,0.15,New,Paid search
+Amazon,N01334,1,2025-08-30,US,KIT03,1,39.99,0,New,Direct
+Amazon,N01335,1,2025-08-30,CA,STO03,2,24.99,0.10,Returning,Paid search
+Amazon,N01336,1,2025-08-30,UK,STO02,1,24.99,0,Returning,Organic
+Amazon,N01337,1,2025-08-30,DE,BED01,3,24.99,0,New,Email
+Amazon,N01338,1,2025-08-30,US,DEC04,3,79.99,0.15,New,Organic
+Amazon,N01339,1,2025-08-30,DE,LIG03,1,24.99,0.15,Returning,Marketplace
+Amazon,N01339,2,2025-08-30,DE,DEC02,2,24.99,0,Returning,Marketplace
+Amazon,N01340,1,2025-08-30,US,KIT03,3,59.99,0,New,Paid search
+Amazon,N01340,2,2025-08-30,US,LIG04,1,39.99,0.10,New,Paid search
+Amazon,N01341,1,2025-08-30,UK,DEC04,2,59.99,0.15,New,Paid search
+Amazon,N01342,1,2025-08-30,DE,KIT03,2,14.99,0.15,Returning,Email
+Shopify,N01343,1,2025-08-31,DE,BED01,2,59.99,0.10,New,Paid search
+Shopify,N01343,2,2025-08-31,DE,DEC01,3,79.99,0,New,Paid search
+Shopify,N01344,1,2025-08-31,US,BED02,3,59.99,0.10,New,Organic
+Shopify,N01345,1,2025-08-31,UK,STO02,3,24.99,0.15,Returning,Paid search
+Shopify,N01346,1,2025-08-31,US,BED02,1,24.99,0,New,Organic
+Shopify,N01347,1,2025-08-31,UK,STO03,1,39.99,0,New,Paid search
+Shopify,N01347,2,2025-08-31,UK,LIG02,3,39.99,0.10,New,Paid search
+Shopify,N01348,1,2025-08-31,US,BED02,3,24.99,0.15,New,Email
+Shopify,N01349,1,2025-08-31,US,BED03,1,39.99,0.15,New,Email
+Shopify,N01349,2,2025-08-31,US,STO02,3,39.99,0.10,New,Email
+Shopify,N01350,1,2025-08-31,DE,STO02,2,24.99,0,New,Organic
+Shopify,N01351,1,2025-08-31,US,LIG02,2,14.99,0,New,Direct
+Shopify,N01352,1,2025-08-31,UK,LIG02,1,59.99,0.15,New,Direct
+Shopify,N01353,1,2025-08-31,US,STO04,2,59.99,0.10,New,Marketplace
+Shopify,N01353,2,2025-08-31,US,STO02,1,79.99,0.10,New,Marketplace
+Amazon,N01354,1,2025-08-31,DE,DEC04,1,14.99,0.15,Returning,Email
+Amazon,N01355,1,2025-08-31,US,KIT04,1,39.99,0,New,Marketplace
+Amazon,N01355,2,2025-08-31,US,BED02,2,79.99,0,New,Marketplace
+Amazon,N01356,1,2025-08-31,DE,STO03,3,79.99,0.15,New,Marketplace
+Amazon,N01357,1,2025-08-31,US,DEC04,3,14.99,0.15,New,Marketplace
+Amazon,N01357,2,2025-08-31,US,KIT01,1,24.99,0.10,New,Marketplace
+Amazon,N01358,1,2025-08-31,US,KIT03,3,79.99,0,Returning,Direct
+Amazon,N01359,1,2025-08-31,US,STO04,3,59.99,0.15,New,Marketplace
+Amazon,N01360,1,2025-08-31,CA,DEC02,1,79.99,0.15,New,Email
+Amazon,N01360,2,2025-08-31,CA,STO01,2,24.99,0,New,Email
+Amazon,N01361,1,2025-08-31,DE,STO03,2,39.99,0.15,Returning,Marketplace
+Amazon,N01361,2,2025-08-31,DE,KIT03,3,14.99,0,Returning,Marketplace
+Amazon,N01362,1,2025-08-31,US,BED02,2,59.99,0,Returning,Organic
+Amazon,N01362,2,2025-08-31,US,KIT01,2,39.99,0.15,Returning,Organic
+Amazon,N01363,1,2025-08-31,DE,BED02,1,79.99,0,New,Email
+Amazon,N01363,2,2025-08-31,DE,KIT01,2,59.99,0.15,New,Email
+Amazon,N01364,1,2025-08-31,DE,DEC02,2,14.99,0,New,Marketplace
+Shopify,N01365,1,2025-09-01,US,BED04,3,39.99,0.10,New,Marketplace
+Shopify,N01366,1,2025-09-01,CA,DEC03,3,59.99,0,Returning,Paid search
+Shopify,N01367,1,2025-09-01,US,DEC02,3,24.99,0.10,New,Direct
+Shopify,N01368,1,2025-09-01,US,STO02,3,79.99,0,New,Direct
+Shopify,N01368,2,2025-09-01,US,KIT01,2,59.99,0,New,Direct
+Shopify,N01369,1,2025-09-01,US,DEC03,3,59.99,0,New,Organic
+Shopify,N01370,1,2025-09-01,CA,KIT01,1,39.99,0,New,Marketplace
+Shopify,N01371,1,2025-09-01,US,BED01,2,79.99,0.10,New,Email
+Shopify,N01372,1,2025-09-01,CA,LIG04,1,59.99,0.10,Returning,Direct
+Shopify,N01373,1,2025-09-01,DE,DEC04,2,59.99,0,New,Marketplace
+Shopify,N01374,1,2025-09-01,CA,LIG03,3,79.99,0,New,Paid search
+Shopify,N01375,1,2025-09-01,DE,STO01,3,59.99,0,New,Paid search
+Shopify,N01375,2,2025-09-01,DE,LIG03,3,59.99,0.10,New,Paid search
+Amazon,N01376,1,2025-09-01,DE,KIT02,3,59.99,0.15,New,Direct
+Amazon,N01376,2,2025-09-01,DE,BED02,3,14.99,0,New,Direct
+Amazon,N01377,1,2025-09-01,US,LIG02,1,79.99,0.15,Returning,Organic
+Amazon,N01378,1,2025-09-01,US,STO04,3,79.99,0,Returning,Paid search
+Amazon,N01378,2,2025-09-01,US,KIT02,1,39.99,0,Returning,Paid search
+Amazon,N01379,1,2025-09-01,US,LIG02,1,79.99,0,Returning,Marketplace
+Amazon,N01380,1,2025-09-01,US,BED04,2,14.99,0,New,Direct
+Amazon,N01380,2,2025-09-01,US,KIT03,1,39.99,0,New,Direct
+Amazon,N01381,1,2025-09-01,DE,KIT02,3,59.99,0.10,New,Direct
+Amazon,N01382,1,2025-09-01,US,KIT04,2,39.99,0,Returning,Email
+Amazon,N01383,1,2025-09-01,UK,DEC02,1,59.99,0,Returning,Organic
+Amazon,N01384,1,2025-09-01,DE,STO03,1,79.99,0.15,New,Organic
+Amazon,N01384,2,2025-09-01,DE,KIT02,3,39.99,0,New,Organic
+Amazon,N01385,1,2025-09-01,UK,KIT01,3,24.99,0.10,New,Direct
+Amazon,N01386,1,2025-09-01,DE,KIT02,3,39.99,0.10,New,Paid search
+Shopify,N01387,1,2025-09-02,UK,KIT01,2,79.99,0.15,New,Paid search
+Shopify,N01388,1,2025-09-02,CA,BED02,3,14.99,0,New,Direct
+Shopify,N01388,2,2025-09-02,CA,BED02,2,24.99,0,New,Direct
+Shopify,N01389,1,2025-09-02,US,BED02,1,39.99,0,Returning,Organic
+Shopify,N01390,1,2025-09-02,US,BED02,1,79.99,0,New,Email
+Shopify,N01391,1,2025-09-02,UK,LIG03,2,39.99,0,New,Organic
+Shopify,N01392,1,2025-09-02,US,BED04,1,39.99,0.15,New,Paid search
+Shopify,N01393,1,2025-09-02,CA,KIT04,2,79.99,0.10,Returning,Marketplace
+Shopify,N01394,1,2025-09-02,DE,LIG02,3,79.99,0,Returning,Organic
+Shopify,N01394,2,2025-09-02,DE,KIT02,3,79.99,0.10,Returning,Organic
+Shopify,N01395,1,2025-09-02,DE,STO01,2,59.99,0.15,Returning,Email
+Shopify,N01396,1,2025-09-02,US,DEC03,3,14.99,0.10,New,Paid search
+Shopify,N01397,1,2025-09-02,CA,DEC03,3,59.99,0.10,New,Direct
+Shopify,N01397,2,2025-09-02,CA,KIT02,1,79.99,0.15,New,Direct
+Amazon,N01398,1,2025-09-02,US,STO03,3,39.99,0.15,New,Marketplace
+Amazon,N01398,2,2025-09-02,US,KIT01,1,14.99,0,New,Marketplace
+Amazon,N01399,1,2025-09-02,US,LIG03,2,14.99,0,New,Organic
+Amazon,N01399,2,2025-09-02,US,KIT02,2,39.99,0,New,Organic
+Amazon,N01400,1,2025-09-02,US,DEC01,3,59.99,0,Returning,Organic
+Amazon,N01401,1,2025-09-02,US,STO02,3,14.99,0.15,New,Direct
+Amazon,N01402,1,2025-09-02,US,BED02,3,39.99,0,New,Organic
+Amazon,N01403,1,2025-09-02,UK,KIT02,2,24.99,0,New,Paid search
+Amazon,N01404,1,2025-09-02,CA,KIT02,3,14.99,0.10,Returning,Email
+Amazon,N01405,1,2025-09-02,US,KIT04,1,24.99,0.10,New,Marketplace
+Amazon,N01406,1,2025-09-02,CA,BED02,1,59.99,0.10,New,Organic
+Amazon,N01407,1,2025-09-02,US,DEC04,1,14.99,0,Returning,Organic
+Amazon,N01408,1,2025-09-02,US,LIG04,2,79.99,0.15,New,Paid search
+Shopify,N01409,1,2025-09-03,US,DEC01,1,39.99,0,New,Paid search
+Shopify,N01409,2,2025-09-03,US,LIG01,1,59.99,0,New,Paid search
+Shopify,N01410,1,2025-09-03,CA,KIT04,2,24.99,0,New,Email
+Shopify,N01411,1,2025-09-03,DE,LIG04,2,59.99,0.15,Returning,Organic
+Shopify,N01412,1,2025-09-03,DE,KIT02,2,14.99,0.10,New,Email
+Shopify,N01413,1,2025-09-03,US,LIG02,1,59.99,0.15,New,Organic
+Shopify,N01414,1,2025-09-03,CA,BED02,3,39.99,0.15,New,Organic
+Shopify,N01415,1,2025-09-03,US,KIT02,3,79.99,0,New,Marketplace
+Shopify,N01415,2,2025-09-03,US,LIG04,3,59.99,0,New,Marketplace
+Shopify,N01416,1,2025-09-03,UK,STO03,2,39.99,0.10,New,Organic
+Shopify,N01417,1,2025-09-03,US,STO01,3,39.99,0,New,Email
+Shopify,N01418,1,2025-09-03,DE,KIT04,1,59.99,0,New,Organic
+Shopify,N01419,1,2025-09-03,DE,DEC04,3,24.99,0,Returning,Organic
+Amazon,N01420,1,2025-09-03,DE,STO01,2,14.99,0.15,New,Paid search
+Amazon,N01421,1,2025-09-03,CA,DEC04,1,14.99,0,New,Marketplace
+Amazon,N01422,1,2025-09-03,DE,DEC03,2,79.99,0,New,Marketplace
+Amazon,N01423,1,2025-09-03,DE,KIT04,2,59.99,0,New,Email
+Amazon,N01424,1,2025-09-03,US,DEC01,1,39.99,0.10,New,Direct
+Amazon,N01424,2,2025-09-03,US,KIT04,3,59.99,0,New,Direct
+Amazon,N01425,1,2025-09-03,CA,DEC01,2,14.99,0,New,Direct
+Amazon,N01425,2,2025-09-03,CA,BED03,3,24.99,0,New,Direct
+Amazon,N01426,1,2025-09-03,UK,DEC03,3,39.99,0.10,New,Marketplace
+Amazon,N01427,1,2025-09-03,CA,STO02,1,79.99,0.15,Returning,Organic
+Amazon,N01428,1,2025-09-03,US,DEC03,2,24.99,0.10,New,Email
+Amazon,N01429,1,2025-09-03,UK,DEC01,1,79.99,0,Returning,Organic
+Amazon,N01430,1,2025-09-03,UK,DEC04,3,79.99,0.10,New,Paid search
+Amazon,N01430,2,2025-09-03,UK,BED02,1,24.99,0,New,Paid search
+Shopify,N01431,1,2025-09-04,US,BED03,2,39.99,0.10,New,Direct
+Shopify,N01432,1,2025-09-04,US,KIT03,2,14.99,0,New,Paid search
+Shopify,N01432,2,2025-09-04,US,KIT01,1,39.99,0,New,Paid search
+Shopify,N01433,1,2025-09-04,US,STO02,3,59.99,0,New,Marketplace
+Shopify,N01434,1,2025-09-04,US,DEC04,1,39.99,0.10,Returning,Email
+Shopify,N01435,1,2025-09-04,UK,STO04,3,14.99,0,Returning,Direct
+Shopify,N01435,2,2025-09-04,UK,BED02,1,79.99,0,Returning,Direct
+Shopify,N01436,1,2025-09-04,US,LIG01,2,14.99,0,New,Email
+Shopify,N01437,1,2025-09-04,DE,LIG03,2,79.99,0.10,Returning,Email
+Shopify,N01437,2,2025-09-04,DE,LIG04,1,24.99,0.10,Returning,Email
+Shopify,N01438,1,2025-09-04,UK,LIG02,2,14.99,0,New,Direct
+Shopify,N01439,1,2025-09-04,DE,BED02,3,79.99,0.10,Returning,Marketplace
+Shopify,N01439,2,2025-09-04,DE,BED02,1,24.99,0,Returning,Marketplace
+Shopify,N01440,1,2025-09-04,UK,LIG01,1,39.99,0.10,Returning,Direct
+Shopify,N01440,2,2025-09-04,UK,BED04,1,79.99,0.15,Returning,Direct
+Shopify,N01441,1,2025-09-04,US,STO03,1,59.99,0.15,Returning,Paid search
+Shopify,N01441,2,2025-09-04,US,BED04,3,39.99,0.10,Returning,Paid search
+Amazon,N01442,1,2025-09-04,CA,STO01,2,39.99,0.15,Returning,Marketplace
+Amazon,N01443,1,2025-09-04,UK,BED01,3,59.99,0,Returning,Organic
+Amazon,N01444,1,2025-09-04,UK,STO04,3,39.99,0.10,New,Marketplace
+Amazon,N01445,1,2025-09-04,DE,DEC04,1,24.99,0.10,New,Paid search
+Amazon,N01445,2,2025-09-04,DE,LIG04,3,39.99,0.10,New,Paid search
+Amazon,N01446,1,2025-09-04,CA,BED04,3,59.99,0.15,New,Organic
+Amazon,N01447,1,2025-09-04,US,KIT01,2,59.99,0,New,Paid search
+Amazon,N01448,1,2025-09-04,US,KIT02,1,39.99,0.15,New,Email
+Amazon,N01448,2,2025-09-04,US,STO02,1,14.99,0.10,New,Email
+Amazon,N01449,1,2025-09-04,CA,LIG04,2,24.99,0.10,Returning,Paid search
+Amazon,N01450,1,2025-09-04,US,LIG01,3,59.99,0.15,New,Direct
+Amazon,N01451,1,2025-09-04,US,LIG04,3,14.99,0,New,Organic
+Amazon,N01452,1,2025-09-04,US,DEC02,1,24.99,0.15,Returning,Direct
+Shopify,N01453,1,2025-09-05,US,BED01,2,59.99,0.10,New,Direct
+Shopify,N01453,2,2025-09-05,US,KIT02,1,79.99,0.15,New,Direct
+Shopify,N01454,1,2025-09-05,CA,KIT03,1,39.99,0.15,New,Email
+Shopify,N01454,2,2025-09-05,CA,BED03,3,24.99,0,New,Email
+Shopify,N01455,1,2025-09-05,DE,BED03,2,79.99,0,Returning,Direct
+Shopify,N01456,1,2025-09-05,DE,BED04,2,14.99,0.10,New,Organic
+Shopify,N01457,1,2025-09-05,CA,LIG02,3,24.99,0,New,Email
+Shopify,N01458,1,2025-09-05,UK,KIT04,2,79.99,0,New,Email
+Shopify,N01459,1,2025-09-05,US,DEC03,3,14.99,0,New,Direct
+Shopify,N01459,2,2025-09-05,US,LIG03,2,79.99,0,New,Direct
+Shopify,N01460,1,2025-09-05,US,STO01,2,14.99,0,New,Organic
+Shopify,N01460,2,2025-09-05,US,KIT02,2,39.99,0.10,New,Organic
+Shopify,N01461,1,2025-09-05,US,KIT03,2,59.99,0.10,Returning,Paid search
+Shopify,N01462,1,2025-09-05,CA,KIT03,2,24.99,0,New,Marketplace
+Shopify,N01462,2,2025-09-05,CA,BED04,3,39.99,0.10,New,Marketplace
+Shopify,N01463,1,2025-09-05,DE,KIT02,2,59.99,0.10,New,Direct
+Amazon,N01464,1,2025-09-05,UK,DEC02,2,24.99,0.10,New,Email
+Amazon,N01465,1,2025-09-05,US,STO02,1,79.99,0,New,Email
+Amazon,N01466,1,2025-09-05,US,LIG04,1,39.99,0.15,New,Direct
+Amazon,N01466,2,2025-09-05,US,STO03,1,14.99,0.10,New,Direct
+Amazon,N01467,1,2025-09-05,UK,STO01,2,59.99,0,New,Marketplace
+Amazon,N01468,1,2025-09-05,UK,KIT04,2,79.99,0,New,Marketplace
+Amazon,N01469,1,2025-09-05,DE,KIT03,1,39.99,0.10,New,Marketplace
+Amazon,N01469,2,2025-09-05,DE,STO03,1,14.99,0.15,New,Marketplace
+Amazon,N01470,1,2025-09-05,CA,KIT02,3,79.99,0,New,Direct
+Amazon,N01470,2,2025-09-05,CA,KIT04,1,79.99,0,New,Direct
+Amazon,N01471,1,2025-09-05,DE,LIG02,3,79.99,0,New,Direct
+Amazon,N01472,1,2025-09-05,UK,BED04,2,39.99,0.15,Returning,Paid search
+Amazon,N01472,2,2025-09-05,UK,BED04,3,39.99,0.15,Returning,Paid search
+Amazon,N01473,1,2025-09-05,UK,STO03,1,79.99,0,New,Email
+Amazon,N01474,1,2025-09-05,UK,DEC02,2,79.99,0.10,New,Marketplace
+Shopify,N01475,1,2025-09-06,CA,BED04,2,14.99,0,New,Organic
+Shopify,N01476,1,2025-09-06,US,LIG03,1,79.99,0,New,Email
+Shopify,N01477,1,2025-09-06,CA,DEC03,2,79.99,0.15,Returning,Direct
+Shopify,N01478,1,2025-09-06,US,LIG03,3,39.99,0,New,Organic
+Shopify,N01478,2,2025-09-06,US,STO01,3,59.99,0,New,Organic
+Shopify,N01479,1,2025-09-06,US,BED01,3,59.99,0,New,Organic
+Shopify,N01480,1,2025-09-06,CA,STO01,3,24.99,0.10,New,Organic
+Shopify,N01480,2,2025-09-06,CA,STO04,3,14.99,0.10,New,Organic
+Shopify,N01481,1,2025-09-06,US,LIG04,1,79.99,0,Returning,Paid search
+Shopify,N01482,1,2025-09-06,UK,LIG01,1,39.99,0,New,Direct
+Shopify,N01483,1,2025-09-06,DE,LIG04,1,79.99,0,New,Paid search
+Shopify,N01484,1,2025-09-06,DE,STO01,3,39.99,0.15,Returning,Marketplace
+Shopify,N01485,1,2025-09-06,UK,KIT04,1,59.99,0.10,Returning,Marketplace
+Amazon,N01486,1,2025-09-06,UK,STO04,2,24.99,0,New,Paid search
+Amazon,N01487,1,2025-09-06,UK,LIG04,3,79.99,0,Returning,Marketplace
+Amazon,N01487,2,2025-09-06,UK,STO01,3,79.99,0.10,Returning,Marketplace
+Amazon,N01488,1,2025-09-06,US,STO03,2,24.99,0.10,New,Direct
+Amazon,N01489,1,2025-09-06,CA,STO02,3,24.99,0.15,New,Email
+Amazon,N01490,1,2025-09-06,CA,BED04,1,59.99,0.10,New,Email
+Amazon,N01491,1,2025-09-06,CA,KIT03,3,14.99,0,New,Organic
+Amazon,N01492,1,2025-09-06,DE,LIG03,1,79.99,0,New,Paid search
+Amazon,N01493,1,2025-09-06,DE,STO04,3,24.99,0,New,Paid search
+Amazon,N01493,2,2025-09-06,DE,KIT02,1,39.99,0,New,Paid search
+Amazon,N01494,1,2025-09-06,DE,STO02,1,59.99,0.10,Returning,Paid search
+Amazon,N01495,1,2025-09-06,CA,LIG02,1,79.99,0,New,Organic
+Amazon,N01496,1,2025-09-06,US,DEC03,2,39.99,0.10,New,Marketplace
+Shopify,N01497,1,2025-09-07,DE,BED03,2,59.99,0,Returning,Email
+Shopify,N01498,1,2025-09-07,US,LIG01,2,79.99,0,New,Organic
+Shopify,N01499,1,2025-09-07,CA,STO01,1,59.99,0,New,Direct
+Shopify,N01500,1,2025-09-07,UK,STO02,2,39.99,0,New,Direct
+Shopify,N01501,1,2025-09-07,UK,DEC01,1,24.99,0.10,Returning,Marketplace
+Shopify,N01501,2,2025-09-07,UK,BED03,2,39.99,0,Returning,Marketplace
+Shopify,N01502,1,2025-09-07,US,DEC01,2,14.99,0.10,New,Marketplace
+Shopify,N01503,1,2025-09-07,US,STO02,3,79.99,0,New,Direct
+Shopify,N01504,1,2025-09-07,CA,STO03,1,59.99,0,Returning,Marketplace
+Shopify,N01505,1,2025-09-07,UK,KIT02,2,59.99,0,Returning,Email
+Shopify,N01506,1,2025-09-07,US,DEC02,2,14.99,0.15,Returning,Marketplace
+Shopify,N01507,1,2025-09-07,US,LIG04,1,39.99,0.15,New,Email
+Shopify,N01507,2,2025-09-07,US,LIG02,3,14.99,0,New,Email
+Amazon,N01508,1,2025-09-07,US,LIG04,3,14.99,0.15,New,Direct
+Amazon,N01509,1,2025-09-07,US,DEC03,2,39.99,0.10,New,Direct
+Amazon,N01509,2,2025-09-07,US,DEC02,2,79.99,0.10,New,Direct
+Amazon,N01510,1,2025-09-07,US,STO04,1,79.99,0,New,Direct
+Amazon,N01510,2,2025-09-07,US,LIG02,3,39.99,0.10,New,Direct
+Amazon,N01511,1,2025-09-07,DE,LIG02,3,59.99,0,Returning,Email
+Amazon,N01511,2,2025-09-07,DE,STO01,1,24.99,0,Returning,Email
+Amazon,N01512,1,2025-09-07,CA,BED03,2,59.99,0.10,New,Marketplace
+Amazon,N01513,1,2025-09-07,UK,KIT03,2,79.99,0.15,New,Email
+Amazon,N01514,1,2025-09-07,DE,KIT04,3,14.99,0.15,New,Paid search
+Amazon,N01514,2,2025-09-07,DE,DEC02,1,59.99,0,New,Paid search
+Amazon,N01515,1,2025-09-07,US,DEC04,1,39.99,0,New,Organic
+Amazon,N01515,2,2025-09-07,US,LIG04,1,14.99,0.15,New,Organic
+Amazon,N01516,1,2025-09-07,UK,LIG01,2,24.99,0.10,New,Paid search
+Amazon,N01516,2,2025-09-07,UK,LIG01,2,39.99,0,New,Paid search
+Amazon,N01517,1,2025-09-07,US,STO03,1,39.99,0.10,New,Marketplace
+Amazon,N01518,1,2025-09-07,CA,KIT01,3,24.99,0,New,Organic
+Shopify,N01519,1,2025-09-08,US,KIT03,3,14.99,0,New,Organic
+Shopify,N01520,1,2025-09-08,DE,LIG02,3,39.99,0,New,Direct
+Shopify,N01521,1,2025-09-08,US,KIT01,1,24.99,0,New,Marketplace
+Shopify,N01521,2,2025-09-08,US,STO02,3,79.99,0.15,New,Marketplace
+Shopify,N01522,1,2025-09-08,US,STO01,1,59.99,0.15,New,Email
+Shopify,N01522,2,2025-09-08,US,DEC02,1,39.99,0.10,New,Email
+Shopify,N01523,1,2025-09-08,US,STO03,2,39.99,0.15,Returning,Organic
+Shopify,N01524,1,2025-09-08,US,STO04,2,24.99,0,New,Paid search
+Shopify,N01525,1,2025-09-08,UK,BED03,3,59.99,0.10,New,Direct
+Shopify,N01526,1,2025-09-08,UK,DEC02,3,14.99,0.15,New,Email
+Shopify,N01527,1,2025-09-08,US,LIG02,3,79.99,0.15,New,Email
+Shopify,N01527,2,2025-09-08,US,STO04,3,59.99,0,New,Email
+Shopify,N01528,1,2025-09-08,UK,STO02,3,59.99,0.15,Returning,Marketplace
+Shopify,N01528,2,2025-09-08,UK,DEC04,2,14.99,0,Returning,Marketplace
+Shopify,N01529,1,2025-09-08,CA,LIG01,2,59.99,0,Returning,Direct
+Amazon,N01530,1,2025-09-08,US,LIG01,3,14.99,0.10,New,Marketplace
+Amazon,N01530,2,2025-09-08,US,DEC03,2,14.99,0,New,Marketplace
+Amazon,N01531,1,2025-09-08,US,LIG03,3,14.99,0.10,New,Paid search
+Amazon,N01532,1,2025-09-08,DE,KIT04,1,39.99,0,New,Direct
+Amazon,N01533,1,2025-09-08,US,DEC02,3,79.99,0.10,Returning,Direct
+Amazon,N01533,2,2025-09-08,US,BED04,3,24.99,0.10,Returning,Direct
+Amazon,N01534,1,2025-09-08,UK,STO01,1,14.99,0,New,Marketplace
+Amazon,N01535,1,2025-09-08,CA,LIG03,2,24.99,0.10,New,Marketplace
+Amazon,N01536,1,2025-09-08,UK,DEC01,3,59.99,0.15,New,Organic
+Amazon,N01537,1,2025-09-08,CA,KIT01,3,59.99,0,New,Marketplace
+Amazon,N01537,2,2025-09-08,CA,BED04,2,59.99,0.10,New,Marketplace
+Amazon,N01538,1,2025-09-08,US,DEC02,2,79.99,0.10,New,Email
+Amazon,N01539,1,2025-09-08,CA,KIT02,3,59.99,0.10,Returning,Email
+Amazon,N01540,1,2025-09-08,UK,LIG01,1,24.99,0.10,New,Organic
+Shopify,N01541,1,2025-09-09,DE,BED02,2,59.99,0.15,New,Organic
+Shopify,N01542,1,2025-09-09,CA,KIT04,3,24.99,0.10,New,Direct
+Shopify,N01543,1,2025-09-09,UK,DEC01,1,39.99,0.15,New,Paid search
+Shopify,N01544,1,2025-09-09,UK,STO03,1,59.99,0.10,Returning,Email
+Shopify,N01545,1,2025-09-09,CA,STO04,2,14.99,0,New,Direct
+Shopify,N01546,1,2025-09-09,CA,LIG01,1,24.99,0.15,Returning,Email
+Shopify,N01546,2,2025-09-09,CA,LIG02,1,79.99,0.10,Returning,Email
+Shopify,N01547,1,2025-09-09,DE,STO04,1,59.99,0,Returning,Marketplace
+Shopify,N01548,1,2025-09-09,CA,BED04,2,39.99,0,New,Paid search
+Shopify,N01549,1,2025-09-09,DE,LIG03,3,59.99,0,New,Direct
+Shopify,N01550,1,2025-09-09,UK,DEC04,3,39.99,0,New,Marketplace
+Shopify,N01551,1,2025-09-09,DE,KIT01,2,24.99,0,Returning,Email
+Shopify,N01551,2,2025-09-09,DE,BED02,2,79.99,0,Returning,Email
+Amazon,N01552,1,2025-09-09,CA,LIG04,2,39.99,0.15,New,Email
+Amazon,N01553,1,2025-09-09,US,BED04,3,79.99,0.10,New,Paid search
+Amazon,N01554,1,2025-09-09,US,LIG01,1,24.99,0.10,Returning,Direct
+Amazon,N01555,1,2025-09-09,US,BED01,3,14.99,0,New,Organic
+Amazon,N01556,1,2025-09-09,US,KIT02,3,59.99,0.15,Returning,Email
+Amazon,N01557,1,2025-09-09,US,BED02,2,14.99,0,New,Marketplace
+Amazon,N01558,1,2025-09-09,US,LIG01,2,14.99,0.15,Returning,Marketplace
+Amazon,N01558,2,2025-09-09,US,KIT03,2,14.99,0,Returning,Marketplace
+Amazon,N01559,1,2025-09-09,UK,DEC01,2,14.99,0.10,Returning,Direct
+Amazon,N01560,1,2025-09-09,US,KIT04,2,59.99,0,New,Email
+Amazon,N01561,1,2025-09-09,US,KIT04,1,59.99,0,New,Marketplace
+Amazon,N01562,1,2025-09-09,US,DEC04,2,24.99,0,New,Marketplace
+Shopify,N01563,1,2025-09-10,CA,KIT03,2,59.99,0.15,New,Direct
+Shopify,N01564,1,2025-09-10,UK,STO03,1,14.99,0.15,Returning,Paid search
+Shopify,N01565,1,2025-09-10,US,STO02,3,24.99,0,Returning,Paid search
+Shopify,N01566,1,2025-09-10,CA,BED04,2,59.99,0,Returning,Direct
+Shopify,N01567,1,2025-09-10,DE,KIT01,2,14.99,0,New,Organic
+Shopify,N01568,1,2025-09-10,UK,LIG01,3,24.99,0,Returning,Marketplace
+Shopify,N01568,2,2025-09-10,UK,DEC02,3,39.99,0.10,Returning,Marketplace
+Shopify,N01569,1,2025-09-10,DE,STO02,1,39.99,0.15,Returning,Organic
+Shopify,N01570,1,2025-09-10,US,KIT01,3,79.99,0,Returning,Email
+Shopify,N01571,1,2025-09-10,CA,LIG01,3,59.99,0,New,Email
+Shopify,N01572,1,2025-09-10,US,STO04,1,14.99,0.10,New,Direct
+Shopify,N01573,1,2025-09-10,US,STO01,2,59.99,0,Returning,Marketplace
+Amazon,N01574,1,2025-09-10,US,KIT01,3,59.99,0,Returning,Paid search
+Amazon,N01575,1,2025-09-10,US,LIG01,2,59.99,0.10,New,Organic
+Amazon,N01575,2,2025-09-10,US,DEC01,1,14.99,0,New,Organic
+Amazon,N01576,1,2025-09-10,US,BED01,2,24.99,0,New,Paid search
+Amazon,N01577,1,2025-09-10,US,DEC02,3,79.99,0,Returning,Paid search
+Amazon,N01578,1,2025-09-10,CA,LIG02,2,59.99,0,New,Paid search
+Amazon,N01579,1,2025-09-10,CA,KIT04,1,14.99,0,Returning,Organic
+Amazon,N01579,2,2025-09-10,CA,KIT03,1,39.99,0,Returning,Organic
+Amazon,N01580,1,2025-09-10,DE,LIG03,2,39.99,0,New,Paid search
+Amazon,N01581,1,2025-09-10,US,STO04,1,39.99,0,New,Paid search
+Amazon,N01581,2,2025-09-10,US,KIT02,2,39.99,0,New,Paid search
+Amazon,N01582,1,2025-09-10,CA,LIG01,2,24.99,0,Returning,Paid search
+Amazon,N01583,1,2025-09-10,US,STO02,2,59.99,0.10,Returning,Marketplace
+Amazon,N01584,1,2025-09-10,UK,BED03,3,59.99,0.10,New,Paid search
+Shopify,N01585,1,2025-09-11,CA,DEC04,2,59.99,0.10,New,Marketplace
+Shopify,N01585,2,2025-09-11,CA,DEC04,3,59.99,0,New,Marketplace
+Shopify,N01586,1,2025-09-11,US,KIT04,3,79.99,0.10,New,Paid search
+Shopify,N01587,1,2025-09-11,US,KIT03,1,39.99,0.15,Returning,Organic
+Shopify,N01587,2,2025-09-11,US,KIT03,1,14.99,0,Returning,Organic
+Shopify,N01588,1,2025-09-11,US,LIG03,2,79.99,0.10,Returning,Paid search
+Shopify,N01589,1,2025-09-11,US,BED03,1,79.99,0.15,New,Email
+Shopify,N01589,2,2025-09-11,US,STO02,2,39.99,0,New,Email
+Shopify,N01590,1,2025-09-11,CA,BED04,1,39.99,0,New,Organic
+Shopify,N01590,2,2025-09-11,CA,STO02,3,59.99,0,New,Organic
+Shopify,N01591,1,2025-09-11,US,DEC03,3,39.99,0,Returning,Direct
+Shopify,N01592,1,2025-09-11,US,BED02,1,79.99,0,New,Direct
+Shopify,N01592,2,2025-09-11,US,KIT03,1,39.99,0,New,Direct
+Shopify,N01593,1,2025-09-11,US,BED04,3,59.99,0.15,Returning,Marketplace
+Shopify,N01594,1,2025-09-11,US,BED02,3,14.99,0.10,New,Email
+Shopify,N01595,1,2025-09-11,UK,DEC04,3,14.99,0,Returning,Marketplace
+Shopify,N01595,2,2025-09-11,UK,BED01,3,79.99,0.15,Returning,Marketplace
+Amazon,N01596,1,2025-09-11,UK,KIT03,1,39.99,0.10,New,Organic
+Amazon,N01596,2,2025-09-11,UK,LIG02,2,59.99,0.10,New,Organic
+Amazon,N01597,1,2025-09-11,UK,DEC04,2,24.99,0,New,Paid search
+Amazon,N01598,1,2025-09-11,US,STO01,3,59.99,0.10,Returning,Paid search
+Amazon,N01599,1,2025-09-11,DE,LIG03,1,59.99,0.15,New,Paid search
+Amazon,N01599,2,2025-09-11,DE,BED04,3,39.99,0,New,Paid search
+Amazon,N01600,1,2025-09-11,US,KIT02,1,79.99,0,New,Email
+Amazon,N01601,1,2025-09-11,UK,KIT01,1,24.99,0,Returning,Email
+Amazon,N01602,1,2025-09-11,DE,BED02,3,79.99,0,New,Organic
+Amazon,N01603,1,2025-09-11,UK,DEC01,2,79.99,0,Returning,Direct
+Amazon,N01604,1,2025-09-11,UK,STO01,3,39.99,0,New,Marketplace
+Amazon,N01605,1,2025-09-11,UK,KIT02,2,24.99,0,Returning,Email
+Amazon,N01606,1,2025-09-11,DE,BED04,3,24.99,0,New,Marketplace
+Shopify,N01607,1,2025-09-12,US,BED03,3,59.99,0,New,Email
+Shopify,N01607,2,2025-09-12,US,BED04,3,79.99,0,New,Email
+Shopify,N01608,1,2025-09-12,US,LIG02,1,79.99,0,New,Marketplace
+Shopify,N01608,2,2025-09-12,US,BED04,1,14.99,0,New,Marketplace
+Shopify,N01609,1,2025-09-12,UK,LIG04,1,24.99,0,New,Paid search
+Shopify,N01610,1,2025-09-12,UK,BED03,1,24.99,0,New,Marketplace
+Shopify,N01610,2,2025-09-12,UK,STO01,2,79.99,0.15,New,Marketplace
+Shopify,N01611,1,2025-09-12,DE,LIG03,3,24.99,0.10,New,Marketplace
+Shopify,N01612,1,2025-09-12,US,DEC01,1,79.99,0,New,Marketplace
+Shopify,N01613,1,2025-09-12,DE,KIT04,2,14.99,0.15,New,Marketplace
+Shopify,N01614,1,2025-09-12,UK,STO01,3,79.99,0,Returning,Organic
+Shopify,N01614,2,2025-09-12,UK,STO04,1,24.99,0,Returning,Organic
+Shopify,N01615,1,2025-09-12,DE,LIG02,1,79.99,0,Returning,Marketplace
+Shopify,N01615,2,2025-09-12,DE,DEC01,3,24.99,0.10,Returning,Marketplace
+Shopify,N01616,1,2025-09-12,US,BED02,2,24.99,0.10,Returning,Direct
+Shopify,N01617,1,2025-09-12,US,STO03,1,24.99,0.15,New,Email
+Shopify,N01617,2,2025-09-12,US,KIT03,3,59.99,0,New,Email
+Amazon,N01618,1,2025-09-12,CA,LIG03,2,79.99,0,New,Email
+Amazon,N01619,1,2025-09-12,US,LIG02,3,24.99,0.10,New,Email
+Amazon,N01620,1,2025-09-12,US,KIT04,2,59.99,0.10,New,Organic
+Amazon,N01620,2,2025-09-12,US,KIT02,2,79.99,0,New,Organic
+Amazon,N01621,1,2025-09-12,DE,KIT03,3,59.99,0,New,Direct
+Amazon,N01622,1,2025-09-12,US,STO02,1,14.99,0,New,Paid search
+Amazon,N01622,2,2025-09-12,US,BED03,3,59.99,0,New,Paid search
+Amazon,N01623,1,2025-09-12,DE,STO03,1,79.99,0.15,Returning,Organic
+Amazon,N01623,2,2025-09-12,DE,KIT02,2,24.99,0,Returning,Organic
+Amazon,N01624,1,2025-09-12,US,KIT03,3,39.99,0,New,Direct
+Amazon,N01624,2,2025-09-12,US,LIG03,1,39.99,0.10,New,Direct
+Amazon,N01625,1,2025-09-12,US,LIG01,1,39.99,0.15,Returning,Direct
+Amazon,N01626,1,2025-09-12,DE,BED04,1,24.99,0,New,Paid search
+Amazon,N01626,2,2025-09-12,DE,KIT03,1,14.99,0.10,New,Paid search
+Amazon,N01627,1,2025-09-12,DE,LIG03,1,24.99,0.15,New,Direct
+Amazon,N01627,2,2025-09-12,DE,STO04,1,39.99,0,New,Direct
+Amazon,N01628,1,2025-09-12,DE,LIG04,3,24.99,0.10,Returning,Paid search
+Shopify,N01629,1,2025-09-13,US,BED04,2,79.99,0.10,New,Marketplace
+Shopify,N01630,1,2025-09-13,UK,KIT01,2,14.99,0,New,Organic
+Shopify,N01631,1,2025-09-13,DE,STO04,3,59.99,0.10,New,Marketplace
+Shopify,N01632,1,2025-09-13,DE,BED01,1,14.99,0,New,Paid search
+Shopify,N01633,1,2025-09-13,DE,DEC04,1,39.99,0,Returning,Organic
+Shopify,N01633,2,2025-09-13,DE,STO04,3,39.99,0,Returning,Organic
+Shopify,N01634,1,2025-09-13,US,LIG01,3,24.99,0.15,New,Paid search
+Shopify,N01634,2,2025-09-13,US,DEC02,1,59.99,0.15,New,Paid search
+Shopify,N01635,1,2025-09-13,UK,KIT02,1,24.99,0.15,New,Direct
+Shopify,N01635,2,2025-09-13,UK,DEC04,1,39.99,0,New,Direct
+Shopify,N01636,1,2025-09-13,US,KIT01,3,79.99,0.10,Returning,Paid search
+Shopify,N01636,2,2025-09-13,US,DEC03,2,14.99,0.10,Returning,Paid search
+Shopify,N01637,1,2025-09-13,UK,DEC02,3,39.99,0,Returning,Organic
+Shopify,N01637,2,2025-09-13,UK,LIG03,2,39.99,0,Returning,Organic
+Shopify,N01638,1,2025-09-13,CA,DEC01,2,24.99,0,Returning,Organic
+Shopify,N01638,2,2025-09-13,CA,LIG01,2,39.99,0.10,Returning,Organic
+Shopify,N01639,1,2025-09-13,DE,LIG03,1,39.99,0,New,Paid search
+Shopify,N01639,2,2025-09-13,DE,BED01,2,39.99,0.15,New,Paid search
+Amazon,N01640,1,2025-09-13,US,LIG02,3,39.99,0,Returning,Paid search
+Amazon,N01641,1,2025-09-13,US,STO03,2,59.99,0,New,Organic
+Amazon,N01642,1,2025-09-13,DE,LIG01,1,14.99,0,New,Direct
+Amazon,N01643,1,2025-09-13,US,STO01,2,24.99,0,Returning,Email
+Amazon,N01644,1,2025-09-13,US,STO03,2,14.99,0,New,Marketplace
+Amazon,N01644,2,2025-09-13,US,LIG01,3,79.99,0.15,New,Marketplace
+Amazon,N01645,1,2025-09-13,DE,LIG01,3,24.99,0,New,Direct
+Amazon,N01646,1,2025-09-13,CA,KIT04,1,39.99,0.15,Returning,Marketplace
+Amazon,N01647,1,2025-09-13,UK,STO03,3,14.99,0,Returning,Email
+Amazon,N01648,1,2025-09-13,DE,LIG01,2,24.99,0.10,New,Paid search
+Amazon,N01648,2,2025-09-13,DE,BED01,3,79.99,0,New,Paid search
+Amazon,N01649,1,2025-09-13,CA,LIG03,1,39.99,0.15,New,Direct
+Amazon,N01650,1,2025-09-13,US,DEC02,2,24.99,0.10,New,Marketplace
+Shopify,N01651,1,2025-09-14,US,STO02,1,59.99,0,Returning,Paid search
+Shopify,N01652,1,2025-09-14,UK,BED02,2,79.99,0.15,New,Marketplace
+Shopify,N01652,2,2025-09-14,UK,DEC03,3,14.99,0,New,Marketplace
+Shopify,N01653,1,2025-09-14,CA,LIG01,1,59.99,0,New,Organic
+Shopify,N01654,1,2025-09-14,UK,KIT03,2,39.99,0.10,New,Marketplace
+Shopify,N01654,2,2025-09-14,UK,BED03,2,24.99,0.10,New,Marketplace
+Shopify,N01655,1,2025-09-14,US,STO04,1,79.99,0.10,Returning,Direct
+Shopify,N01655,2,2025-09-14,US,BED02,1,59.99,0,Returning,Direct
+Shopify,N01656,1,2025-09-14,UK,LIG02,3,39.99,0.10,Returning,Organic
+Shopify,N01657,1,2025-09-14,US,DEC04,2,79.99,0,New,Email
+Shopify,N01658,1,2025-09-14,CA,STO03,3,39.99,0.10,New,Email
+Shopify,N01659,1,2025-09-14,US,DEC03,1,59.99,0.10,New,Marketplace
+Shopify,N01660,1,2025-09-14,US,BED03,1,79.99,0.15,New,Email
+Shopify,N01660,2,2025-09-14,US,DEC03,3,39.99,0.15,New,Email
+Shopify,N01661,1,2025-09-14,US,KIT01,2,59.99,0,Returning,Direct
+Amazon,N01662,1,2025-09-14,CA,STO02,3,24.99,0,New,Email
+Amazon,N01663,1,2025-09-14,US,BED03,3,59.99,0,New,Email
+Amazon,N01663,2,2025-09-14,US,BED02,2,24.99,0.10,New,Email
+Amazon,N01664,1,2025-09-14,US,DEC01,2,24.99,0,New,Email
+Amazon,N01664,2,2025-09-14,US,LIG01,1,24.99,0,New,Email
+Amazon,N01665,1,2025-09-14,US,BED02,1,59.99,0,Returning,Email
+Amazon,N01666,1,2025-09-14,US,KIT03,3,39.99,0.15,New,Direct
+Amazon,N01666,2,2025-09-14,US,DEC02,2,14.99,0,New,Direct
+Amazon,N01667,1,2025-09-14,CA,BED03,2,24.99,0,New,Marketplace
+Amazon,N01667,2,2025-09-14,CA,LIG01,1,39.99,0.10,New,Marketplace
+Amazon,N01668,1,2025-09-14,US,KIT01,2,24.99,0,Returning,Marketplace
+Amazon,N01669,1,2025-09-14,US,STO04,2,39.99,0.10,New,Direct
+Amazon,N01669,2,2025-09-14,US,KIT01,2,14.99,0.10,New,Direct
+Amazon,N01670,1,2025-09-14,DE,LIG04,3,79.99,0.15,Returning,Marketplace
+Amazon,N01671,1,2025-09-14,DE,DEC04,2,14.99,0,Returning,Organic
+Amazon,N01672,1,2025-09-14,US,BED02,2,39.99,0.15,New,Organic
+Shopify,N01673,1,2025-09-15,US,BED03,3,24.99,0.10,Returning,Direct
+Shopify,N01674,1,2025-09-15,CA,LIG03,1,24.99,0,New,Email
+Shopify,N01674,2,2025-09-15,CA,DEC01,1,14.99,0.15,New,Email
+Shopify,N01675,1,2025-09-15,US,STO01,3,24.99,0,Returning,Paid search
+Shopify,N01676,1,2025-09-15,UK,BED03,3,39.99,0.10,Returning,Direct
+Shopify,N01677,1,2025-09-15,UK,LIG04,3,59.99,0.15,Returning,Paid search
+Shopify,N01677,2,2025-09-15,UK,KIT02,2,24.99,0.10,Returning,Paid search
+Shopify,N01678,1,2025-09-15,UK,KIT04,1,79.99,0.10,Returning,Email
+Shopify,N01679,1,2025-09-15,US,LIG03,3,79.99,0.10,New,Marketplace
+Shopify,N01680,1,2025-09-15,US,BED02,2,79.99,0,New,Direct
+Shopify,N01680,2,2025-09-15,US,STO01,3,79.99,0,New,Direct
+Shopify,N01681,1,2025-09-15,US,KIT03,3,24.99,0,New,Direct
+Shopify,N01682,1,2025-09-15,US,LIG03,3,79.99,0.15,Returning,Direct
+Shopify,N01683,1,2025-09-15,US,LIG03,3,24.99,0.15,New,Email
+Amazon,N01684,1,2025-09-15,DE,STO02,2,79.99,0.15,Returning,Email
+Amazon,N01684,2,2025-09-15,DE,KIT03,1,24.99,0,Returning,Email
+Amazon,N01685,1,2025-09-15,DE,DEC01,2,14.99,0,Returning,Direct
+Amazon,N01686,1,2025-09-15,DE,LIG02,2,59.99,0,New,Marketplace
+Amazon,N01687,1,2025-09-15,CA,DEC01,1,79.99,0.15,Returning,Email
+Amazon,N01688,1,2025-09-15,DE,LIG04,3,24.99,0,Returning,Marketplace
+Amazon,N01688,2,2025-09-15,DE,STO02,2,59.99,0.15,Returning,Marketplace
+Amazon,N01689,1,2025-09-15,DE,STO04,1,14.99,0,New,Paid search
+Amazon,N01689,2,2025-09-15,DE,KIT03,3,24.99,0,New,Paid search
+Amazon,N01690,1,2025-09-15,US,STO04,3,79.99,0.10,New,Organic
+Amazon,N01691,1,2025-09-15,DE,DEC04,1,39.99,0,Returning,Direct
+Amazon,N01691,2,2025-09-15,DE,DEC02,1,39.99,0,Returning,Direct
+Amazon,N01692,1,2025-09-15,US,DEC04,3,79.99,0,Returning,Email
+Amazon,N01692,2,2025-09-15,US,DEC01,2,24.99,0.15,Returning,Email
+Amazon,N01693,1,2025-09-15,CA,DEC01,2,79.99,0.10,New,Marketplace
+Amazon,N01694,1,2025-09-15,DE,LIG02,1,79.99,0.10,New,Email
+Shopify,N01695,1,2025-09-16,US,LIG04,2,39.99,0.15,Returning,Email
+Shopify,N01695,2,2025-09-16,US,DEC01,2,59.99,0.15,Returning,Email
+Shopify,N01696,1,2025-09-16,DE,DEC01,1,59.99,0,New,Marketplace
+Shopify,N01697,1,2025-09-16,CA,LIG01,1,79.99,0,Returning,Paid search
+Shopify,N01698,1,2025-09-16,US,DEC04,3,79.99,0.15,New,Email
+Shopify,N01698,2,2025-09-16,US,DEC02,1,14.99,0,New,Email
+Shopify,N01699,1,2025-09-16,DE,STO01,1,24.99,0.10,Returning,Email
+Shopify,N01700,1,2025-09-16,UK,BED01,3,39.99,0,Returning,Paid search
+Shopify,N01701,1,2025-09-16,DE,STO04,2,39.99,0.10,New,Paid search
+Shopify,N01702,1,2025-09-16,US,KIT04,2,14.99,0.10,Returning,Marketplace
+Shopify,N01703,1,2025-09-16,US,KIT01,3,39.99,0,Returning,Direct
+Shopify,N01703,2,2025-09-16,US,KIT03,1,14.99,0,Returning,Direct
+Shopify,N01704,1,2025-09-16,US,KIT02,1,59.99,0.10,New,Direct
+Shopify,N01704,2,2025-09-16,US,BED04,1,39.99,0,New,Direct
+Shopify,N01705,1,2025-09-16,UK,STO04,2,59.99,0.15,New,Direct
+Shopify,N01705,2,2025-09-16,UK,KIT04,2,39.99,0.10,New,Direct
+Amazon,N01706,1,2025-09-16,CA,LIG04,3,79.99,0.10,Returning,Direct
+Amazon,N01706,2,2025-09-16,CA,KIT02,2,14.99,0,Returning,Direct
+Amazon,N01707,1,2025-09-16,UK,DEC02,2,59.99,0,New,Marketplace
+Amazon,N01707,2,2025-09-16,UK,STO03,3,24.99,0.10,New,Marketplace
+Amazon,N01708,1,2025-09-16,DE,BED04,2,14.99,0,New,Organic
+Amazon,N01708,2,2025-09-16,DE,KIT01,3,39.99,0.15,New,Organic
+Amazon,N01709,1,2025-09-16,US,STO03,1,39.99,0.10,New,Marketplace
+Amazon,N01710,1,2025-09-16,CA,BED03,2,59.99,0.10,New,Email
+Amazon,N01710,2,2025-09-16,CA,DEC02,1,24.99,0.10,New,Email
+Amazon,N01711,1,2025-09-16,DE,STO01,3,79.99,0.15,New,Direct
+Amazon,N01711,2,2025-09-16,DE,DEC03,2,39.99,0.10,New,Direct
+Amazon,N01712,1,2025-09-16,US,STO03,3,79.99,0.10,New,Email
+Amazon,N01712,2,2025-09-16,US,BED01,3,14.99,0.15,New,Email
+Amazon,N01713,1,2025-09-16,CA,BED03,1,79.99,0.10,New,Marketplace
+Amazon,N01714,1,2025-09-16,US,KIT04,1,79.99,0.10,New,Email
+Amazon,N01715,1,2025-09-16,UK,BED03,2,39.99,0,Returning,Organic
+Amazon,N01716,1,2025-09-16,US,DEC02,3,14.99,0,Returning,Direct
+Shopify,N01717,1,2025-09-17,DE,BED04,2,14.99,0,New,Marketplace
+Shopify,N01718,1,2025-09-17,CA,KIT04,1,24.99,0.15,New,Direct
+Shopify,N01718,2,2025-09-17,CA,KIT03,3,24.99,0.15,New,Direct
+Shopify,N01719,1,2025-09-17,DE,KIT01,2,24.99,0,New,Email
+Shopify,N01719,2,2025-09-17,DE,BED04,3,14.99,0,New,Email
+Shopify,N01720,1,2025-09-17,US,BED04,2,59.99,0.10,New,Direct
+Shopify,N01720,2,2025-09-17,US,BED01,2,39.99,0,New,Direct
+Shopify,N01721,1,2025-09-17,UK,KIT01,3,24.99,0,New,Paid search
+Shopify,N01721,2,2025-09-17,UK,DEC03,1,79.99,0,New,Paid search
+Shopify,N01722,1,2025-09-17,US,BED03,3,39.99,0,Returning,Paid search
+Shopify,N01723,1,2025-09-17,DE,STO02,1,39.99,0,New,Email
+Shopify,N01723,2,2025-09-17,DE,DEC02,2,39.99,0,New,Email
+Shopify,N01724,1,2025-09-17,CA,STO04,1,79.99,0.10,Returning,Direct
+Shopify,N01725,1,2025-09-17,DE,STO03,1,59.99,0,Returning,Direct
+Shopify,N01725,2,2025-09-17,DE,LIG03,1,24.99,0,Returning,Direct
+Shopify,N01726,1,2025-09-17,CA,STO02,3,24.99,0.10,New,Direct
+Shopify,N01727,1,2025-09-17,UK,LIG04,2,79.99,0,New,Organic
+Amazon,N01728,1,2025-09-17,UK,BED01,3,39.99,0,Returning,Organic
+Amazon,N01728,2,2025-09-17,UK,KIT01,2,79.99,0,Returning,Organic
+Amazon,N01729,1,2025-09-17,US,KIT02,2,79.99,0,New,Organic
+Amazon,N01730,1,2025-09-17,US,DEC03,3,24.99,0.15,New,Email
+Amazon,N01730,2,2025-09-17,US,DEC01,1,24.99,0,New,Email
+Amazon,N01731,1,2025-09-17,CA,DEC03,2,39.99,0,New,Organic
+Amazon,N01731,2,2025-09-17,CA,LIG03,2,14.99,0.10,New,Organic
+Amazon,N01732,1,2025-09-17,CA,BED01,2,79.99,0.15,Returning,Direct
+Amazon,N01733,1,2025-09-17,DE,STO03,3,14.99,0,New,Paid search
+Amazon,N01734,1,2025-09-17,UK,STO02,1,59.99,0,New,Paid search
+Amazon,N01735,1,2025-09-17,CA,DEC04,1,14.99,0,New,Paid search
+Amazon,N01735,2,2025-09-17,CA,DEC01,3,59.99,0.15,New,Paid search
+Amazon,N01736,1,2025-09-17,UK,DEC02,3,24.99,0,Returning,Organic
+Amazon,N01737,1,2025-09-17,US,STO04,2,79.99,0.10,Returning,Marketplace
+Amazon,N01737,2,2025-09-17,US,BED01,1,14.99,0,Returning,Marketplace
+Amazon,N01738,1,2025-09-17,CA,DEC01,3,24.99,0,New,Organic
+Shopify,N01739,1,2025-09-18,US,DEC04,2,39.99,0,New,Paid search
+Shopify,N01740,1,2025-09-18,CA,STO04,1,79.99,0,New,Paid search
+Shopify,N01740,2,2025-09-18,CA,KIT03,3,24.99,0.10,New,Paid search
+Shopify,N01741,1,2025-09-18,DE,STO04,2,14.99,0,New,Direct
+Shopify,N01741,2,2025-09-18,DE,LIG01,3,79.99,0.15,New,Direct
+Shopify,N01742,1,2025-09-18,CA,KIT02,2,24.99,0,New,Organic
+Shopify,N01743,1,2025-09-18,US,KIT03,3,14.99,0,New,Marketplace
+Shopify,N01744,1,2025-09-18,UK,LIG04,3,79.99,0.10,New,Direct
+Shopify,N01745,1,2025-09-18,UK,LIG03,1,59.99,0,Returning,Paid search
+Shopify,N01746,1,2025-09-18,DE,STO04,2,24.99,0.10,New,Direct
+Shopify,N01747,1,2025-09-18,US,BED01,3,24.99,0,New,Email
+Shopify,N01748,1,2025-09-18,US,STO02,3,39.99,0.10,Returning,Email
+Shopify,N01748,2,2025-09-18,US,LIG03,3,79.99,0.10,Returning,Email
+Shopify,N01749,1,2025-09-18,US,STO01,2,24.99,0,Returning,Email
+Shopify,N01749,2,2025-09-18,US,BED01,3,24.99,0,Returning,Email
+Amazon,N01750,1,2025-09-18,CA,LIG03,3,14.99,0.10,Returning,Marketplace
+Amazon,N01750,2,2025-09-18,CA,LIG04,2,39.99,0.15,Returning,Marketplace
+Amazon,N01751,1,2025-09-18,US,KIT03,3,39.99,0,Returning,Marketplace
+Amazon,N01752,1,2025-09-18,US,STO01,2,39.99,0,Returning,Email
+Amazon,N01753,1,2025-09-18,DE,KIT02,3,59.99,0.10,Returning,Email
+Amazon,N01754,1,2025-09-18,US,DEC01,1,59.99,0.15,Returning,Email
+Amazon,N01755,1,2025-09-18,DE,DEC02,1,14.99,0.15,New,Marketplace
+Amazon,N01756,1,2025-09-18,US,DEC01,1,79.99,0,New,Email
+Amazon,N01756,2,2025-09-18,US,BED01,1,59.99,0,New,Email
+Amazon,N01757,1,2025-09-18,UK,STO04,3,14.99,0,Returning,Email
+Amazon,N01757,2,2025-09-18,UK,LIG03,2,14.99,0,Returning,Email
+Amazon,N01758,1,2025-09-18,US,LIG03,3,14.99,0,New,Organic
+Amazon,N01759,1,2025-09-18,DE,KIT02,2,39.99,0.10,Returning,Marketplace
+Amazon,N01760,1,2025-09-18,US,KIT03,1,59.99,0,New,Paid search
+Shopify,N01761,1,2025-09-19,US,STO02,3,59.99,0.15,New,Email
+Shopify,N01762,1,2025-09-19,US,DEC03,2,59.99,0,Returning,Organic
+Shopify,N01763,1,2025-09-19,UK,STO01,2,24.99,0,New,Direct
+Shopify,N01763,2,2025-09-19,UK,DEC02,2,79.99,0,New,Direct
+Shopify,N01764,1,2025-09-19,US,LIG03,1,59.99,0.15,New,Email
+Shopify,N01765,1,2025-09-19,US,LIG03,1,39.99,0.10,New,Direct
+Shopify,N01766,1,2025-09-19,US,LIG03,1,24.99,0.10,New,Email
+Shopify,N01767,1,2025-09-19,US,KIT04,3,14.99,0,New,Email
+Shopify,N01768,1,2025-09-19,CA,KIT03,2,24.99,0,New,Marketplace
+Shopify,N01769,1,2025-09-19,US,KIT01,3,24.99,0.10,Returning,Organic
+Shopify,N01770,1,2025-09-19,US,LIG01,3,14.99,0,Returning,Marketplace
+Shopify,N01771,1,2025-09-19,US,DEC01,1,79.99,0,New,Direct
+Shopify,N01771,2,2025-09-19,US,STO01,3,79.99,0,New,Direct
+Amazon,N01772,1,2025-09-19,UK,STO02,2,24.99,0,New,Email
+Amazon,N01773,1,2025-09-19,CA,STO01,3,39.99,0.15,New,Direct
+Amazon,N01773,2,2025-09-19,CA,KIT03,2,24.99,0,New,Direct
+Amazon,N01774,1,2025-09-19,US,KIT01,1,59.99,0,Returning,Organic
+Amazon,N01774,2,2025-09-19,US,DEC02,3,39.99,0,Returning,Organic
+Amazon,N01775,1,2025-09-19,CA,DEC03,1,59.99,0,New,Marketplace
+Amazon,N01776,1,2025-09-19,DE,DEC03,3,79.99,0.15,New,Paid search
+Amazon,N01776,2,2025-09-19,DE,LIG01,2,14.99,0,New,Paid search
+Amazon,N01777,1,2025-09-19,US,STO01,2,59.99,0.10,New,Organic
+Amazon,N01777,2,2025-09-19,US,DEC03,2,59.99,0.10,New,Organic
+Amazon,N01778,1,2025-09-19,US,BED01,3,59.99,0,New,Marketplace
+Amazon,N01779,1,2025-09-19,US,DEC01,3,14.99,0.15,New,Direct
+Amazon,N01779,2,2025-09-19,US,BED02,2,14.99,0.10,New,Direct
+Amazon,N01780,1,2025-09-19,UK,LIG04,2,59.99,0.15,New,Organic
+Amazon,N01781,1,2025-09-19,DE,DEC01,2,79.99,0.15,New,Marketplace
+Amazon,N01781,2,2025-09-19,DE,KIT03,2,79.99,0.15,New,Marketplace
+Amazon,N01782,1,2025-09-19,UK,KIT01,1,59.99,0.15,New,Paid search
+Shopify,N01783,1,2025-09-20,CA,DEC01,3,59.99,0.10,Returning,Organic
+Shopify,N01784,1,2025-09-20,US,LIG02,3,14.99,0,New,Marketplace
+Shopify,N01785,1,2025-09-20,CA,BED03,3,59.99,0,New,Organic
+Shopify,N01785,2,2025-09-20,CA,LIG02,1,39.99,0,New,Organic
+Shopify,N01786,1,2025-09-20,CA,BED02,2,39.99,0,New,Direct
+Shopify,N01786,2,2025-09-20,CA,DEC03,1,59.99,0,New,Direct
+Shopify,N01787,1,2025-09-20,US,DEC01,3,59.99,0,New,Paid search
+Shopify,N01788,1,2025-09-20,CA,KIT02,2,39.99,0,New,Marketplace
+Shopify,N01788,2,2025-09-20,CA,LIG02,1,59.99,0.10,New,Marketplace
+Shopify,N01789,1,2025-09-20,UK,LIG01,2,39.99,0,New,Direct
+Shopify,N01790,1,2025-09-20,UK,KIT03,3,39.99,0,New,Paid search
+Shopify,N01791,1,2025-09-20,CA,KIT02,2,59.99,0.10,New,Paid search
+Shopify,N01792,1,2025-09-20,US,BED02,1,24.99,0,New,Email
+Shopify,N01793,1,2025-09-20,CA,STO04,2,24.99,0,New,Email
+Amazon,N01794,1,2025-09-20,US,STO01,3,59.99,0,Returning,Organic
+Amazon,N01795,1,2025-09-20,DE,DEC02,2,14.99,0,New,Marketplace
+Amazon,N01796,1,2025-09-20,US,KIT03,2,39.99,0.15,New,Paid search
+Amazon,N01796,2,2025-09-20,US,KIT03,2,79.99,0.15,New,Paid search
+Amazon,N01797,1,2025-09-20,UK,STO03,2,79.99,0,New,Paid search
+Amazon,N01798,1,2025-09-20,DE,BED03,3,24.99,0.10,New,Email
+Amazon,N01799,1,2025-09-20,UK,LIG01,2,39.99,0.15,New,Marketplace
+Amazon,N01799,2,2025-09-20,UK,KIT01,2,59.99,0.10,New,Marketplace
+Amazon,N01800,1,2025-09-20,US,LIG02,3,14.99,0,New,Direct
+Amazon,N01801,1,2025-09-20,US,STO04,2,79.99,0,Returning,Marketplace
+Amazon,N01801,2,2025-09-20,US,DEC03,3,59.99,0,Returning,Marketplace
+Amazon,N01802,1,2025-09-20,CA,BED03,1,79.99,0,New,Email
+Amazon,N01803,1,2025-09-20,DE,STO01,3,39.99,0.15,Returning,Organic
+Amazon,N01804,1,2025-09-20,US,KIT02,2,24.99,0,Returning,Email
+Amazon,N01804,2,2025-09-20,US,KIT03,1,14.99,0.10,Returning,Email
+Shopify,N01805,1,2025-09-21,UK,DEC04,2,59.99,0,New,Organic
+Shopify,N01806,1,2025-09-21,UK,LIG02,1,14.99,0,New,Marketplace
+Shopify,N01806,2,2025-09-21,UK,KIT02,3,59.99,0,New,Marketplace
+Shopify,N01807,1,2025-09-21,UK,LIG01,2,14.99,0,New,Direct
+Shopify,N01807,2,2025-09-21,UK,DEC04,1,79.99,0,New,Direct
+Shopify,N01808,1,2025-09-21,US,BED04,3,24.99,0,New,Email
+Shopify,N01809,1,2025-09-21,DE,BED02,3,79.99,0,New,Marketplace
+Shopify,N01810,1,2025-09-21,CA,KIT03,1,14.99,0.15,New,Email
+Shopify,N01811,1,2025-09-21,UK,LIG04,2,59.99,0.15,New,Marketplace
+Shopify,N01812,1,2025-09-21,DE,STO03,3,24.99,0.15,New,Marketplace
+Shopify,N01812,2,2025-09-21,DE,LIG01,2,24.99,0,New,Marketplace
+Shopify,N01813,1,2025-09-21,DE,DEC01,1,59.99,0.15,Returning,Organic
+Shopify,N01813,2,2025-09-21,DE,LIG01,2,59.99,0.10,Returning,Organic
+Shopify,N01814,1,2025-09-21,US,BED03,2,24.99,0,New,Paid search
+Shopify,N01814,2,2025-09-21,US,LIG03,1,59.99,0.15,New,Paid search
+Shopify,N01815,1,2025-09-21,UK,STO03,3,39.99,0,New,Direct
+Shopify,N01815,2,2025-09-21,UK,BED04,2,39.99,0,New,Direct
+Amazon,N01816,1,2025-09-21,DE,DEC02,1,79.99,0.15,New,Organic
+Amazon,N01817,1,2025-09-21,US,LIG02,1,59.99,0,New,Email
+Amazon,N01818,1,2025-09-21,US,BED03,1,24.99,0,Returning,Marketplace
+Amazon,N01819,1,2025-09-21,DE,BED01,1,24.99,0,New,Organic
+Amazon,N01819,2,2025-09-21,DE,LIG02,3,24.99,0,New,Organic
+Amazon,N01820,1,2025-09-21,UK,KIT01,3,39.99,0,New,Marketplace
+Amazon,N01821,1,2025-09-21,UK,BED02,3,79.99,0.15,New,Email
+Amazon,N01821,2,2025-09-21,UK,KIT04,3,24.99,0,New,Email
+Amazon,N01822,1,2025-09-21,US,STO03,1,24.99,0,Returning,Email
+Amazon,N01823,1,2025-09-21,US,KIT01,1,39.99,0,New,Organic
+Amazon,N01823,2,2025-09-21,US,STO02,3,79.99,0,New,Organic
+Amazon,N01824,1,2025-09-21,US,LIG04,2,14.99,0.10,New,Email
+Amazon,N01824,2,2025-09-21,US,LIG04,2,59.99,0,New,Email
+Amazon,N01825,1,2025-09-21,UK,BED01,1,39.99,0.15,New,Direct
+Amazon,N01826,1,2025-09-21,US,LIG04,1,24.99,0.10,New,Paid search
+Shopify,N01827,1,2025-09-22,DE,LIG04,1,14.99,0.15,New,Paid search
+Shopify,N01827,2,2025-09-22,DE,KIT04,1,59.99,0.10,New,Paid search
+Shopify,N01828,1,2025-09-22,US,LIG01,2,14.99,0.10,New,Paid search
+Shopify,N01829,1,2025-09-22,US,BED02,2,59.99,0,New,Organic
+Shopify,N01830,1,2025-09-22,US,LIG04,1,24.99,0.10,New,Direct
+Shopify,N01831,1,2025-09-22,CA,KIT02,3,79.99,0,Returning,Marketplace
+Shopify,N01832,1,2025-09-22,US,DEC03,1,79.99,0,New,Marketplace
+Shopify,N01833,1,2025-09-22,US,STO04,2,14.99,0,New,Email
+Shopify,N01834,1,2025-09-22,DE,STO04,1,39.99,0.10,Returning,Marketplace
+Shopify,N01835,1,2025-09-22,DE,BED01,3,39.99,0.15,New,Direct
+Shopify,N01835,2,2025-09-22,DE,BED03,1,79.99,0,New,Direct
+Shopify,N01836,1,2025-09-22,US,DEC02,1,24.99,0.10,Returning,Email
+Shopify,N01836,2,2025-09-22,US,BED04,2,14.99,0,Returning,Email
+Shopify,N01837,1,2025-09-22,CA,DEC02,3,59.99,0,New,Paid search
+Amazon,N01838,1,2025-09-22,CA,KIT02,1,14.99,0.15,New,Marketplace
+Amazon,N01839,1,2025-09-22,CA,STO04,1,59.99,0.10,Returning,Marketplace
+Amazon,N01839,2,2025-09-22,CA,STO03,1,14.99,0.15,Returning,Marketplace
+Amazon,N01840,1,2025-09-22,US,STO02,1,24.99,0.10,New,Direct
+Amazon,N01840,2,2025-09-22,US,KIT01,3,14.99,0,New,Direct
+Amazon,N01841,1,2025-09-22,US,STO03,3,14.99,0.15,Returning,Paid search
+Amazon,N01842,1,2025-09-22,CA,KIT04,2,39.99,0,Returning,Marketplace
+Amazon,N01842,2,2025-09-22,CA,STO02,3,24.99,0,Returning,Marketplace
+Amazon,N01843,1,2025-09-22,US,KIT03,3,14.99,0,New,Email
+Amazon,N01843,2,2025-09-22,US,KIT04,1,59.99,0.10,New,Email
+Amazon,N01844,1,2025-09-22,DE,BED03,2,59.99,0,Returning,Direct
+Amazon,N01844,2,2025-09-22,DE,BED04,1,39.99,0,Returning,Direct
+Amazon,N01845,1,2025-09-22,US,LIG01,2,79.99,0.15,New,Email
+Amazon,N01846,1,2025-09-22,DE,STO03,2,59.99,0,New,Organic
+Amazon,N01847,1,2025-09-22,UK,DEC03,2,39.99,0,Returning,Email
+Amazon,N01848,1,2025-09-22,US,KIT02,2,79.99,0.15,New,Direct
+Shopify,N01849,1,2025-09-23,US,BED01,3,14.99,0.10,New,Paid search
+Shopify,N01849,2,2025-09-23,US,STO02,3,14.99,0,New,Paid search
+Shopify,N01850,1,2025-09-23,UK,DEC03,1,39.99,0,New,Direct
+Shopify,N01850,2,2025-09-23,UK,STO01,3,14.99,0,New,Direct
+Shopify,N01851,1,2025-09-23,UK,DEC04,1,79.99,0.10,New,Direct
+Shopify,N01852,1,2025-09-23,DE,KIT02,3,39.99,0.15,New,Direct
+Shopify,N01852,2,2025-09-23,DE,KIT04,2,59.99,0.15,New,Direct
+Shopify,N01853,1,2025-09-23,CA,DEC01,2,24.99,0,New,Paid search
+Shopify,N01853,2,2025-09-23,CA,DEC01,3,24.99,0.15,New,Paid search
+Shopify,N01854,1,2025-09-23,DE,LIG04,2,39.99,0,Returning,Organic
+Shopify,N01855,1,2025-09-23,DE,STO04,2,79.99,0,New,Email
+Shopify,N01855,2,2025-09-23,DE,DEC03,2,24.99,0.15,New,Email
+Shopify,N01856,1,2025-09-23,DE,KIT02,1,14.99,0,New,Marketplace
+Shopify,N01857,1,2025-09-23,US,KIT01,2,39.99,0,Returning,Direct
+Shopify,N01858,1,2025-09-23,US,BED01,3,14.99,0.15,Returning,Direct
+Shopify,N01859,1,2025-09-23,DE,DEC01,3,14.99,0.10,New,Email
+Shopify,N01859,2,2025-09-23,DE,STO04,2,79.99,0,New,Email
+Amazon,N01860,1,2025-09-23,US,KIT01,2,59.99,0,Returning,Email
+Amazon,N01860,2,2025-09-23,US,KIT03,3,79.99,0,Returning,Email
+Amazon,N01861,1,2025-09-23,DE,LIG03,2,24.99,0.10,New,Organic
+Amazon,N01862,1,2025-09-23,UK,BED02,3,39.99,0,New,Marketplace
+Amazon,N01863,1,2025-09-23,DE,STO02,1,24.99,0.15,New,Paid search
+Amazon,N01863,2,2025-09-23,DE,STO01,2,59.99,0,New,Paid search
+Amazon,N01864,1,2025-09-23,US,LIG01,2,39.99,0,Returning,Paid search
+Amazon,N01865,1,2025-09-23,US,KIT04,1,24.99,0,New,Email
+Amazon,N01866,1,2025-09-23,US,STO02,1,24.99,0,New,Organic
+Amazon,N01867,1,2025-09-23,UK,KIT02,2,39.99,0.10,Returning,Email
+Amazon,N01867,2,2025-09-23,UK,KIT02,3,59.99,0.15,Returning,Email
+Amazon,N01868,1,2025-09-23,CA,DEC02,1,39.99,0.10,Returning,Email
+Amazon,N01868,2,2025-09-23,CA,LIG04,3,24.99,0.10,Returning,Email
+Amazon,N01869,1,2025-09-23,CA,LIG03,2,79.99,0,New,Organic
+Amazon,N01869,2,2025-09-23,CA,KIT01,1,39.99,0.10,New,Organic
+Amazon,N01870,1,2025-09-23,US,DEC01,3,24.99,0.10,New,Organic
+Shopify,N01871,1,2025-09-24,UK,STO03,3,24.99,0.10,New,Paid search
+Shopify,N01871,2,2025-09-24,UK,BED02,1,79.99,0,New,Paid search
+Shopify,N01872,1,2025-09-24,UK,STO01,3,79.99,0,New,Email
+Shopify,N01872,2,2025-09-24,UK,BED01,3,14.99,0.10,New,Email
+Shopify,N01873,1,2025-09-24,CA,STO04,1,59.99,0.10,New,Direct
+Shopify,N01874,1,2025-09-24,DE,STO04,2,24.99,0,Returning,Direct
+Shopify,N01874,2,2025-09-24,DE,DEC01,3,79.99,0.10,Returning,Direct
+Shopify,N01875,1,2025-09-24,US,LIG01,3,39.99,0.15,New,Organic
+Shopify,N01876,1,2025-09-24,US,DEC01,3,39.99,0.15,Returning,Organic
+Shopify,N01877,1,2025-09-24,DE,LIG02,3,14.99,0,New,Organic
+Shopify,N01877,2,2025-09-24,DE,STO03,2,14.99,0,New,Organic
+Shopify,N01878,1,2025-09-24,DE,KIT01,2,59.99,0,Returning,Marketplace
+Shopify,N01878,2,2025-09-24,DE,DEC02,1,24.99,0.10,Returning,Marketplace
+Shopify,N01879,1,2025-09-24,DE,KIT01,2,14.99,0.10,Returning,Email
+Shopify,N01879,2,2025-09-24,DE,STO03,1,14.99,0.15,Returning,Email
+Shopify,N01880,1,2025-09-24,US,BED03,3,14.99,0.15,Returning,Direct
+Shopify,N01881,1,2025-09-24,US,STO02,3,14.99,0.15,New,Direct
+Amazon,N01882,1,2025-09-24,US,STO03,1,79.99,0.15,New,Organic
+Amazon,N01883,1,2025-09-24,DE,LIG01,3,79.99,0,New,Email
+Amazon,N01883,2,2025-09-24,DE,KIT01,3,39.99,0,New,Email
+Amazon,N01884,1,2025-09-24,US,DEC02,1,24.99,0,Returning,Email
+Amazon,N01885,1,2025-09-24,US,BED02,1,14.99,0.10,New,Email
+Amazon,N01886,1,2025-09-24,US,STO04,1,24.99,0.15,Returning,Paid search
+Amazon,N01886,2,2025-09-24,US,BED03,3,59.99,0,Returning,Paid search
+Amazon,N01887,1,2025-09-24,DE,BED02,1,79.99,0,New,Paid search
+Amazon,N01888,1,2025-09-24,UK,BED02,3,39.99,0,New,Organic
+Amazon,N01889,1,2025-09-24,US,LIG03,3,59.99,0,New,Direct
+Amazon,N01889,2,2025-09-24,US,DEC01,1,79.99,0,New,Direct
+Amazon,N01890,1,2025-09-24,UK,DEC01,3,14.99,0,New,Paid search
+Amazon,N01891,1,2025-09-24,UK,BED02,1,59.99,0.10,New,Paid search
+Amazon,N01892,1,2025-09-24,CA,KIT03,1,39.99,0.10,New,Marketplace
+Shopify,N01893,1,2025-09-25,DE,DEC02,3,24.99,0,Returning,Direct
+Shopify,N01894,1,2025-09-25,CA,KIT02,3,39.99,0,New,Email
+Shopify,N01895,1,2025-09-25,DE,KIT01,3,79.99,0,New,Organic
+Shopify,N01895,2,2025-09-25,DE,BED01,3,39.99,0,New,Organic
+Shopify,N01896,1,2025-09-25,UK,LIG02,3,24.99,0,New,Paid search
+Shopify,N01897,1,2025-09-25,US,DEC01,3,59.99,0,New,Direct
+Shopify,N01898,1,2025-09-25,DE,STO01,3,39.99,0,New,Organic
+Shopify,N01898,2,2025-09-25,DE,KIT01,1,39.99,0,New,Organic
+Shopify,N01899,1,2025-09-25,US,BED04,2,24.99,0,New,Paid search
+Shopify,N01900,1,2025-09-25,CA,BED02,3,39.99,0,New,Direct
+Shopify,N01901,1,2025-09-25,UK,BED04,3,79.99,0,New,Email
+Shopify,N01901,2,2025-09-25,UK,STO01,2,24.99,0.10,New,Email
+Shopify,N01902,1,2025-09-25,US,DEC02,3,14.99,0,New,Direct
+Shopify,N01903,1,2025-09-25,US,BED02,1,24.99,0,New,Organic
+Shopify,N01903,2,2025-09-25,US,BED03,1,79.99,0,New,Organic
+Amazon,N01904,1,2025-09-25,CA,BED03,2,39.99,0.15,New,Organic
+Amazon,N01904,2,2025-09-25,CA,LIG04,2,59.99,0.15,New,Organic
+Amazon,N01905,1,2025-09-25,UK,DEC02,3,39.99,0.15,New,Paid search
+Amazon,N01905,2,2025-09-25,UK,BED03,1,14.99,0,New,Paid search
+Amazon,N01906,1,2025-09-25,US,DEC03,3,59.99,0,New,Paid search
+Amazon,N01906,2,2025-09-25,US,BED03,3,24.99,0.15,New,Paid search
+Amazon,N01907,1,2025-09-25,UK,LIG03,1,24.99,0,New,Marketplace
+Amazon,N01908,1,2025-09-25,US,DEC03,3,14.99,0.10,New,Marketplace
+Amazon,N01909,1,2025-09-25,CA,DEC01,3,79.99,0,New,Marketplace
+Amazon,N01910,1,2025-09-25,US,STO03,1,59.99,0,New,Paid search
+Amazon,N01910,2,2025-09-25,US,DEC01,2,24.99,0,New,Paid search
+Amazon,N01911,1,2025-09-25,DE,BED02,1,39.99,0.10,New,Paid search
+Amazon,N01911,2,2025-09-25,DE,DEC03,3,59.99,0,New,Paid search
+Amazon,N01912,1,2025-09-25,US,LIG02,3,59.99,0.15,New,Direct
+Amazon,N01912,2,2025-09-25,US,STO03,3,24.99,0,New,Direct
+Amazon,N01913,1,2025-09-25,US,LIG03,1,24.99,0.10,New,Organic
+Amazon,N01913,2,2025-09-25,US,BED04,1,59.99,0.10,New,Organic
+Amazon,N01914,1,2025-09-25,CA,BED03,3,14.99,0,New,Paid search
+Shopify,N01915,1,2025-09-26,CA,LIG03,2,14.99,0.15,New,Organic
+Shopify,N01915,2,2025-09-26,CA,KIT03,3,39.99,0,New,Organic
+Shopify,N01916,1,2025-09-26,US,STO03,3,24.99,0.15,Returning,Marketplace
+Shopify,N01917,1,2025-09-26,DE,LIG02,3,24.99,0.15,Returning,Paid search
+Shopify,N01918,1,2025-09-26,DE,KIT04,3,59.99,0.10,New,Direct
+Shopify,N01918,2,2025-09-26,DE,STO03,1,14.99,0.10,New,Direct
+Shopify,N01919,1,2025-09-26,DE,DEC03,3,59.99,0,New,Paid search
+Shopify,N01920,1,2025-09-26,UK,LIG04,1,24.99,0,New,Paid search
+Shopify,N01921,1,2025-09-26,US,BED03,3,24.99,0,New,Organic
+Shopify,N01922,1,2025-09-26,US,LIG03,1,14.99,0.10,New,Organic
+Shopify,N01923,1,2025-09-26,US,DEC02,3,79.99,0.10,Returning,Paid search
+Shopify,N01923,2,2025-09-26,US,BED04,1,79.99,0,Returning,Paid search
+Shopify,N01924,1,2025-09-26,US,STO04,1,59.99,0.10,Returning,Direct
+Shopify,N01925,1,2025-09-26,UK,BED03,1,24.99,0.15,New,Direct
+Amazon,N01926,1,2025-09-26,DE,LIG03,2,39.99,0.15,New,Email
+Amazon,N01927,1,2025-09-26,US,DEC02,3,59.99,0,Returning,Marketplace
+Amazon,N01928,1,2025-09-26,CA,DEC03,1,14.99,0.10,Returning,Paid search
+Amazon,N01928,2,2025-09-26,CA,KIT03,3,24.99,0,Returning,Paid search
+Amazon,N01929,1,2025-09-26,US,DEC04,3,24.99,0,New,Marketplace
+Amazon,N01929,2,2025-09-26,US,STO04,3,14.99,0.15,New,Marketplace
+Amazon,N01930,1,2025-09-26,US,LIG01,2,79.99,0,Returning,Marketplace
+Amazon,N01931,1,2025-09-26,US,BED02,3,79.99,0,New,Paid search
+Amazon,N01931,2,2025-09-26,US,KIT02,1,24.99,0.10,New,Paid search
+Amazon,N01932,1,2025-09-26,DE,STO02,2,24.99,0.15,Returning,Paid search
+Amazon,N01933,1,2025-09-26,DE,KIT02,2,79.99,0,Returning,Paid search
+Amazon,N01934,1,2025-09-26,US,DEC04,1,79.99,0.15,New,Organic
+Amazon,N01935,1,2025-09-26,UK,DEC03,2,79.99,0.10,New,Organic
+Amazon,N01936,1,2025-09-26,UK,LIG02,3,14.99,0.15,Returning,Paid search
+Shopify,N01937,1,2025-09-27,DE,BED03,1,59.99,0.10,New,Marketplace
+Shopify,N01938,1,2025-09-27,UK,BED02,3,14.99,0.15,Returning,Organic
+Shopify,N01939,1,2025-09-27,CA,LIG02,1,39.99,0,New,Paid search
+Shopify,N01940,1,2025-09-27,US,DEC04,2,24.99,0.10,New,Email
+Shopify,N01941,1,2025-09-27,US,BED04,2,39.99,0.15,New,Marketplace
+Shopify,N01942,1,2025-09-27,CA,KIT03,1,39.99,0.15,New,Marketplace
+Shopify,N01942,2,2025-09-27,CA,DEC02,1,59.99,0,New,Marketplace
+Shopify,N01943,1,2025-09-27,US,KIT01,2,59.99,0,New,Direct
+Shopify,N01943,2,2025-09-27,US,BED03,2,14.99,0,New,Direct
+Shopify,N01944,1,2025-09-27,UK,LIG02,1,59.99,0.15,New,Organic
+Shopify,N01945,1,2025-09-27,US,DEC03,2,79.99,0.10,New,Direct
+Shopify,N01945,2,2025-09-27,US,STO04,2,59.99,0.10,New,Direct
+Shopify,N01946,1,2025-09-27,UK,DEC01,2,79.99,0,New,Marketplace
+Shopify,N01947,1,2025-09-27,US,DEC01,2,24.99,0,Returning,Direct
+Amazon,N01948,1,2025-09-27,DE,STO01,1,24.99,0,New,Direct
+Amazon,N01948,2,2025-09-27,DE,DEC01,3,14.99,0,New,Direct
+Amazon,N01949,1,2025-09-27,DE,KIT01,2,59.99,0.10,New,Direct
+Amazon,N01949,2,2025-09-27,DE,STO04,2,79.99,0.10,New,Direct
+Amazon,N01950,1,2025-09-27,DE,BED01,2,59.99,0,Returning,Email
+Amazon,N01951,1,2025-09-27,US,BED04,1,24.99,0,Returning,Direct
+Amazon,N01951,2,2025-09-27,US,STO01,3,39.99,0,Returning,Direct
+Amazon,N01952,1,2025-09-27,UK,KIT02,3,39.99,0.15,Returning,Paid search
+Amazon,N01953,1,2025-09-27,US,BED01,2,24.99,0.10,Returning,Direct
+Amazon,N01953,2,2025-09-27,US,STO02,2,59.99,0,Returning,Direct
+Amazon,N01954,1,2025-09-27,UK,STO02,2,39.99,0.15,New,Organic
+Amazon,N01955,1,2025-09-27,US,BED02,3,59.99,0,New,Marketplace
+Amazon,N01956,1,2025-09-27,US,BED04,2,59.99,0,New,Paid search
+Amazon,N01956,2,2025-09-27,US,BED03,2,39.99,0.15,New,Paid search
+Amazon,N01957,1,2025-09-27,US,STO03,1,14.99,0.15,Returning,Paid search
+Amazon,N01958,1,2025-09-27,UK,STO02,1,79.99,0,Returning,Organic
+Shopify,N01959,1,2025-09-28,CA,DEC03,3,24.99,0,Returning,Paid search
+Shopify,N01960,1,2025-09-28,US,BED02,3,39.99,0.15,New,Paid search
+Shopify,N01961,1,2025-09-28,US,DEC01,3,59.99,0,New,Email
+Shopify,N01962,1,2025-09-28,DE,DEC02,3,59.99,0.15,New,Marketplace
+Shopify,N01962,2,2025-09-28,DE,DEC02,3,59.99,0,New,Marketplace
+Shopify,N01963,1,2025-09-28,UK,STO03,3,14.99,0.15,New,Email
+Shopify,N01964,1,2025-09-28,DE,DEC01,2,59.99,0,New,Marketplace
+Shopify,N01965,1,2025-09-28,US,LIG03,2,14.99,0.10,New,Direct
+Shopify,N01965,2,2025-09-28,US,KIT01,1,79.99,0,New,Direct
+Shopify,N01966,1,2025-09-28,UK,LIG01,2,24.99,0,New,Direct
+Shopify,N01967,1,2025-09-28,US,STO01,3,24.99,0,New,Organic
+Shopify,N01968,1,2025-09-28,US,DEC01,3,79.99,0.10,New,Organic
+Shopify,N01969,1,2025-09-28,UK,KIT04,1,59.99,0.15,New,Paid search
+Amazon,N01970,1,2025-09-28,DE,KIT03,2,14.99,0.10,New,Marketplace
+Amazon,N01971,1,2025-09-28,UK,LIG01,1,24.99,0.15,Returning,Organic
+Amazon,N01972,1,2025-09-28,UK,STO03,2,24.99,0,New,Organic
+Amazon,N01973,1,2025-09-28,DE,STO01,3,14.99,0,New,Organic
+Amazon,N01974,1,2025-09-28,DE,KIT04,1,24.99,0,New,Direct
+Amazon,N01974,2,2025-09-28,DE,BED03,2,14.99,0,New,Direct
+Amazon,N01975,1,2025-09-28,DE,LIG03,1,14.99,0,New,Email
+Amazon,N01975,2,2025-09-28,DE,BED04,1,14.99,0,New,Email
+Amazon,N01976,1,2025-09-28,DE,BED01,2,39.99,0,Returning,Organic
+Amazon,N01977,1,2025-09-28,US,BED01,1,24.99,0.10,Returning,Marketplace
+Amazon,N01977,2,2025-09-28,US,DEC02,2,24.99,0,Returning,Marketplace
+Amazon,N01978,1,2025-09-28,UK,STO04,2,59.99,0,New,Paid search
+Amazon,N01979,1,2025-09-28,US,KIT04,3,39.99,0,New,Direct
+Amazon,N01980,1,2025-09-28,UK,DEC01,2,14.99,0,New,Email
+Shopify,N01981,1,2025-09-29,DE,BED04,1,59.99,0.15,New,Paid search
+Shopify,N01981,2,2025-09-29,DE,LIG02,3,59.99,0,New,Paid search
+Shopify,N01982,1,2025-09-29,DE,STO04,1,39.99,0,New,Marketplace
+Shopify,N01983,1,2025-09-29,DE,STO01,2,39.99,0.10,New,Email
+Shopify,N01984,1,2025-09-29,CA,LIG02,1,39.99,0,New,Direct
+Shopify,N01984,2,2025-09-29,CA,LIG01,1,24.99,0,New,Direct
+Shopify,N01985,1,2025-09-29,US,STO01,2,24.99,0.15,New,Paid search
+Shopify,N01985,2,2025-09-29,US,BED02,1,59.99,0,New,Paid search
+Shopify,N01986,1,2025-09-29,DE,KIT01,3,59.99,0.15,Returning,Email
+Shopify,N01987,1,2025-09-29,CA,KIT04,2,59.99,0.10,New,Marketplace
+Shopify,N01988,1,2025-09-29,UK,BED04,1,39.99,0,New,Email
+Shopify,N01989,1,2025-09-29,UK,STO02,2,79.99,0.10,New,Organic
+Shopify,N01990,1,2025-09-29,CA,KIT03,3,39.99,0.10,New,Organic
+Shopify,N01990,2,2025-09-29,CA,KIT02,2,24.99,0,New,Organic
+Shopify,N01991,1,2025-09-29,CA,STO02,1,59.99,0,New,Marketplace
+Amazon,N01992,1,2025-09-29,US,STO02,3,59.99,0.10,Returning,Marketplace
+Amazon,N01993,1,2025-09-29,US,LIG02,3,79.99,0.10,New,Organic
+Amazon,N01994,1,2025-09-29,DE,BED04,2,59.99,0.15,New,Organic
+Amazon,N01995,1,2025-09-29,DE,BED04,2,79.99,0,Returning,Email
+Amazon,N01996,1,2025-09-29,US,LIG04,1,59.99,0,New,Email
+Amazon,N01996,2,2025-09-29,US,STO03,1,14.99,0,New,Email
+Amazon,N01997,1,2025-09-29,DE,LIG03,1,59.99,0,Returning,Marketplace
+Amazon,N01997,2,2025-09-29,DE,KIT03,2,79.99,0.10,Returning,Marketplace
+Amazon,N01998,1,2025-09-29,US,KIT03,3,24.99,0,New,Direct
+Amazon,N01999,1,2025-09-29,DE,BED01,1,24.99,0.10,New,Marketplace
+Amazon,N02000,1,2025-09-29,CA,DEC03,2,14.99,0.15,New,Marketplace
+Amazon,N02000,2,2025-09-29,CA,DEC03,2,79.99,0.15,New,Marketplace
+Amazon,N02001,1,2025-09-29,US,KIT02,2,79.99,0.10,New,Direct
+Amazon,N02002,1,2025-09-29,US,STO03,1,24.99,0,New,Paid search
+Shopify,N02003,1,2025-09-30,CA,KIT04,1,24.99,0,New,Email
+Shopify,N02003,2,2025-09-30,CA,LIG02,1,24.99,0.15,New,Email
+Shopify,N02004,1,2025-09-30,US,DEC02,1,79.99,0.10,Returning,Direct
+Shopify,N02005,1,2025-09-30,DE,KIT02,1,24.99,0,New,Direct
+Shopify,N02006,1,2025-09-30,UK,DEC01,3,39.99,0,New,Email
+Shopify,N02007,1,2025-09-30,DE,DEC03,2,59.99,0.10,Returning,Organic
+Shopify,N02008,1,2025-09-30,US,STO03,3,24.99,0.15,New,Paid search
+Shopify,N02008,2,2025-09-30,US,BED02,3,79.99,0.15,New,Paid search
+Shopify,N02009,1,2025-09-30,DE,KIT01,2,24.99,0,Returning,Paid search
+Shopify,N02010,1,2025-09-30,CA,KIT03,2,39.99,0,Returning,Direct
+Shopify,N02011,1,2025-09-30,CA,STO03,3,39.99,0,New,Marketplace
+Shopify,N02011,2,2025-09-30,CA,BED03,1,79.99,0,New,Marketplace
+Shopify,N02012,1,2025-09-30,US,LIG02,3,39.99,0.15,New,Organic
+Shopify,N02013,1,2025-09-30,DE,DEC03,1,79.99,0,New,Marketplace
+Amazon,N02014,1,2025-09-30,US,KIT03,3,39.99,0,New,Direct
+Amazon,N02015,1,2025-09-30,DE,DEC01,2,14.99,0,New,Organic
+Amazon,N02015,2,2025-09-30,DE,BED01,1,59.99,0.15,New,Organic
+Amazon,N02016,1,2025-09-30,US,DEC04,2,59.99,0.15,Returning,Paid search
+Amazon,N02016,2,2025-09-30,US,BED01,2,24.99,0.10,Returning,Paid search
+Amazon,N02017,1,2025-09-30,UK,BED03,3,39.99,0.15,New,Direct
+Amazon,N02017,2,2025-09-30,UK,BED04,2,59.99,0,New,Direct
+Amazon,N02018,1,2025-09-30,UK,STO04,2,39.99,0.10,Returning,Paid search
+Amazon,N02018,2,2025-09-30,UK,KIT01,2,39.99,0.10,Returning,Paid search
+Amazon,N02019,1,2025-09-30,US,BED03,1,39.99,0.15,New,Email
+Amazon,N02020,1,2025-09-30,US,STO02,1,79.99,0.15,Returning,Marketplace
+Amazon,N02021,1,2025-09-30,CA,STO04,3,79.99,0,New,Organic
+Amazon,N02022,1,2025-09-30,US,DEC04,2,14.99,0,Returning,Direct
+Amazon,N02023,1,2025-09-30,US,BED02,2,79.99,0.15,Returning,Paid search
+Amazon,N02024,1,2025-09-30,UK,BED03,2,59.99,0,Returning,Organic

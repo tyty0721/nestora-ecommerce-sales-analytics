@@ -1,0 +1,182 @@
+[
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "2",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00012\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"LIG03\", \"Qty\": \"2\", \"Unit price\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Organic\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00012\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"LIG03\", \"quantity\": \"2\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Organic\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "3",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00013\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \" us \", \"sku\": \"DEC04\", \"Qty\": \"3\", \"Unit price\": \"24.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00013\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"US\", \"sku\": \"DEC04\", \"quantity\": \"3\", \"unit_price_usd\": \"24.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "4",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00014\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \"UK\", \"sku\": \"BED04\", \"Qty\": \"1\", \"Unit price\": \"24.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00014\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"UK\", \"sku\": \"BED04\", \"quantity\": \"1\", \"unit_price_usd\": \"24.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "5",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00014\", \"line_id\": \"2\", \"Date\": \"2025-07-01\", \"country\": \"UK\", \"sku\": \"STO03\", \"Qty\": \"2\", \"Unit price\": \"$79.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00014\", \"line_id\": \"2\", \"order_date\": \"2025-07-01\", \"country\": \"UK\", \"sku\": \"STO03\", \"quantity\": \"2\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "6",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00015\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"DEC01\", \"Qty\": \"3\", \"Unit price\": \"14.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Paid search\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00015\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"DEC01\", \"quantity\": \"3\", \"unit_price_usd\": \"14.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Paid search\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "7",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00015\", \"line_id\": \"2\", \"Date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"LIG04\", \"Qty\": \"2\", \"Unit price\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Paid search\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00015\", \"line_id\": \"2\", \"order_date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"LIG04\", \"quantity\": \"2\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Paid search\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "8",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00016\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \"US\", \"sku\": \"KIT03\", \"Qty\": \"3\", \"Unit price\": \"39.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00016\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"US\", \"sku\": \"KIT03\", \"quantity\": \"3\", \"unit_price_usd\": \"39.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "9",
+    "status": "retained",
+    "reason": "valid",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00017\", \"line_id\": \"1\", \"Date\": \"2025/07/01\", \"country\": \"UK\", \"sku\": \"BED04\", \"Qty\": \"2\", \"Unit price\": \"59.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"Returning\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00017\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"UK\", \"sku\": \"BED04\", \"quantity\": \"2\", \"unit_price_usd\": \"59.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"Returning\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "447",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00153\", \"line_id\": \"1\", \"Date\": \"2025-07-07\", \"country\": \"UK\", \"sku\": \"DEC04\", \"Qty\": \"2\", \"Unit price\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Email\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00153\", \"line_id\": \"1\", \"order_date\": \"2025-07-07\", \"country\": \"UK\", \"sku\": \"DEC04\", \"quantity\": \"2\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Email\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "448",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00307\", \"line_id\": \"1\", \"Date\": \"2025-07-14\", \"country\": \"US\", \"sku\": \"KIT03\", \"Qty\": \"2\", \"Unit price\": \"59.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Paid search\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00307\", \"line_id\": \"1\", \"order_date\": \"2025-07-14\", \"country\": \"US\", \"sku\": \"KIT03\", \"quantity\": \"2\", \"unit_price_usd\": \"59.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Paid search\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "449",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00457\", \"line_id\": \"2\", \"Date\": \"2025-07-21\", \"country\": \"US\", \"sku\": \"DEC01\", \"Qty\": \"1\", \"Unit price\": \"79.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Organic\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00457\", \"line_id\": \"2\", \"order_date\": \"2025-07-21\", \"country\": \"US\", \"sku\": \"DEC01\", \"quantity\": \"1\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Organic\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "450",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00612\", \"line_id\": \"2\", \"Date\": \"2025-07-28\", \"country\": \"CA\", \"sku\": \"STO01\", \"Qty\": \"3\", \"Unit price\": \"24.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00612\", \"line_id\": \"2\", \"order_date\": \"2025-07-28\", \"country\": \"CA\", \"sku\": \"STO01\", \"quantity\": \"3\", \"unit_price_usd\": \"24.99\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-08.csv",
+    "row": "467",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00765\", \"line_id\": \"1\", \"Date\": \"2025-08-04\", \"country\": \"DE\", \"sku\": \"STO04\", \"Qty\": \"2\", \"Unit price\": \"14.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00765\", \"line_id\": \"1\", \"order_date\": \"2025-08-04\", \"country\": \"DE\", \"sku\": \"STO04\", \"quantity\": \"2\", \"unit_price_usd\": \"14.99\", \"discount_rate\": \"0\", \"customer_type\": \"Returning\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-08.csv",
+    "row": "468",
+    "status": "deduplicated",
+    "reason": "K01-exact-business-duplicate",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N01055\", \"line_id\": \"1\", \"Date\": \"2025-08-17\", \"country\": \"UK\", \"sku\": \"STO03\", \"Qty\": \"2\", \"Unit price\": \"39.99\", \"discount_rate\": \"0.10\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N01055\", \"line_id\": \"1\", \"order_date\": \"2025-08-17\", \"country\": \"UK\", \"sku\": \"STO03\", \"quantity\": \"2\", \"unit_price_usd\": \"39.99\", \"discount_rate\": \"0.1\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "16",
+    "status": "pending",
+    "reason": "J01-unknown-or-conflicted-SKU",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00022\", \"line_id\": \"1\", \"Date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"UNKNOWN\", \"Qty\": \"2\", \"Unit price\": \"24.99\", \"discount_rate\": \"0.10\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00022\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"UNKNOWN\", \"quantity\": \"2\", \"unit_price_usd\": \"24.99\", \"discount_rate\": \"0.1\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "17",
+    "status": "pending",
+    "reason": "O02-whole-order-excluded",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00022\", \"line_id\": \"2\", \"Date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"BED03\", \"Qty\": \"2\", \"Unit price\": \"79.99\", \"discount_rate\": \"0.10\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00022\", \"line_id\": \"2\", \"order_date\": \"2025-07-01\", \"country\": \"CA\", \"sku\": \"BED03\", \"quantity\": \"2\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0.1\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "20",
+    "status": "pending",
+    "reason": "V01-invalid_discount",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00036\", \"line_id\": \"1\", \"Date\": \"2025-07-02\", \"country\": \"US\", \"sku\": \"LIG04\", \"Qty\": \"2\", \"Unit price\": \"39.99\", \"discount_rate\": \"1.2\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00036\", \"line_id\": \"1\", \"order_date\": \"2025-07-02\", \"country\": \"US\", \"sku\": \"LIG04\", \"quantity\": \"2\", \"unit_price_usd\": \"39.99\", \"discount_rate\": \"1.2\", \"customer_type\": \"Returning\", \"traffic_source\": \"Marketplace\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "52",
+    "status": "pending",
+    "reason": "O02-whole-order-excluded",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00082\", \"line_id\": \"1\", \"Date\": \"2025-07-04\", \"country\": \"US\", \"sku\": \"LIG01\", \"Qty\": \"2\", \"Unit price\": \"59.99\", \"discount_rate\": \"0.10\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00082\", \"line_id\": \"1\", \"order_date\": \"2025-07-04\", \"country\": \"US\", \"sku\": \"LIG01\", \"quantity\": \"2\", \"unit_price_usd\": \"59.99\", \"discount_rate\": \"0.1\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "amazon-2025-07.csv",
+    "row": "53",
+    "status": "pending",
+    "reason": "V01-missing_amount",
+    "original": "{\"channel\": \"Amazon\", \"order_id\": \"N00082\", \"line_id\": \"2\", \"Date\": \"2025-07-04\", \"country\": \"US\", \"sku\": \"DEC03\", \"Qty\": \"1\", \"Unit price\": \"\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}",
+    "normalized": "{\"channel\": \"Amazon\", \"order_id\": \"N00082\", \"line_id\": \"2\", \"order_date\": \"2025-07-04\", \"country\": \"US\", \"sku\": \"DEC03\", \"quantity\": \"1\", \"unit_price_usd\": \"\", \"discount_rate\": \"0.15\", \"customer_type\": \"New\", \"traffic_source\": \"Direct\"}"
+  },
+  {
+    "kind": "orders",
+    "file": "shopify-2025-07.csv",
+    "row": "11",
+    "status": "pending",
+    "reason": "O02-whole-order-excluded",
+    "original": "{\"channel\": \"Shopify\", \"order_id\": \"N00008\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"US\", \"sku\": \"BED02\", \"quantity\": \"1\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}",
+    "normalized": "{\"channel\": \"Shopify\", \"order_id\": \"N00008\", \"line_id\": \"1\", \"order_date\": \"2025-07-01\", \"country\": \"US\", \"sku\": \"BED02\", \"quantity\": \"1\", \"unit_price_usd\": \"79.99\", \"discount_rate\": \"0\", \"customer_type\": \"New\", \"traffic_source\": \"Email\"}"
+  }
+]

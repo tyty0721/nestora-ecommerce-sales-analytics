@@ -1,0 +1,12 @@
+{
+  "title": "E-commerce Data Cleanup & Automated Sales Reporting",
+  "role": "Data cleaning, reporting and dashboard development (AI-assisted)",
+  "description": "Self-initiated project for a fictional homeware brand using synthetic data. Built a repeatable Python pipeline for six order exports, products and refunds: 2,691 valid lines, 2,016 orders, duplicates and conflicts traced by source row. Delivered clean CSV/XLSX, an offline dashboard with linked filters and CSV export, bilingual analysis and validation tests. Includes an October update example. No real client or business-performance claims.",
+  "skills": [
+    "Data Cleaning",
+    "Data Analysis",
+    "Python",
+    "Microsoft Excel",
+    "Data Visualization"
+  ]
+}

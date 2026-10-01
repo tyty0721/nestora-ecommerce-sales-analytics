@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+validation/recording-frames/
+validation/update-output/
+validation/workbook-*.png
+validation/fix-ui.py

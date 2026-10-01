@@ -1,0 +1,42 @@
+{
+  "duration_seconds": 70,
+  "fps": 12,
+  "source": "Actual Chromium browser screenshots captured every ~0.5 seconds during a scripted walkthrough. Resampled per scene. No generated product frames, real client results or voice-over.",
+  "scenes": [
+    [
+      89,
+      108,
+      "01  Original exports: anomalies remain traceable"
+    ],
+    [
+      0,
+      17,
+      "02  Cleaned results: consistent merchandise metrics"
+    ],
+    [
+      17,
+      35,
+      "03  Filters: Shopify, US and Bedding"
+    ],
+    [
+      35,
+      53,
+      "04  Quality: pending records and source values"
+    ],
+    [
+      53,
+      71,
+      "05  Details: inspect order lines and amounts"
+    ],
+    [
+      71,
+      89,
+      "06  Responsive report on a 375 px viewport"
+    ],
+    [
+      108,
+      126,
+      "07  New October batch: rerun the same processor"
+    ]
+  ]
+}

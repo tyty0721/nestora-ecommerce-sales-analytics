@@ -1,0 +1,114 @@
+{
+  "September": {
+    "sales_cents": 7601462,
+    "refund_cents": 237289,
+    "net_cents": 7364173,
+    "orders": 660,
+    "lines": 891,
+    "refunded_orders": 59,
+    "returning_orders": 208,
+    "aov_cents": 11517.366666666667,
+    "refund_rate": 0.0893939393939394,
+    "returning_share": 0.3151515151515151
+  },
+  "August": {
+    "sales_cents": 7542829,
+    "refund_cents": 255577,
+    "net_cents": 7287252,
+    "orders": 682,
+    "lines": 922,
+    "refunded_orders": 65,
+    "returning_orders": 269,
+    "aov_cents": 11059.866568914957,
+    "refund_rate": 0.09530791788856305,
+    "returning_share": 0.3944281524926686
+  },
+  "September_categories": {
+    "Kitchen": {
+      "sales_cents": 1598520,
+      "refund_cents": 55590,
+      "net_cents": 1542930,
+      "orders": 174,
+      "lines": 188,
+      "refunded_orders": 14,
+      "returning_orders": 51,
+      "aov_cents": 9186.896551724138,
+      "refund_rate": 0.08045977011494253,
+      "returning_share": 0.29310344827586204
+    },
+    "Bedding": {
+      "sales_cents": 1529787,
+      "refund_cents": 33694,
+      "net_cents": 1496093,
+      "orders": 164,
+      "lines": 175,
+      "refunded_orders": 7,
+      "returning_orders": 44,
+      "aov_cents": 9327.969512195123,
+      "refund_rate": 0.042682926829268296,
+      "returning_share": 0.2682926829268293
+    },
+    "Lighting": {
+      "sales_cents": 1436431,
+      "refund_cents": 26324,
+      "net_cents": 1410107,
+      "orders": 167,
+      "lines": 174,
+      "refunded_orders": 8,
+      "returning_orders": 47,
+      "aov_cents": 8601.383233532933,
+      "refund_rate": 0.04790419161676647,
+      "returning_share": 0.281437125748503
+    },
+    "Storage": {
+      "sales_cents": 1522107,
+      "refund_cents": 46343,
+      "net_cents": 1475764,
+      "orders": 176,
+      "lines": 180,
+      "refunded_orders": 14,
+      "returning_orders": 60,
+      "aov_cents": 8648.335227272728,
+      "refund_rate": 0.07954545454545454,
+      "returning_share": 0.3409090909090909
+    },
+    "Decor": {
+      "sales_cents": 1514617,
+      "refund_cents": 75338,
+      "net_cents": 1439279,
+      "orders": 164,
+      "lines": 174,
+      "refunded_orders": 16,
+      "returning_orders": 56,
+      "aov_cents": 9235.469512195123,
+      "refund_rate": 0.0975609756097561,
+      "returning_share": 0.34146341463414637
+    }
+  },
+  "September_channels": {
+    "Shopify": {
+      "sales_cents": 3878909,
+      "refund_cents": 99348,
+      "net_cents": 3779561,
+      "orders": 330,
+      "lines": 445,
+      "refunded_orders": 26,
+      "returning_orders": 102,
+      "aov_cents": 11754.269696969697,
+      "refund_rate": 0.07878787878787878,
+      "returning_share": 0.3090909090909091
+    },
+    "Amazon": {
+      "sales_cents": 3722553,
+      "refund_cents": 137941,
+      "net_cents": 3584612,
+      "orders": 330,
+      "lines": 446,
+      "refunded_orders": 33,
+      "returning_orders": 106,
+      "aov_cents": 11280.463636363636,
+      "refund_rate": 0.1,
+      "returning_share": 0.3212121212121212
+    }
+  }
+}

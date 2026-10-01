@@ -1,0 +1,12 @@
+{
+  "sales_cents": 22363992,
+  "refund_cents": 679787,
+  "net_cents": 21684205,
+  "orders": 2016,
+  "lines": 2691,
+  "refunded_orders": 173,
+  "returning_orders": 702,
+  "aov_cents": 11093.25,
+  "refund_rate": 0.08581349206349206,
+  "returning_share": 0.3482142857142857
+}
